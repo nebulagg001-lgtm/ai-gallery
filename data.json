@@ -10,97 +10,107 @@
     "title": "Waitomo Glowworm Caves at Midnight – New Zealand",
     "prompt": "A breathtaking underground cave system in Waitomo, New Zealand, photographed at midnight. The cave ceiling is blanketed with thousands of tiny bioluminescent glowworms (Arachnocampa luminosa), casting an ethereal, deep blue-cyan glow across the still dark water below, creating a perfect mirror reflection of the starlike ceiling. Ancient limestone formations — stalactites and flowstones — are softly lit in cool blue and teal tones. A small wooden boat drifts silently through the subterranean river, adding scale to the immense cavern. The atmosphere is magical, otherworldly, and serene. Ultra-detailed, photorealistic, long-exposure photography aesthetic, deep blacks, glowing cyan bioluminescence, perfectly still reflective water.",
     "image": "images/waitomo-glowworm-caves-at-midnight-new-zealand.png",
-    "timestamp": "2026-03-05T02:09:00+08:00"
+    "timestamp": "2026-03-05T02:09:00+08:00",
+    "category": "Scenery"
   },
   {
     "title": "Antelope Canyon Light Beams at Noon – Arizona",
     "filename": "antelope-canyon-light-beams-at-noon-arizona.png",
     "prompt": "A breathtaking photorealistic wide-angle shot deep inside Upper Antelope Canyon, Arizona. Razor-thin shafts of golden noon sunlight pierce through narrow sandstone slot canyon walls, illuminating swirling dust particles in dramatic beams. The undulating, wave-like orange and crimson sandstone walls glow with rich warm hues. The canyon floor is bathed in soft ambient light. 16:9 cinematic format, ultra-high detail, 2K resolution.",
     "timestamp": "2026-03-04T19:04:12Z",
-    "location": "Arizona, USA"
+    "location": "Arizona, USA",
+    "category": "Scenery"
   },
   {
     "title": "Antelope Canyon Light Beams Hip Tilt Smirk",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level — one hand resting on her hip, the other lightly touching her hair near her temple. Her expression is a cool, confident smirk. Above her, razor-thin shafts of golden sunlight pierce through the narrow slot canyon, illuminating swirling dust in dramatic beams. She wears a flowing sand-toned linen outfit that echoes the warm orange and crimson hues glowing from the canyon walls. Shot on a 50mm lens, cinematic depth, high contrast between warm glowing sandstone and soft shadows, ultra-detailed, breathtaking and editorial vibe.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/antelope-canyon-light-beams-hip-tilt-smirk-20260304.png",
-    "date": "2026-03-04T19:09:00+08:00",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level — one hand resting on her hip, the other lightly touching her hair near her temple. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk. Razor-thin shafts of golden noon sunlight pierce through the narrow slot canyon above, casting dramatic light beams through the swirling dust particles and illuminating her face and silhouette with warm, glowing tones. The orange and crimson sandstone walls undulate in smooth waves around her. Shot on a 50mm lens, editorial lighting with natural canyon light, deep shadows and glowing highlights, ultra-high detail, photorealistic, cinematic composition.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/antelope-canyon-hip-tilt-smirk-20260304.png",
+    "date": "2026-03-04T02:48:00",
     "category": "Pose"
   },
   {
-    "title": "Cafe Lean Confident Smirk 3q",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features leans casually against the frame of a sun-drenched European-style café window. Shot from a 3/4 angle (slightly below eye level), she rests one hand on her hip and the other lightly touches the window sill near her side. She wears a chic, tailored linen blazer in soft cream tones. Her expression is a cool, confident smirk — effortlessly stylish and commanding. Warm morning light floods the scene, casting soft golden tones and gentle shadows. The blurred café interior and cobblestone street outside add depth and ambiance. Shot on a 50mm lens, vogue-style editorial aesthetic, natural lighting, film grain texture.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/cafe-lean-confident-smirk-3q-20260304.png",
-    "date": "2026-03-04T08:18:00+08:00",
-    "category": "Pose"
+    "title": "Socotra Dragon Blood Trees at Crimson Dusk",
+    "prompt": "A surreal, photorealistic ultra-wide landscape of Socotra Island, Yemen, at crimson dusk. The foreground is dotted with iconic Dragon Blood Trees (Dracaena cinnabari) — their distinctive umbrella-shaped canopies silhouetted against a glowing crimson and amber sky. The twisted, ancient trunks stand on rolling hills of pale limestone and sparse desert grasses. The Indian Ocean glimmers faintly on the distant horizon. Deep red and gold clouds streak the sky as the last light fades. The scene is otherworldly, ancient, and isolated. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "socotra-dragon-blood-trees-at-crimson-dusk.png",
+    "timestamp": "2026-03-05T03:09:00+08:00",
+    "category": "Scenery"
   },
   {
-    "title": "Staircase Stretch Side Serene",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features stands elegantly on a modern outdoor stone staircase in soft late-afternoon light. She is captured from the side at eye level, one arm stretched gracefully upward along the smooth stone handrail, the other resting gently at her waist. Her posture is poised and elongated, head tilted slightly back, eyes closed, expression serene and peaceful. She wears a flowing pastel blue sundress that catches the gentle breeze. The background features soft-focus urban greenery and warm architectural tones. Shot on a 50mm lens, editorial fashion style, natural warm lighting, dreamy bokeh, refined and tranquil mood.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/staircase-stretch-side-serene-20260304.png",
-    "date": "2026-03-04T11:05:00+08:00",
-    "category": "Pose"
+    "title": "Salar de Uyuni Mirror Effect at Dawn – Bolivia",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Salar de Uyuni salt flats in Bolivia at dawn. The endless flat expanse is covered by a thin layer of water, creating a perfect mirror reflection of the pastel pink, lavender, and gold sky above. Wispy clouds stretch symmetrically across the water's surface. The horizon line disappears, creating an infinite, surreal effect. The first light of sunrise glows softly on the distant Andes mountains. The scene is serene, dreamlike, and otherworldly. Photorealistic, ultra-high detail, cinematic scale, no people.",
+    "filename": "salar-de-uyuni-mirror-effect-at-dawn-bolivia.png",
+    "timestamp": "2026-03-04T18:49:00+08:00",
+    "category": "Scenery"
   },
   {
-    "title": "Beach Jump Arms Out Low Angle",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features jumps joyfully on a pristine sandy beach at golden hour, arms flung wide open to her sides. Shot from a dramatic low angle looking up, her full body is framed against a vibrant pastel sky painted in soft pinks, oranges, and purples. Her expression is radiant, playful, and free — eyes sparkling with genuine joy. She wears a light, airy white sundress that flows and lifts in motion. The golden sunlight creates a soft halo effect around her silhouette. Shot on a 35mm lens, shallow depth of field, cinematic color grading, warm and uplifting mood.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/beach-jump-arms-out-low-angle-20260304.png",
-    "date": "2026-03-04T14:04:00+08:00",
-    "category": "Pose"
+    "title": "Mangystau White Cliffs at Dusk – Kazakhstan",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Mangystau white chalk cliffs in Kazakhstan at dusk. The dramatic, wind-eroded limestone formations rise sharply from the barren steppe, their layered white and cream-colored surfaces glowing softly in the golden-hour light. Deep shadows carve dramatic lines into the cliffs. The foreground features cracked earth and sparse desert vegetation. The sky is painted in warm amber, pink, and violet tones as the sun sets on the horizon. The scene is vast, ancient, and hauntingly beautiful. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "mangystau-white-cliffs-at-dusk-kazakhstan.jpeg",
+    "timestamp": "2026-03-04T17:55:00+08:00",
+    "category": "Scenery"
   },
   {
-    "title": "Studio Kneel Arms Behind Playful",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features kneels gracefully on a smooth white studio floor in soft, even studio lighting. She sits back on her heels with both arms relaxed behind her, palms resting lightly on the floor for support. Her posture is open, relaxed, and inviting. Her expression is playful and warm — a soft, genuine smile with a hint of mischief in her eyes. She wears a minimalist white tank top and light denim shorts. The background is a clean, seamless white backdrop. Shot on a 50mm lens, commercial portrait style, bright and airy aesthetic, soft shadows, refined and approachable mood.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/studio-kneel-arms-behind-playful-20260304.png",
-    "date": "2026-03-04T17:04:00+08:00",
-    "category": "Pose"
+    "title": "Zhangye Danxia Landform at Twilight – Gansu, China",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Zhangye Danxia National Geological Park in Gansu, China, at twilight. The surreal, rainbow-striped sandstone mountains glow with vivid bands of red, orange, yellow, green, and purple, shaped by millions of years of mineral deposits and erosion. The undulating ridges and peaks create a dramatic, otherworldly terrain. The sky is painted in soft twilight hues of deep blue, pink, and gold. The scene is vibrant, surreal, and awe-inspiring. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "zhangye-danxia-landform-at-twilight-gansu-china.jpeg",
+    "timestamp": "2026-03-04T16:59:00+08:00",
+    "category": "Scenery"
   },
   {
-    "title": "Rooftop Run Arms Behind High Angle",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features runs gracefully along a modern rooftop terrace at dusk, the city skyline glowing softly in the background. Shot from a high angle looking down, her full body is captured mid-stride with both arms flowing naturally behind her, creating a sense of movement and freedom. Her expression is confident, focused, and exhilarated. She wears sleek athletic-wear in muted tones — a fitted top and high-waisted leggings. The warm golden-hour light casts long shadows and bathes the scene in soft amber and purple hues. Shot on a 35mm lens, cinematic depth of field, dynamic composition, urban elegance with an energetic, inspiring mood.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/rooftop-run-arms-behind-high-angle-20260304.png",
-    "date": "2026-03-04T20:09:00+08:00",
-    "category": "Pose"
+    "title": "Ennedi Massif at Golden Hour – Chad",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Ennedi Massif in northeastern Chad at golden hour. Towering sandstone rock formations, sculpted by wind and time, rise dramatically from the Sahara Desert floor. The ancient arches, pillars, and plateaus are bathed in warm amber and gold light, casting long, deep shadows across the desert sand. Ancient rock art (petroglyphs) is faintly visible on some surfaces. Sparse desert vegetation dots the sandy foreground. The sky is clear, painted in warm orange and pink tones. The scene is vast, timeless, and hauntingly beautiful. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "ennedi-massif-at-golden-hour-chad.png",
+    "timestamp": "2026-03-04T16:03:00+08:00",
+    "category": "Scenery"
   },
   {
-    "title": "Forest Floor Recline Serene",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features reclines gracefully on the soft moss-covered forest floor in a sun-dappled woodland clearing. She lies on her side, propped up on one elbow, her body forming a gentle S-curve. Her other arm rests naturally along her waist. Her posture is relaxed and natural, as if she's part of the serene forest landscape. Her expression is calm, peaceful, and contemplative — eyes gently gazing toward the soft light filtering through the canopy above. She wears a flowing earth-toned linen dress in muted greens and browns that blend harmoniously with the natural surroundings. Shot from eye level at a low angle, 50mm lens, shallow depth of field, soft natural lighting with golden-green tones, ethereal and tranquil mood.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/forest-floor-recline-serene-20260304.png",
-    "date": "2026-03-04T23:04:00+08:00",
-    "category": "Pose"
+    "title": "Putorana Plateau at Midnight Sun – Siberia",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Putorana Plateau in northern Siberia, Russia, during the midnight sun in summer. The vast, rugged plateau is covered with deep basalt canyons, glacial lakes, and cascading waterfalls. The sun hovers just above the horizon, casting a soft golden-pink glow across the landscape. The still lake in the foreground reflects the sky and surrounding cliffs perfectly. Sparse tundra vegetation and lichen-covered rocks add texture. The atmosphere is serene, remote, and otherworldly. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "putorana-plateau-at-midnight-sun-siberia.png",
+    "timestamp": "2026-03-04T15:07:00+08:00",
+    "category": "Scenery"
   },
   {
-    "title": "Garden Wall Lean Arms Crossed Soft Smile",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features leans casually against a rustic stone garden wall bathed in soft morning sunlight. Shot from a 3/4 angle at eye level, she stands with her arms gently crossed in front of her waist, one ankle crossed over the other in a relaxed stance. Her expression is warm and approachable — a soft, genuine smile that radiates calm confidence. She wears a light, breezy cotton blouse in pastel tones tucked into high-waisted linen trousers. Lush greenery, climbing vines, and delicate flowers frame the background, slightly out of focus. Shot on a 50mm lens, natural light with warm golden tones, editorial garden portrait style, serene and effortlessly elegant mood.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/garden-wall-lean-arms-crossed-soft-smile-20260304.png",
-    "date": "2026-03-05T02:04:00+08:00",
-    "category": "Pose"
+    "title": "Hoh Xil at Dawn – Tibet's Third Pole",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Hoh Xil (Kekexili) nature reserve on the Tibetan Plateau at dawn. The vast, barren high-altitude grasslands stretch endlessly under a pastel pink and gold sky. Snow-capped mountain peaks rise in the distant horizon. A shallow, glassy lake in the foreground reflects the sky and mountains perfectly. Wild Tibetan antelopes (chiru) graze peacefully in the middle distance. The scene is remote, pristine, and hauntingly beautiful. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "hoh-xil-at-dawn-tibets-third-pole.png",
+    "timestamp": "2026-03-04T14:11:00+08:00",
+    "category": "Scenery"
   },
   {
-    "title": "Flower Field Walk Low Angle",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features walks gracefully through a vast, vibrant flower field at golden hour. Shot from a dramatic low angle looking up, her full body is framed against an expansive sky painted in soft pastel pinks and warm oranges. She moves naturally, one arm swinging gently at her side, the other lightly brushing the tops of the wildflowers as she walks. Her expression is serene, reflective, and free — eyes gazing into the distance with a soft smile. She wears a flowing white maxi dress that sways with her movement. The warm sunlight creates a soft glow around her silhouette. Shot on a 35mm lens, cinematic color grading, shallow depth of field, dreamy and uplifting mood.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/flower-field-walk-low-angle-20260304.png",
-    "date": "2026-03-05T05:04:00+08:00",
-    "category": "Pose"
+    "title": "Tien Shan Celestial Peaks at Blue Hour – Kyrgyzstan",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Tien Shan mountain range in Kyrgyzstan at blue hour. The towering snow-capped peaks glow softly in deep blue and violet twilight tones, with the last traces of pink and gold light kissing the highest summits. A pristine alpine lake in the foreground reflects the peaks and sky perfectly. The surrounding slopes are dotted with sparse evergreen trees and rocky terrain. The scene is majestic, serene, and remote. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "tien-shan-celestial-peaks-at-blue-hour-kyrgyzstan.jpeg",
+    "timestamp": "2026-03-04T13:15:00+08:00",
+    "category": "Scenery"
   },
   {
-    "title": "Sunlit Terrace Lean Back Dreamy",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features leans back gracefully against the wooden railing of a sunlit Mediterranean-style terrace overlooking the sea. Shot from a 3/4 angle at eye level, she rests both hands behind her on the railing, her posture open and relaxed, head tilted slightly to the side. Her expression is dreamy, peaceful, and content — eyes softly gazing toward the horizon with a gentle, serene smile. She wears a light, breezy linen dress in soft cream tones. The warm afternoon sunlight bathes the scene in golden hues, and the blurred background features whitewashed architecture and the shimmering blue ocean. Shot on a 50mm lens, natural warm lighting, editorial travel portrait style, tranquil and effortlessly elegant mood.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/sunlit-terrace-lean-back-dreamy-20260305.png",
-    "date": "2026-03-05T08:04:00+08:00",
-    "category": "Pose"
+    "title": "Ulakhan-Sis Stone Pillars at Arctic Dusk – Yakutia",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Ulakhan-Sis stone pillars (Lena Pillars) in Yakutia, Siberia, Russia, at Arctic dusk. Towering vertical rock formations of Cambrian-era limestone rise dramatically along the Lena River, their ancient layered surfaces glowing softly in the deep blue and violet twilight. The river below reflects the pillars and the fading sky. Sparse taiga forest lines the riverbanks. The scene is vast, ancient, and hauntingly beautiful. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "ulakhan-sis-stone-pillars-at-arctic-dusk-yakutia.jpeg",
+    "timestamp": "2026-03-04T12:19:00+08:00",
+    "category": "Scenery"
   },
   {
-    "title": "Urban Steps Sit Knees Up Film Grain",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features sits casually on a set of weathered urban concrete steps in soft overcast daylight. She sits with her knees drawn up slightly, arms wrapped loosely around her legs, one hand resting near her ankle. Her posture is relaxed, intimate, and introspective. Her expression is calm, thoughtful, and quietly confident — eyes gazing softly into the distance with a subtle, gentle smile. She wears a simple oversized knit sweater in muted earth tones and fitted jeans. The background features blurred urban textures — brick walls, street art, and soft diffused light. Shot on a 50mm lens, natural light with subtle shadows, film grain texture, moody yet warm, editorial street-style aesthetic.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/urban-steps-sit-knees-up-film-grain-20260305.png",
-    "date": "2026-03-05T11:04:00+08:00",
-    "category": "Pose"
+    "title": "Cordillera Sarmiento at First Light – Chilean Patagonia",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Cordillera Sarmiento mountain range in Chilean Patagonia at first light. The jagged, snow-covered granite peaks pierce the sky, glowing softly in pastel pink and gold tones as the sun rises. A pristine glacial fjord in the foreground reflects the mountains and sky perfectly. Sparse Patagonian beech trees line the rocky shores. The scene is dramatic, remote, and pristine. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "cordillera-sarmiento-at-first-light-chilean-patagonia.jpeg",
+    "timestamp": "2026-03-04T11:23:00+08:00",
+    "category": "Scenery"
   },
   {
-    "title": "Misty-Forest-Arms-Wide-Low-Angle",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features stands in a misty ancient forest at dawn, arms stretched wide open to the sides as if embracing the atmosphere, head tilted back slightly with eyes closed and a serene, blissful expression. Shot from a dramatic low angle looking up, full body framed against towering moss-covered trees disappearing into soft morning fog, golden-hour light filtering through the canopy. She wears a flowing white dress that catches the gentle breeze. Fine art portrait style, 35mm lens, deep green tones, ethereal bokeh background, cinematic mist diffusion, breathtaking and otherworldly mood.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/misty-forest-arms-wide-low-angle-20260305.png",
-    "date": "2026-03-05T05:04:00+08:00",
-    "category": "Pose"
+    "id": 381,
+    "title": "Northeast Greenland Ice Fjord Under Nacreous Clouds at Polar Twilight",
+    "prompt": "A breathtaking ultra-wide landscape of Northeast Greenland's ice fjord at polar twilight — massive ancient glaciers calving into ink-dark Arctic waters, with towering icebergs drifting silently. Above, rare nacreous (mother-of-pearl) polar stratospheric clouds fill the sky in iridescent pastel swirls of pink, violet, turquoise, and gold, glowing intensely as the sun sits just below the horizon. The frozen tundra shoreline is dusted with snow, and the clouds' vivid colors reflect off the glassy fjord surface. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "northeast-greenland-ice-fjord-nacreous-clouds-polar-twilight.jpeg",
+    "timestamp": "2026-03-05T04:09:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Polar Twilight Smirk on Greenland Ice Fjord",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands at the icy shoreline of Northeast Greenland's ice fjord at polar twilight, leaning confidently against a frost-covered basalt boulder with one hand on her hip and the other lightly touching her hair near her temple. She wears a sleek black high-fashion ensemble that contrasts dramatically against the glowing iridescent nacreous clouds swirling overhead in pastel pink, violet, and gold. The ink-dark Arctic water stretches behind her, massive ancient icebergs drifting silently in the distance as their pale surfaces catch the otherworldly cloud light. Her cool confident smirk commands the frame — shot from slightly below eye level at a 3/4 angle on a 50mm lens, with the nacreous cloud colors reflecting subtly on her face and the frozen tundra ground beneath her feet. Photorealistic, Vogue-style editorial lighting, epic cinematic scale, deep shadows with iridescent color pops.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/polar-twilight-smirk-greenland-ice-fjord-composite-20260305.png",
+    "date": "2026-03-05T05:00:00+08:00",
+    "category": "Composite"
   }
 ]
