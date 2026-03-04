@@ -1,5 +1,12 @@
 [
   {
+    "title": "Caño Cristales River of Five Colors – Wind-Tousled Dreamy",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands naturally on the ancient flat rock formations at the edge of Caño Cristales in Colombia's Sierra de la Macarena — the legendary river of five colors at peak bloom. She stands with one hand lightly touching her wind-tousled blonde hair and weight shifted to one hip, her dreamy contemplative expression perfectly matching the magical, surreal atmosphere of the river. Vivid crimson Macarenia clavigera aquatic plants carpet the riverbed behind her, swirling pools of electric blue, emerald green, golden yellow flowing around the rocks beneath her feet. The warm midday tropical light illuminates her softly, with the vivid river colors reflecting subtly on her figure. Shot from a slight low angle, full body, Vogue-style editorial lighting, photorealistic, cinematic composition.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/cano-cristales-river-five-colors-wind-tousled-dreamy-composite-20260305.png",
+    "date": "2026-03-05T06:00:00+08:00",
+    "category": "Composite"
+  },
+  {
     "title": "Neon Alley Hip Tilt Smirk",
     "prompt": "A young solo female model with long blonde hair and Korean facial features stands in a rain-slicked urban alley at night, bathed in vivid neon pink and blue light from surrounding signs. She leans confidently against a brick wall in a 3/4 angle from slightly below eye level, one hand resting on her hip, the other hand lightly touching her hair near her temple. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish. The neon reflections pool on the wet ground beneath her. Shot on a 50mm lens, vogue-style editorial lighting, deep shadows with saturated color pops.",
     "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/neon-alley-hip-tilt-smirk-20260304.png",
@@ -21,153 +28,37 @@
   },
   {
     "title": "Antelope Canyon Light Beams Hip Tilt Smirk",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level — one hand resting on her hip, the other lightly touching her swept blonde hair near her temple. She wears a clean, modern white blouse that contrasts with the orange-red walls. Sharp dramatic shafts of midday sunlight pierce down from above, creating dancing beams of visible dust across the frame. Her expression is a cool, confident smirk — effortlessly stylish, understated and commanding. The walls glow in saturated orange-crimson hues. Shot on a 50mm lens, full cinematic lighting, fashion editorial style, professional depth of field.",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level — one hand resting on her hip, the other lightly touching her hair near her temple. She wears a flowing bohemian-chic outfit in soft earth tones (cream, terracotta, burnt orange) that complements the canyon's natural palette. Her expression is a cool, confident smirk — commanding yet effortlessly natural. Razor-thin shafts of golden noon sunlight pierce through the narrow slot canyon above, illuminating swirling dust particles in dramatic light beams that frame her figure. The undulating orange and crimson sandstone walls glow with rich warm tones, creating a magical, sculptural backdrop. Shot on a 50mm lens, vogue-style editorial lighting with natural directional canyon light, ultra-high detail, cinematic composition.",
     "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/antelope-canyon-light-beams-hip-tilt-smirk-20260304.png",
-    "date": "2026-03-04T02:49:00",
+    "date": "2026-03-04T19:04:12Z",
+    "category": "Composite"
+  },
+  {
+    "title": "Polar Twilight Smirk",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands on the frozen Arctic tundra during the blue hour twilight in Greenland. She wears a luxurious white fur-lined parka (hood down) and fitted winter pants, radiating effortless cold-weather elegance. She stands with one hand lightly touching her windswept blonde hair and weight shifted to one hip, her cool confident smirk perfectly balancing approachability with editorial sophistication. Behind her, an expansive ice fjord stretches toward distant snow-capped peaks under a soft lavender-blue twilight sky. The light is ethereal and diffused, casting a soft glow on her features. Shot from a slight low angle, full body, Vogue-style editorial lighting, photorealistic, cinematic composition.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/polar-twilight-smirk-20260304.png",
+    "date": "2026-03-04T19:04:00Z",
     "category": "Pose"
   },
   {
-    "id": "cafe-lean-confident-smirk-3q-20260304",
-    "title": "Cafe Lean Confident Smirk 3Q",
-    "pose": "Leaning forward on cafe table with one elbow, other hand on hip, 3/4 view",
-    "scene": "Cozy cafe interior, warm afternoon light",
-    "mood": "Confident, relaxed, casual smirk",
-    "style": "Fashion editorial, natural lighting, creamy bokeh",
-    "angle": "Eye level straight-on, 3/4 pose",
-    "date": "2026-03-04",
-    "image": "images/cafe-lean-confident-smirk-3q-20260304.png",
-    "execution": 103
+    "title": "Polar Twilight Smirk Greenland Ice Fjord",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands on the frozen Arctic tundra during the blue hour twilight in Greenland. She wears a luxurious white fur-lined parka (hood down) and fitted winter pants, radiating effortless cold-weather elegance. She stands with one hand lightly touching her windswept blonde hair and weight shifted to one hip, her cool confident smirk perfectly balancing approachability with editorial sophistication. Behind her, an expansive ice fjord stretches toward distant snow-capped peaks under a soft lavender-blue twilight sky with vivid purple and pink aurora borealis dancing overhead. Massive floating icebergs in deep turquoise-blue water reflect the twilight colors. The light is ethereal and diffused, casting a soft glow on her features and illuminating the ice formations. Shot from a slight low angle, full body, Vogue-style editorial lighting, photorealistic, cinematic composition.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/polar-twilight-smirk-greenland-ice-fjord-composite-20260305.png",
+    "date": "2026-03-05T02:09:00+08:00",
+    "category": "Composite"
   },
   {
-    "id": "staircase-stretch-side-serene-20260304",
-    "title": "Staircase Stretch Side Serene",
-    "pose": "Sitting on staircase, one arm stretched up to railing, side view, head tilted up",
-    "scene": "Modern architecture, white marble stairs, cool shadowing, golden hour ambient light",
-    "mood": "Serene, peaceful, elegant",
-    "style": "Minimalist, architectural, warm golden tones, sharp light contrast",
-    "angle": "Side view, mid-level romantic composition",
-    "date": "2026-03-04",
-    "image": "images/staircase-stretch-side-serene-20260304.png",
-    "execution": 104
+    "title": "Waitomo Glowworm Caves Neon Alley Hip Tilt Smirk",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Waitomo Glowworm Caves in New Zealand at midnight. She leans with casual authority against an ancient limestone formation in a 3/4 angle shot from slightly below eye level — one hand resting on her hip, the other lightly touching her hair near her temple. She wears a sleek dark outfit that contrasts beautifully with the ethereal bioluminescent glow. Her expression is a cool, confident smirk — commanding yet effortlessly natural. The cave ceiling above and behind her is blanketed with thousands of tiny glowing Arachnocampa luminosa glowworms, casting a magical deep blue-cyan bioluminescent glow across the scene. The still dark water of the subterranean river reflects the starlike ceiling perfectly, creating a mirror effect. Stalactites and flowstones frame the composition in soft blue and teal tones. The atmosphere is otherworldly, serene, and enchanting. Shot on a 50mm lens, vogue-style editorial lighting combined with natural bioluminescence, ultra-high detail, long-exposure photography aesthetic.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/waitomo-glowworm-caves-neon-alley-hip-tilt-smirk-composite-20260305.png",
+    "date": "2026-03-05T02:09:00+08:00",
+    "category": "Composite"
   },
   {
-    "id": "beach-jump-arms-out-low-angle-20260304",
-    "title": "Beach Jump Arms Out Low Angle",
-    "pose": "Mid-air walking jump on beach, arms stretched out sideways, hair wind-blown, low angle shot",
-    "scene": "Sunny beach, crest of sand dune, blue sky, ocean in background",
-    "mood": "Free, joyful, energetic, carefree",
-    "style": "Natural lighting, vibrant colors, fresh summer energy",
-    "angle": "Low angle shot from below, capturing dynamic motion",
-    "date": "2026-03-04",
-    "image": "images/beach-jump-arms-out-low-angle-20260304.png",
-    "execution": 105
-  },
-  {
-    "id": "studio-kneel-arms-behind-playful-20260304",
-    "title": "Studio Kneel Arms Behind Playful",
-    "pose": "Kneeling on one knee, both hands behind back, body slightly arched, head tilted, playful eye contact",
-    "scene": "Clean white studio backdrop, minimal setup, soft diffused light",
-    "mood": "Playful, flirty, confident",
-    "style": "Fashion editorial, soft studio lighting, high-key balance",
-    "angle": "Slightly above eye level, medium shot",
-    "date": "2026-03-04",
-    "image": "images/studio-kneel-arms-behind-playful-20260304.png",
-    "execution": 106
-  },
-  {
-    "id": "rooftop-run-arms-behind-high-angle-20260304",
-    "title": "Rooftop Run Arms Behind High Angle",
-    "pose": "Running/walking swiftly on rooftop, arms held behind back, leaning slightly forward, hair flowing backward",
-    "scene": "Urban rooftop, evening blue hour, city lights in background",
-    "mood": "Dynamic, free, carefree, energetic",
-    "style": "Urban aesthetic, deep blue tones, atmospheric mood",
-    "angle": "High angle, shot from above",
-    "date": "2026-03-04",
-    "image": "images/rooftop-run-arms-behind-high-angle-20260304.png",
-    "execution": 107
-  },
-  {
-    "id": "forest-floor-recline-serene-20260304",
-    "title": "Forest Floor Recline Serene",
-    "pose": "Recumbent on forest floor, propped up on one elbow, one leg bent, other stretched, hand touching grass",
-    "scene": "Mossy forest floor, soft filtered sunlight through trees, green ambient light",
-    "mood": "Serene, dreamy, romantic, peaceful",
-    "style": "Nature fine art, soft green tones, film grain",
-    "angle": "Ground level shot, side angle",
-    "date": "2026-03-04",
-    "image": "images/forest-floor-recline-serene-20260304.png",
-    "execution": 108
-  },
-  {
-    "id": "garden-wall-lean-arms-crossed-soft-smile-20260304",
-    "title": "Garden Wall Lean Arms Crossed Soft Smile",
-    "pose": "Leaning sideways against old stone garden wall, arms crossed over chest, one leg crossed over other, head tilted slightly, soft gentle smile",
-    "scene": "Green garden, ancient stone wall, ivy creeping on surface, golden hour light",
-    "mood": "Calm, gentle, warm, approachable, soft",
-    "style": "Natural golden hour lighting, film grain, warm tones, layered textures, soft focus",
-    "angle": "Eye-level, slight 3/4 angle, medium shot",
-    "date": "2026-03-04",
-    "image": "images/garden-wall-lean-arms-crossed-soft-smile-20260304.png",
-    "execution": 109
-  },
-  {
-    "id": "flower-field-walk-low-angle-20260304",
-    "title": "Flower Field Walk Low Angle",
-    "pose": "Walking through tall flowers, one hand lightly grazing bloom tops, side profile, head tilted down looking at flowers, serene expression",
-    "scene": "Vibrant flower field, lavender or wildflowers, golden hour sunlight, open sky",
-    "mood": "Pacified, contemplative, blissful, freedom",
-    "style": "Natural lighting, vibrant purple and golden tones, shallow depth of field, ethereal bloom",
-    "angle": "Low angle shot from ground level, wide medium shot",
-    "date": "2026-03-04",
-    "image": "images/flower-field-walk-low-angle-20260304.png",
-    "execution": 110
-  },
-  {
-    "id": "sunlit-terrace-lean-back-dreamy-20260304",
-    "title": "Sunlit Terrace Lean Back Dreamy",
-    "pose": "Leaning backwards on terrace railing, both hands gripping rail behind her, head tilted back towards sun, eyes closed or looking up, full body bathed in sunlight",
-    "scene": "Modern outdoor terrace at golden hour, city skyline or horizon in background, warm evening light",
-    "mood": "Dreamy, blissful, free, soaking in light",
-    "style": "Backlit, sun flare effect, golden warm tones, ethereal atmosphere",
-    "angle": "Eye-level medium shot, slight angle from front",
-    "date": "2026-03-04",
-    "image": "images/sunlit-terrace-lean-back-dreamy-20260304.png",
-    "execution": 111
-  },
-  {
-    "id": "urban-steps-sit-knees-up-film-grain-20260305",
-    "title": "Urban Steps Sit Knees Up Film Grain",
-    "pose": "Sitting on concrete steps, knees up and apart, one elbow resting on knee, chin in hand, other arm relaxed, slight head tilt, gaze away/nowhere",
-    "scene": "Empty urban public space, concrete steps, cloudy afternoon, soft diffused light, neutral grey-blue ambient",
-    "mood": "Introspective, quiet, somber, contemplative, melancholy",
-    "style": "Street documentary, moody aesthetic, film grain, cool muted palette, understated lighting",
-    "angle": "E-level, slight frontal offset, medium-close",
-    "date": "2026-03-05",
-    "image": "images/urban-steps-sit-knees-up-film-grain-20260305.png",
-    "execution": 112
-  },
-  {
-    "id": "misty-forest-arms-wide-low-angle-20260305",
-    "title": "Misty Forest Arms Wide Low Angle",
-    "pose": "Standing in mist, both arms stretched out wide sideways, head tilted up, eyes closed, full body embrace of nature, serene expression",
-    "scene": "Dense misty forest, ancient tree trunks, diffused morning light, soft green-gray haze",
-    "mood": "Spiritual, free, peaceful, open-hearted",
-    "style": "Atmospheric nature portrait, soft diffused lighting, cool tones, misty ethereal, film grain",
-    "angle": "Low angle shot from ground level, wide shot",
-    "date": "2026-03-05",
-    "image": "images/misty-forest-arms-wide-low-angle-20260305.png",
-    "execution": 113
-  },
-  {
-    "id": "cobblestone-bridge-stand-wind-tousled-dreamy-20260305",
-    "title": "Cobblestone Bridge Stand Wind Tousled Dreamy",
-    "pose": "Standing at rustic stone bridge railing, one hand on stone, other touching wind-tousled hair, slight body turn, weight on one hip",
-    "scene": "Rustic stone bridge over quiet stream, golden hour light",
-    "mood": "Dreamy, romantic, soft, contemplative",
-    "style": "Film grain, warm golden tones, shallow depth of field, fine art portrait",
-    "angle": "Medium shot, slight low angle",
-    "date": "2026-03-05",
-    "image": "images/cobblestone-bridge-stand-wind-tousled-dreamy-20260305.png",
-    "execution": 120
+    "title": "Antelope Canyon Light Beams Hip Tilt Smirk",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level — one hand resting on her hip, the other lightly touching her hair near her temple. She wears a flowing bohemian-chic outfit in soft earth tones (cream, terracotta, burnt orange) that complements the canyon's natural palette. Her expression is a cool, confident smirk — commanding yet effortlessly natural. Razor-thin shafts of golden noon sunlight pierce through the narrow slot canyon above, illuminating swirling dust particles in dramatic light beams that frame her figure. The undulating orange and crimson sandstone walls glow with rich warm tones, creating a magical, sculptural backdrop. Shot on a 50mm lens, vogue-style editorial lighting with natural directional canyon light, ultra-high detail, cinematic composition.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/antelope-canyon-light-beams-hip-tilt-smirk-composite-20260305.png",
+    "date": "2026-03-05T06:00:00+08:00",
+    "category": "Composite"
   }
 ]
