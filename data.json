@@ -107,11 +107,40 @@
     "drive_folder_url": "https://drive.google.com/drive/folders/1-4-LaBNWOnsFwKQQaCzZIgUebBw80NvK?usp=sharing"
   },
   {
-    "id": 404,
-    "title": "Waitomo Glowworm Caves at Midnight — New Zealand",
-    "prompt": "Inside the Waitomo glowworm caves at midnight, New Zealand. Thousands of tiny bioluminescent glowworms (Arachnocampa luminosa) cling to the cavern ceiling, casting a mesmerizing blue-green starfield glow over the dark underground river below. A small wooden boat glides silently through the cave, its passengers looking up in awe at the living constellation above. The water reflects the glowing ceiling in perfect mirror symmetry. Dark, ancient limestone formations frame the scene. Photorealistic, ultra-wide cinematic shot, long exposure, deep shadows, magical atmosphere.",
-    "image_url": "https://i.ibb.co/N26SgBZz/waitomo-glowworm-caves-at-midnight-new-zealand.jpg",
-    "timestamp": "2026-03-05T20:01:01Z",
-    "execution": 404
+    "title": "Lencos Maranhenses Dunes at Midday Shimmer — Brazil",
+    "prompt": "Aerial perspective of Lencois Maranhenses National Park, Brazil — vast white sand dunes interspersed with crystal-clear turquoise and emerald freshwater lagoons shimmering under intense midday sun, heat haze rising from bleached sand, reflections of pure blue sky in still lagoon surfaces, remote and surreal landscape stretching to the horizon, shot with wide-angle lens, ultra-realistic photography style",
+    "image": "images/lencos-maranhenses-dunes-at-midday-shimmer-brazil.jpeg",
+    "image_url": "https://i.ibb.co/ycZZJBTs/lencos-maranhenses-dunes-at-midday-shimmer-brazil.jpg",
+    "timestamp": "2026-03-06T03:02:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "id": 144,
+    "title": "Santorini Caldera Sunset Neon Alley Hip Tilt Smirk Composite",
+    "category": "Composite",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands on a sun-drenched terrace in Santorini, Greece, at golden sunset, overlooking the iconic caldera. White-washed Cycladic buildings with vivid blue domes cascade down the volcanic cliffs behind her, and the Aegean Sea glows in warm amber and rose below. She stands in a 3/4 angle from slightly below eye level — one hand resting on her hip, the other lightly touching her hair near her temple. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish. Deep pink bougainvillea frames the terrace edge. Warm golden sunset light bathes the entire scene. Shot on a 50mm lens, Vogue-style editorial lighting, rich warm color palette, photorealistic, cinematic quality, ultra-high detail.",
+    "image_url": "https://i.ibb.co/tpmHkzqk/santorini-caldera-sunset-neon-alley-hip-tilt-smirk-composite-20260305-144.jpg",
+    "local_image": "images/santorini-caldera-sunset-neon-alley-hip-tilt-smirk-composite-20260305-144.jpeg",
+    "scenery": "Santorini Caldera Sunset — Greece",
+    "pose": "Neon Alley Hip Tilt Smirk",
+    "date": "2026-03-05T19:15:00.000+08:00",
+    "drive_url": "https://drive.google.com/file/d/1iR4FpLwfKWKxpmUd2vgP_-_YKWwr-PeS/view"
+  },
+  {
+    "id": 145,
+    "type": "composite",
+    "title": "Waitomo Glowworm Caves — Greenhouse Crouching Head Tilt",
+    "scenery": "Waitomo Glowworm Caves at Midnight, New Zealand",
+    "pose": "Sunlit Greenhouse Crouching Flowers Head Tilt Eyes Closed",
+    "description": "A young solo female model with long blonde hair and Korean facial features crouches gracefully on a smooth dark wet limestone ledge at the edge of the still underground river in the Waitomo Glowworm Caves, New Zealand. Her head is tilted upward with eyes closed in peaceful wonder, one hand trailing fingertips through the mirror-still water. Thousands of tiny blue-white bioluminescent glowworms on the cave ceiling cast an ethereal, magical glow across her face, hair, and flowing white silk dress. The cave ceiling is perfectly mirrored in the dark water below, creating a dreamlike symmetry. Deep midnight blues and electric teals fill the space.",
+    "style": "Photorealistic cinematic editorial — bioluminescent cool blue-teal tones, deep shadows, vogue-style, long-exposure aesthetic, National Geographic quality",
+    "filename": "waitomo-glowworm-caves-greenhouse-crouching-head-tilt-composite-20260305-145.jpeg",
+    "image_path": "images/waitomo-glowworm-caves-greenhouse-crouching-head-tilt-composite-20260305-145.jpeg",
+    "imgbb_url": "https://i.ibb.co/gMzZWPRb/32a5f7c80ef5.jpg",
+    "imgbb_display_url": "https://ibb.co/4ZPRSYVw",
+    "google_drive_url": "https://drive.google.com/file/d/1pQNw8KPAKPZ_oCWA9tqW-DekDPY4JmkX/view",
+    "google_drive_file_id": "1pQNw8KPAKPZ_oCWA9tqW-DekDPY4JmkX",
+    "generated_at": "2026-03-05 20:03 UTC",
+    "execution": 145
   }
 ]
