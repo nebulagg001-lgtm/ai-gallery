@@ -105,5 +105,14 @@
     "category": "Composite",
     "id": 141,
     "drive_folder_url": "https://drive.google.com/drive/folders/1-4-LaBNWOnsFwKQQaCzZIgUebBw80NvK?usp=sharing"
+  },
+  {
+    "id": 401,
+    "title": "Plitvice Lakes at Autumn Peak — Croatia",
+    "category": "Scenery",
+    "prompt": "Plitvice Lakes National Park in Croatia at autumn peak, series of cascading terraced lakes connected by rushing waterfalls tumbling over travertine barriers, water in vivid turquoise and emerald tones, surrounding forest ablaze with fiery orange, red, and gold autumn foliage perfectly reflected in the still upper lake surfaces, wooden boardwalks weave through the scene at water level, soft overcast diffused light bringing out rich saturated colors, ultra-detailed photorealistic landscape photography, award-winning composition, 8K resolution",
+    "image": "images/plitvice-lakes-at-autumn-peak-croatia.jpeg",
+    "image_url": "https://i.ibb.co/1YKNYhd3/plitvice-lakes-at-autumn-peak-croatia.jpg",
+    "generated_at": "2026-03-05T17:09:24Z"
   }
 ]
