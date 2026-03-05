@@ -36,129 +36,193 @@
     .card img { width: 100%; aspect-ratio: 1; object-fit: cover; display: block; background: #111; }
     .card-info { padding: 12px 14px; }
     .card-title { font-size: 0.9rem; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-    .card-meta { display: flex; justify-content: space-between; align-items: center; margin-top: 6px; }
-    .tag { font-size: 0.72rem; padding: 3px 10px; border-radius: 50px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
-    .tag-scenery { background: #0f3460; color: #38bdf8; }
-    .tag-pose { background: #2d1b4e; color: #a855f7; }
-    .tag-composite { background: #3d1a1a; color: #f97316; }
-    .card-date { font-size: 0.75rem; color: var(--muted); }
-    .empty { grid-column: 1 / -1; text-align: center; padding: 80px 20px; color: var(--muted); }
-    .empty svg { margin-bottom: 16px; opacity: 0.3; }
-    .empty p { font-size: 1.1rem; }
-    .lightbox { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.92); z-index: 1000; align-items: center; justify-content: center; padding: 20px; backdrop-filter: blur(8px); }
-    .lightbox.open { display: flex; }
-    .lb-inner { background: var(--surface); border-radius: 16px; max-width: 900px; width: 100%; max-height: 90vh; overflow-y: auto; display: flex; flex-direction: column; border: 1px solid #2a2a4a; animation: popIn 0.2s ease; }
-    @keyframes popIn { from { transform: scale(0.95); opacity: 0; } to { transform: scale(1); opacity: 1; } }
-    .lb-header { display: flex; justify-content: space-between; align-items: center; padding: 16px 20px; border-bottom: 1px solid #2a2a4a; }
-    .lb-title { font-size: 1.1rem; font-weight: 700; }
-    .lb-close { background: none; border: none; color: var(--muted); cursor: pointer; font-size: 1.5rem; line-height: 1; padding: 4px 8px; border-radius: 6px; transition: color 0.2s, background 0.2s; }
-    .lb-close:hover { color: var(--text); background: #ffffff10; }
-    .lb-image { width: 100%; max-height: 500px; object-fit: contain; background: #0d0d0d; }
-    .lb-body { padding: 20px; }
-    .lb-prompt-label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1px; color: var(--muted); margin-bottom: 8px; }
-    .lb-prompt { background: #0d0d0d; border: 1px solid #2a2a4a; border-radius: 8px; padding: 14px; font-size: 0.9rem; line-height: 1.6; color: #ccc; white-space: pre-wrap; }
-    .lb-actions { display: flex; gap: 10px; margin-top: 14px; flex-wrap: wrap; }
-    .btn-copy { display: flex; align-items: center; gap: 8px; padding: 10px 20px; background: var(--accent); color: #fff; border: none; border-radius: 8px; cursor: pointer; font-size: 0.9rem; font-weight: 600; transition: background 0.2s, transform 0.1s; }
-    .btn-copy:hover { background: #c73652; }
-    .btn-copy:active { transform: scale(0.97); }
-    .btn-copy.copied { background: #22c55e; }
-    .lb-meta { color: var(--muted); font-size: 0.82rem; margin-top: 10px; }
-    ::-webkit-scrollbar { width: 6px; }
-    ::-webkit-scrollbar-track { background: #111; }
-    ::-webkit-scrollbar-thumb { background: #333; border-radius: 3px; }
-    @media (max-width: 600px) { .lb-inner { border-radius: 12px; } .grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 10px; } }
+    .card-meta { display: flex; justify-content: space-between; margin-top: 6px; font-size: 0.8rem; color: var(--muted); }
+    .lightbox { position: fixed; inset: 0; background: rgba(0,0,0,0.94); z-index: 100; display: none; flex-direction: column; }
+    .lightbox.active { display: flex; }
+    .lightbox-header { padding: 16px 20px; background: rgba(26,26,46,0.8); backdrop-filter: blur(10px); display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #2a2a4a; }
+    .lightbox-close { background: none; border: none; color: var(--text); cursor: pointer; font-size: 2rem; line-height: 1; padding: 0; width: 32px; height: 32px; display: flex; align-items: center; justify-content: center; transition: color 0.2s; }
+    .lightbox-close:hover { color: var(--accent); }
+    .lightbox-body { flex: 1; display: flex; align-items: center; justify-content: center; padding: 20px; position: relative; overflow: hidden; }
+    .lightbox-img { max-width: 90%; max-height: 90%; object-fit: contain; border-radius: 8px; }
+    .lightbox-nav { position: absolute; top: 50%; transform: translateY(-50%); background: rgba(26,26,46,0.8); border: 1px solid #2a2a4a; border-radius: 50%; width: 48px; height: 48px; display: flex; align-items: center; justify-content: center; cursor: pointer; color: var(--text); font-size: 1.5rem; transition: all 0.2s; backdrop-filter: blur(10px); }
+    .lightbox-nav:hover { background: var(--accent); border-color: var(--accent); }
+    .lightbox-nav.prev { left: 20px; }
+    .lightbox-nav.next { right: 20px; }
+    .lightbox-info { padding: 20px; background: rgba(26,26,46,0.8); backdrop-filter: blur(10px); border-top: 1px solid #2a2a4a; }
+    .lightbox-title { font-size: 1.2rem; font-weight: 600; margin-bottom: 8px; }
+    .lightbox-prompt { color: var(--muted); font-size: 0.95rem; line-height: 1.5; }
+    .lightbox-meta { display: flex; gap: 24px; margin-top: 12px; font-size: 0.85rem; }
+    .lightbox-meta span { color: var(--muted); }
+    .lightbox-meta strong { color: var(--text); }
   </style>
 </head>
 <body>
   <header>
     <h1>Nebulalicious's Dream</h1>
-    <p>AI-generated worlds, one image at a time</p>
+    <p>AI-Generated Art Gallery</p>
   </header>
+
   <div class="controls">
     <div class="search-wrap">
-      <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-      <input type="text" id="searchInput" placeholder="Search by title or prompt..." />
+      <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><circle cx="8" cy="8" r="7"/><path d="M13 13l6 6"/></svg>
+      <input type="text" id="search" placeholder="Search by title or prompt..." />
     </div>
     <div class="filters">
-      <button class="filter-btn active" data-cat="all">All</button>
-      <button class="filter-btn" data-cat="scenery">Scenery</button>
-      <button class="filter-btn" data-cat="pose">Pose</button>
-      <button class="filter-btn" data-cat="composite">Composite</button>
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="scenery">Scenery</button>
+      <button class="filter-btn" data-filter="pose">Pose</button>
+      <button class="filter-btn" data-filter="composite">Composite</button>
     </div>
   </div>
-  <div class="stats" id="stats"></div>
-  <div class="grid" id="grid"></div>
+
+  <div class="stats" id="stats">Loading...</div>
+  <div class="grid" id="gallery"></div>
+
   <div class="lightbox" id="lightbox">
-    <div class="lb-inner">
-      <div class="lb-header">
-        <span class="lb-title" id="lbTitle"></span>
-        <button class="lb-close" id="lbClose">&#x2715;</button>
-      </div>
-      <img class="lb-image" id="lbImage" src="" alt="" />
-      <div class="lb-body">
-        <div class="lb-prompt-label">Prompt</div>
-        <div class="lb-prompt" id="lbPrompt"></div>
-        <div class="lb-actions">
-          <button class="btn-copy" id="copyBtn">
-            <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
-            Copy Prompt
-          </button>
-        </div>
-        <div class="lb-meta" id="lbMeta"></div>
+    <div class="lightbox-header">
+      <div></div>
+      <button class="lightbox-close" id="closeLightbox">&times;</button>
+    </div>
+    <div class="lightbox-body">
+      <img class="lightbox-img" id="lightboxImg" src="" alt="" />
+      <div class="lightbox-nav prev" id="prevImg">&#8249;</div>
+      <div class="lightbox-nav next" id="nextImg">&#8250;</div>
+    </div>
+    <div class="lightbox-info">
+      <div class="lightbox-title" id="lightboxTitle"></div>
+      <div class="lightbox-prompt" id="lightboxPrompt"></div>
+      <div class="lightbox-meta">
+        <span>Type: <strong id="lightboxType"></strong></span>
+        <span>Created: <strong id="lightboxDate"></strong></span>
       </div>
     </div>
   </div>
+
   <script>
     let allImages = [];
-    let activeCategory = 'all';
+    let filteredImages = [];
+    let currentFilter = 'all';
     let searchQuery = '';
-    fetch('data.json').then(r => r.json()).then(data => { allImages = data; render(); }).catch(() => { allImages = []; render(); });
-    function render() {
-      const grid = document.getElementById('grid');
-      const stats = document.getElementById('stats');
-      const filtered = allImages.filter(img => {
-        const catMatch = activeCategory === 'all' || img.category?.toLowerCase() === activeCategory;
-        const q = searchQuery.toLowerCase();
-        const textMatch = !q || img.title?.toLowerCase().includes(q) || img.prompt?.toLowerCase().includes(q);
-        return catMatch && textMatch;
+    let currentLightboxIndex = 0;
+
+    // Helper function to get image URL from different field formats
+    function getImageUrl(img) {
+      if (img.image_url) return img.image_url;
+      if (img.image) return 'https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/' + img.image;
+      if (img.filename) return 'https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/' + img.filename;
+      return '';
+    }
+
+    // Fetch data
+    fetch('data.json')
+      .then(res => res.json())
+      .then(data => {
+        allImages = data;
+        filteredImages = data;
+        renderGallery();
+        updateStats();
+      })
+      .catch(err => {
+        console.error('Error loading gallery:', err);
+        document.getElementById('stats').textContent = 'Failed to load gallery data.';
       });
-      stats.textContent = `Showing ${filtered.length} of ${allImages.length} images`;
-      if (filtered.length === 0) {
-        grid.innerHTML = `<div class="empty"><svg width="64" height="64" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg><p>No images found. Try a different search or filter.</p></div>`;
-        return;
-      }
-      grid.innerHTML = filtered.map((img) => `<div class="card" onclick="openLightbox(${allImages.indexOf(img)})"><img src="${img.image_url}" alt="${escHtml(img.title)}" loading="lazy" /><div class="card-info"><div class="card-title">${escHtml(img.title)}</div><div class="card-meta"><span class="tag tag-${img.category?.toLowerCase() || 'scenery'}">${img.category || 'Scenery'}</span><span class="card-date">${formatDate(img.date)}</span></div></div></div>`).join('');
-    }
-    function openLightbox(index) {
-      const img = allImages[index];
-      document.getElementById('lbTitle').textContent = img.title;
-      document.getElementById('lbImage').src = img.image_url;
-      document.getElementById('lbImage').alt = img.title;
-      document.getElementById('lbPrompt').textContent = img.prompt;
-      document.getElementById('lbMeta').textContent = `${img.category || 'Scenery'} · ${formatDate(img.date)}`;
-      document.getElementById('lightbox').classList.add('open');
-      document.body.style.overflow = 'hidden';
-      const copyBtn = document.getElementById('copyBtn');
-      copyBtn.className = 'btn-copy';
-      copyBtn.innerHTML = `<svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg> Copy Prompt`;
-    }
-    function closeLightbox() { document.getElementById('lightbox').classList.remove('open'); document.body.style.overflow = ''; }
-    document.getElementById('lbClose').addEventListener('click', closeLightbox);
-    document.getElementById('lightbox').addEventListener('click', e => { if (e.target === document.getElementById('lightbox')) closeLightbox(); });
-    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeLightbox(); });
-    document.getElementById('copyBtn').addEventListener('click', () => {
-      const prompt = document.getElementById('lbPrompt').textContent;
-      navigator.clipboard.writeText(prompt).then(() => {
-        const btn = document.getElementById('copyBtn');
-        btn.classList.add('copied');
-        btn.innerHTML = `<svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg> Copied!`;
-        setTimeout(() => { btn.classList.remove('copied'); btn.innerHTML = `<svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg> Copy Prompt`; }, 2000);
+
+    // Search
+    document.getElementById('search').addEventListener('input', e => {
+      searchQuery = e.target.value.toLowerCase();
+      applyFilters();
+    });
+
+    // Filter buttons
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentFilter = btn.dataset.filter;
+        applyFilters();
       });
     });
-    document.querySelectorAll('.filter-btn').forEach(btn => { btn.addEventListener('click', () => { document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active')); btn.classList.add('active'); activeCategory = btn.dataset.cat; render(); }); });
-    document.getElementById('searchInput').addEventListener('input', e => { searchQuery = e.target.value; render(); });
-    function escHtml(str) { return (str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
-    function formatDate(dateStr) { if (!dateStr) return ''; const d = new Date(dateStr); if (isNaN(d)) return dateStr; return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }); }
+
+    function applyFilters() {
+      filteredImages = allImages.filter(img => {
+        const matchesType = currentFilter === 'all' || img.type === currentFilter;
+        const matchesSearch = !searchQuery || 
+          img.title.toLowerCase().includes(searchQuery) ||
+          (img.prompt && img.prompt.toLowerCase().includes(searchQuery));
+        return matchesType && matchesSearch;
+      });
+      renderGallery();
+      updateStats();
+    }
+
+    function renderGallery() {
+      const gallery = document.getElementById('gallery');
+      gallery.innerHTML = filteredImages.map((img, idx) => `
+        <div class="card" onclick="openLightbox(${idx})">
+          <img src="${getImageUrl(img)}" alt="${img.title}" loading="lazy" />
+          <div class="card-info">
+            <div class="card-title">${img.title}</div>
+            <div class="card-meta">
+              <span>${img.type}</span>
+              <span>${new Date(img.timestamp).toLocaleDateString()}</span>
+            </div>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function updateStats() {
+      const total = filteredImages.length;
+      const types = filteredImages.reduce((acc, img) => {
+        acc[img.type] = (acc[img.type] || 0) + 1;
+        return acc;
+      }, {});
+      const typeText = Object.entries(types).map(([k,v]) => `${k}: ${v}`).join(' | ');
+      document.getElementById('stats').textContent = `Showing ${total} image${total !== 1 ? 's' : ''} ${typeText ? '(' + typeText + ')' : ''}`;
+    }
+
+    function openLightbox(index) {
+      currentLightboxIndex = index;
+      showLightboxImage();
+      document.getElementById('lightbox').classList.add('active');
+    }
+
+    function showLightboxImage() {
+      const img = filteredImages[currentLightboxIndex];
+      document.getElementById('lightboxImg').src = getImageUrl(img);
+      document.getElementById('lightboxTitle').textContent = img.title;
+      document.getElementById('lightboxPrompt').textContent = img.prompt || 'No prompt available';
+      document.getElementById('lightboxType').textContent = img.type;
+      document.getElementById('lightboxDate').textContent = new Date(img.timestamp).toLocaleString();
+    }
+
+    document.getElementById('closeLightbox').addEventListener('click', () => {
+      document.getElementById('lightbox').classList.remove('active');
+    });
+
+    document.getElementById('prevImg').addEventListener('click', () => {
+      currentLightboxIndex = (currentLightboxIndex - 1 + filteredImages.length) % filteredImages.length;
+      showLightboxImage();
+    });
+
+    document.getElementById('nextImg').addEventListener('click', () => {
+      currentLightboxIndex = (currentLightboxIndex + 1) % filteredImages.length;
+      showLightboxImage();
+    });
+
+    document.getElementById('lightbox').addEventListener('click', e => {
+      if (e.target.id === 'lightbox') {
+        document.getElementById('lightbox').classList.remove('active');
+      }
+    });
+
+    document.addEventListener('keydown', e => {
+      if (document.getElementById('lightbox').classList.contains('active')) {
+        if (e.key === 'Escape') document.getElementById('lightbox').classList.remove('active');
+        if (e.key === 'ArrowLeft') document.getElementById('prevImg').click();
+        if (e.key === 'ArrowRight') document.getElementById('nextImg').click();
+      }
+    });
   </script>
 </body>
 </html>
