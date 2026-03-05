@@ -23,103 +23,93 @@
   },
   {
     "title": "Antelope Canyon Light Beams Hip Tilt Smirk",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level — one hand resting on her hip, the other hand lightly touching her hair near her temple. Dramatic, razor-thin shafts of golden noon sunlight pierce through the narrow slot canyon walls above, illuminating the wave-like layered orange and crimson sandstone textures around her, and swirling dust particles in dramatic beams. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish, adapted to the magical light and dramatic natural composition. Shot on a 50mm lens, vogue-style editorial lighting, warm golden-hour light against deep shadows, rich-orange-red earth tones, ultra-high-detail photorealistic 2K resolution. Wide-angle cinematic format captures the magnitude of the canyon walls towering around her.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/antelope-canyon-light-beams-hip-tilt-smirk-20260304.png",
-    "date": "2026-03-04T19:29:00",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level — one hand resting on her hip, the other lightly touching her hair near her temple. Her expression is a cool, confident smirk — commanding, effortless, stylish. She wears a sleek black high-fashion ensemble. Razor-thin shafts of golden noon sunlight pierce through the narrow slot canyon opening above, illuminating her and swirling dust particles in dramatic beams. The rich orange and crimson sandstone walls glow intensely around her, creating warm, saturated color pops. Shot on a 50mm lens, Vogue editorial aesthetic, cinematic lighting, ultra-high detail.",
+    "image": "images/antelope-canyon-light-beams-hip-tilt-smirk-20260304.png",
+    "timestamp": "2026-03-04T19:18:00+00:00",
+    "category": "Composite"
+  },
+  {
+    "title": "Cafe Sit Book Hold",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features sits relaxed in a modern minimalist café. She is seated at a small wooden table near a large sunlit window, the soft natural light casting gentle shadows across her face. She wears a casual chic outfit — a soft cream turtleneck sweater and light-wash jeans. Her expression is calm, content, and slightly introspective. She holds an open book in her hands, her eyes gently lowered as if reading, with a hint of a peaceful smile. One arm rests on the table, the other cradles the book. Shot in a 3/4 angle from slightly above eye level, the background is softly blurred with bokeh — hinting at other customers and café details without distraction. The atmosphere is warm, cozy, and inviting. Shot on a 50mm lens, natural light photography, soft tones, modern editorial aesthetic.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/cafe-sit-book-hold-20260304.png",
+    "date": "2026-03-04T19:17:00",
     "category": "Pose"
   },
   {
-    "id": 125,
-    "pose": "Lakeside Dock Sit Feet Dangle Golden Hour",
-    "date": "2026-03-05",
-    "time": "11:01 CST",
-    "image": "images/lakeside-dock-sit-feet-dangle-golden-hour-20260305.png",
-    "scene": "Wooden dock extending over calm lake, sitting at edge feet dangling above water, golden-hour sunset glow, warm light on wood and water, casual contemplative peace",
-    "model": "blonde hair, Korean appearance",
-    "execution": 125
+    "title": "Zhangjiajie Floating Peaks at Dawn — China",
+    "filename": "zhangjiajie-floating-peaks-at-dawn-china.png",
+    "prompt": "A breathtaking photorealistic wide-angle shot of Zhangjiajie National Forest Park in Hunan, China, at dawn. Towering quartzite sandstone pillars rise dramatically through layers of soft morning mist, their jagged peaks glowing warm orange and gold in the early sunrise light. Thick clouds and fog swirl between the pillars, creating the illusion that the mountains are floating in the sky. Ancient pine trees cling to the rocky cliffs. The sky transitions from deep blue at the top to soft pink and golden hues near the horizon. The atmosphere is mystical, serene, and awe-inspiring. Ultra-high detail, cinematic composition, 2K resolution, 16:9 format.",
+    "timestamp": "2026-03-05T03:04:12Z",
+    "location": "Hunan, China",
+    "category": "Scenery"
   },
   {
-    "id": 126,
-    "pose": "Rainy Window Sit Chin Rest Pensive",
-    "date": "2026-03-05",
-    "time": "12:00 CST",
-    "image": "images/rainy-window-sit-chin-rest-pensive-20260305.png",
-    "scene": "Rain-streaked window overlooking city, sitting on windowsill chin resting on knee, cozy oversized knit sweater, soft grey light, melancholic introspection",
-    "model": "blonde hair, Korean appearance",
-    "execution": 126
+    "title": "Zhangjiajie Floating Peaks Cafe Sit Book Hold",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features sits peacefully on a rustic wooden bench perched on a natural stone ledge inside the breathtaking Zhangjiajie National Forest Park, Hunan, China, at dawn. She is surrounded by towering quartzite sandstone pillars that rise dramatically through swirling layers of soft morning mist, their jagged peaks glowing warm orange and gold in the early sunrise light. She wears a soft cream turtleneck sweater and light-wash jeans. Her expression is calm, content, and introspective. She holds an open book in her hands, eyes gently lowered as if reading, with a hint of a peaceful smile. One arm rests on her lap, the other cradles the book. Shot in a 3/4 angle from slightly above eye level, the background features the mystical floating peaks, thick clouds, and fog between the pillars, ancient pine trees clinging to cliffs. The atmosphere is serene, warm, and awe-inspiring. Shot on a 50mm lens, natural light photography, soft tones, cinematic editorial aesthetic, ultra-high detail.",
+    "image": "images/zhangjiajie-floating-peaks-cafe-sit-book-hold-composite-20260305.jpeg",
+    "timestamp": "2026-03-05T03:18:00+00:00",
+    "category": "Composite"
   },
   {
-    "id": 127,
-    "pose": "Rainy Window Kneel Hands Face Serene",
-    "date": "2026-03-05",
-    "time": "13:00 CST",
-    "image": "images/rainy-window-kneel-hands-face-serene-20260305.png",
-    "scene": "Rain-streaked window, kneeling on cushion, hands framing face, looking through glass, soft oversized cream sweater, grey diffuse light, serene wonder",
-    "model": "blonde hair, Korean appearance",
-    "execution": 127
-  },
-  {
-    "id": 128,
-    "pose": "Rooftop Edge Stand Arms Open Sunrise",
-    "date": "2026-03-05",
-    "time": "14:01 CST",
-    "image": "images/rooftop-edge-stand-arms-open-sunrise-20260305.png",
-    "scene": "Urban rooftop edge at sunrise, standing arms outstretched, backlit by golden-pink sky and city silhouette, wind-blown hair, flowing long coat, moment of freedom and power",
-    "model": "blonde hair, Korean appearance",
-    "execution": 128
-  },
-  {
-    "id": 129,
-    "pose": "Cherry Blossom Path Twirl Soft Laugh",
-    "date": "2026-03-05",
-    "time": "14:59 CST",
-    "image": "images/cherry-blossom-path-twirl-soft-laugh-20260305.png",
-    "scene": "Cherry blossom-lined path in full bloom, twirling arms out in white flowing dress, blossoms drifting in air, soft diffuse spring light, gentle laughter, pure joy and lightness",
-    "model": "blonde hair, Korean appearance",
-    "execution": 129
-  },
-  {
-    "id": 130,
-    "pose": "Neon Alley Lean Back Chin Up",
-    "date": "2026-03-05",
-    "time": "9:00 CST",
-    "image": "images/neon-alley-lean-back-chin-up-20260305.png",
-    "scene": "Neon-lit urban alley at night, leaning back against brick wall, chin tilted up to sky, cyan/magenta reflections, wet pavement, edgy, defiant, leather jacket, unapologetic confidence",
-    "model": "blonde hair, Korean appearance",
-    "execution": 130
-  },
-  {
-    "id": 131,
-    "pose_name": "Forest Stream Barefoot Wade",
-    "style": "Editorial natural/ethereal",
-    "setting": "Lush green forest with a shallow crystal-clear stream, dappled sunlight through the canopy",
-    "pose_description": "Standing barefoot in the stream, dress hem lifted slightly, one hand touching a hanging branch, gazing downstream with a peaceful expression",
-    "image_file": "images/forest-stream-barefoot-wade-20260305.png",
-    "generated_at": "2026-03-05T17:01:00+08:00"
-  },
-  {
-    "id": 132,
-    "pose": "Sunlit Cafe Window Sit Cross-Legged Book Hold",
-    "date": "2026-03-05",
-    "time": "15:01 CST",
-    "image": "images/sunlit-cafe-window-sit-cross-legged-book-hold-20260305.png",
-    "scene": "Warm sunlit cafe, seated cross-legged on window bench, holding open book, oversized knit sweater, golden-hour light, cozy intellectual mood",
-    "model": "blonde hair, Korean appearance",
-    "execution": 132
-  },
-  {
-    "title": "Marble Staircase Descend Over Shoulder Glance",
-    "prompt": "A young solo female model with long blonde hair and Korean features descends a grand marble staircase in an opulent interior, pausing mid-step to look back over her shoulder with a composed, alluring expression. She is captured from a 3/4 rear angle at eye level, wearing a flowing silk dress that trails the steps. The lighting is warm and dramatic with golden hour rays streaming through tall arched windows, casting long shadows across the marble. Shot in fashion editorial style with a 50mm portrait lens, shallow depth of field blurring the staircase below into a soft architectural haze.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/marble-staircase-descend-over-shoulder-glance-20260305.png",
-    "date": "2026-03-05T18:07:00+08:00",
+    "title": "Crouch Low Camera Gaze",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features crouches low to the ground in an urban environment, captured from a low-angle perspective that places the camera almost at ground level looking slightly upward. She balances on the balls of her feet with knees bent, one hand resting lightly on the ground for stability, the other arm draped casually over her knee. Her body is angled in a 3/4 position. She wears edgy streetwear — a cropped black leather jacket, distressed jeans, and chunky sneakers. Her gaze is direct and confident, meeting the camera with a subtle, knowing expression. The low camera angle emphasizes her presence and creates a sense of empowerment and intensity. The background is softly blurred with urban textures — graffiti, concrete, steel — adding grit without distraction. Shot on a 35mm lens, shallow depth of field, street photography aesthetic, moody tones, cinematic composition.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/crouch-low-camera-gaze-20260305.png",
+    "date": "2026-03-05T04:16:00",
     "category": "Pose"
   },
   {
-    "id": 133,
-    "title": "Rooftop Edge Wind-Blown Hair Arms Wide",
-    "date": "2026-03-05",
-    "image": "images/rooftop-edge-wind-blown-hair-arms-wide-20260305.png",
-    "description": "A young blonde Korean female model standing at the edge of a rooftop terrace, arms spread wide open, head tilted slightly back, wind dramatically blowing her long blonde hair across her face and shoulders. Low angle shot, golden hour light, city skyline softly blurred in background. Confident, free-spirited, cinematic.",
-    "tags": ["rooftop", "wind", "blonde", "korean", "golden-hour", "fashion", "cinematic"]
+    "title": "Kyoto Bamboo Grove Sunlit at Morning — Japan",
+    "filename": "kyoto-bamboo-grove-sunlit-at-morning-japan.png",
+    "prompt": "A breathtaking photorealistic wide-angle shot of the Arashiyama Bamboo Grove in Kyoto, Japan, on a calm morning. Towering emerald green bamboo stalks rise vertically on both sides of a serene stone pathway, creating a natural tunnel. Soft morning sunlight filters through the dense canopy above, casting dappled golden light and long shadows across the path. The atmosphere is peaceful, mystical, and meditative. A few scattered bamboo leaves rest on the ground. The scene is lush, vibrant, and richly detailed. Ultra-high detail, cinematic composition, 2K resolution, 16:9 format.",
+    "timestamp": "2026-03-05T07:04:12Z",
+    "location": "Kyoto, Japan",
+    "category": "Scenery"
+  },
+  {
+    "title": "Kyoto Bamboo Grove Sunlit Cafe Sit Book Hold Composite",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features sits peacefully on a rustic wooden bench placed along the serene stone pathway of the Arashiyama Bamboo Grove in Kyoto, Japan, on a calm morning. Towering emerald green bamboo stalks rise vertically around her, creating a natural tunnel. Soft morning sunlight filters through the dense canopy, casting dappled golden light and long shadows. She wears a soft cream turtleneck sweater and light-wash jeans. Her expression is calm, content, and introspective. She holds an open book in her hands, eyes gently lowered as if reading, with a hint of a peaceful smile. One arm rests on the bench, the other cradles the book. Shot in a 3/4 angle from slightly above eye level, the background features lush bamboo, a serene pathway, and scattered leaves. The atmosphere is peaceful, warm, and meditative. Shot on a 50mm lens, natural light photography, soft tones, cinematic editorial aesthetic, ultra-high detail.",
+    "image": "images/kyoto-bamboo-grove-sunlit-cafe-sit-book-hold-composite-20260305.jpeg",
+    "timestamp": "2026-03-05T07:18:00+00:00",
+    "category": "Composite"
+  },
+  {
+    "title": "Zhangjiajie Floating Peaks Crouch Low Camera Gaze Composite",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features crouches low on a natural stone ledge inside the breathtaking Zhangjiajie National Forest Park, Hunan, China, at dawn. She is captured from a low-angle perspective, almost at ground level looking slightly upward. She balances on the balls of her feet with knees bent, one hand resting lightly on the stone for stability, the other arm draped casually over her knee. She wears edgy streetwear — a cropped black leather jacket, distressed jeans, and chunky sneakers. Her gaze is direct and confident, meeting the camera with a subtle, knowing expression. Towering quartzite sandstone pillars rise dramatically through swirling layers of soft morning mist in the background, their jagged peaks glowing warm orange and gold in the early sunrise light. Thick clouds and fog swirl between the pillars, creating the illusion that the mountains are floating. Ancient pine trees cling to the rocky cliffs. The low camera angle emphasizes her presence and creates a sense of empowerment and intensity. Shot on a 35mm lens, shallow depth of field, cinematic composition, moody tones, ultra-high detail.",
+    "image": "images/zhangjiajie-floating-peaks-crouch-low-camera-gaze-composite-20260305.jpeg",
+    "timestamp": "2026-03-05T08:18:00+00:00",
+    "category": "Composite"
+  },
+  {
+    "title": "Rainy Window Kneel Hands Face Serene",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features kneels gracefully on the floor near a large rain-streaked window in a dimly lit, cozy interior space. She is positioned in a 3/4 angle, facing slightly toward the camera with her upper body gently leaning forward. Both of her hands are raised softly to her face — one hand lightly touching her cheek, the other resting near her temple or brushing through her hair. Her expression is serene, peaceful, and introspective, with a hint of melancholy. She wears a soft oversized knit sweater in a muted cream or light gray tone, loose and comfortable. Outside the window, heavy rain pours down, blurring the cityscape or garden beyond. Soft, diffused natural light from the overcast sky outside filters through the rain-streaked glass, casting gentle, moody illumination on her face and figure. The atmosphere is quiet, intimate, and contemplative. Shot on a 50mm lens, shallow depth of field, cinematic mood, soft tones with cooler color grading, minimal grain, editorial aesthetic.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/rainy-window-kneel-hands-face-serene-20260305.png",
+    "date": "2026-03-05T08:16:00",
+    "category": "Pose"
+  },
+  {
+    "title": "Salar de Uyuni Mirror Lake Neon Alley Hip Tilt Smirk",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently on the vast mirror-like surface of the Salar de Uyuni salt flat at sunrise in Bolivia. One hand resting on her hip, the other lightly touching her hair near her temple, in a 3/4 angle shot from slightly below eye level — her cool confident smirk commanding the infinite reflection. Her sleek black high-fashion ensemble contrasts dramatically against the pastel pink and gold sky reflected in the still water beneath her feet. Distant volcanoes silhouette the horizon. Low camera angle skimming the water surface, warm amber sunrise light, high fashion editorial, photorealistic, cinematic quality.",
+    "image": "images/salar-de-uyuni-mirror-lake-neon-alley-hip-tilt-smirk-composite-20260305.jpeg",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/salar-de-uyuni-mirror-lake-neon-alley-hip-tilt-smirk-composite-20260305.jpeg",
+    "timestamp": "2026-03-05T09:18:00+08:00",
+    "category": "Composite",
+    "scenery": "Salar de Uyuni Mirror Lake at Sunrise — Bolivia",
+    "pose": "Neon Alley Hip Tilt Smirk"
+  },
+  {
+    "title": "Faroe Islands Sea Cliffs at Storm Break - Denmark",
+    "prompt": "A dramatic coastal scene on the Faroe Islands where towering basalt sea cliffs emerge from receding storm clouds, shafts of golden light breaking through charcoal skies and illuminating the turbulent North Atlantic below. The clifftops are blanketed in vivid emerald-green grass, contrasting sharply against the dark volcanic rock faces streaked with white sea spray. Mist clings to the valleys between jagged peaks while distant waterfalls cascade directly into the churning ocean, creating a wild, primordial atmosphere of raw natural power.",
+    "image": "images/faroe-islands-sea-cliffs-at-storm-break-denmark.jpeg",
+    "timestamp": "2026-03-05T18:10:00+08:00",
+    "location": "Faroe Islands, Denmark",
+    "category": "Scenery"
+  },
+  {
+    "title": "Plitvice Lakes Cascade at Autumn Twilight — Croatia",
+    "prompt": "A breathtaking photorealistic wide-angle shot of Plitvice Lakes National Park in Croatia at twilight in autumn. Sixteen terraced turquoise lakes cascade into each other via a series of waterfalls framed by dense forests ablaze with amber, crimson, and gold autumn foliage. The fading evening light casts a warm amber-rose glow across the water surface while long-exposure silky waterfalls pour between mossy travertine barriers. Mist rises gently from the lower lakes. The sky glows in deep violet and burnt orange at the horizon. Crystal-clear water reveals submerged logs and rocks below. 16:9 cinematic format, ultra-high detail, 2K resolution.",
+    "image": "images/plitvice-lakes-cascade-at-autumn-twilight-croatia.jpeg",
+    "timestamp": "2026-03-05T19:11:00+08:00",
+    "location": "Plitvice Lakes, Croatia",
+    "category": "Scenery"
   }
 ]
