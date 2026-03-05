@@ -1,106 +1,123 @@
 [
   {
-    "title": "Namib Sand Sea Crimson Dusk — Lakeside Dock Sit",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features sits on the crest of an ancient rust-red sand dune in the Namib Desert at crimson dusk — legs dangling over the soft rippled sand slope, leaning back on both hands placed flat behind her, head tilted slightly upward with eyes closed and a serene, blissful expression. She wears a light flowy summer dress in warm earth tones that catches the desert breeze. The vast Namib sand sea stretches endlessly behind her, towering dunes casting long dramatic shadows, a dead acacia tree silhouetted in the distance against a sky blazing with crimson, amber and violet. A thin crescent moon rises in the deep indigo upper sky. The golden hour light bathes her figure in warm amber glow. Wide 3/4 angle, low camera position. Lifestyle editorial photography, cinematic warm tones, Vogue-style, photorealistic, breathtaking scale.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/namib-sand-sea-crimson-dusk-lakeside-dock-sit-composite-20260305.jpeg",
-    "date": "2026-03-05T07:00:00+08:00",
-    "category": "Composite"
-  },
-  {
-    "title": "Caño Cristales River of Five Colors — Wind-Tousled Dreamy",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features stands naturally on the ancient flat rock formations at the edge of Caño Cristales in Colombia's Sierra de la Macarena — the legendary river of five colors at peak bloom. She stands with one hand lightly touching her wind-tousled blonde hair and weight shifted to one hip, her dreamy contemplative expression perfectly matching the magical, surreal atmosphere of the river. Vivid crimson Macarenia clavigera aquatic plants carpet the riverbed behind her, swirling pools of electric blue, emerald green, golden yellow flowing around the rocks beneath her feet. The warm midday tropical light illuminates her softly, with the vivid river colors reflecting subtly on her figure. Shot from a slight low angle, full body, Vogue-style editorial lighting, photorealistic, cinematic composition.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/cano-cristales-river-five-colors-wind-tousled-dreamy-composite-20260305.jpeg",
-    "date": "2026-03-05T06:00:00+08:00",
-    "category": "Composite"
-  },
-  {
     "title": "Neon Alley Hip Tilt Smirk",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features stands in a rain-slicked urban alley at night, bathed in vivid neon pink and blue light from surrounding signs. She leans confidently against a brick wall in a 3/4 angle from slightly below eye level, one hand resting on her hip, the other hand lightly touching her hair near her temple. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — chin slightly tilted up, eyes half-closed with a knowing gaze directly at the camera. Moody urban cinematography, shallow depth of field with bokeh neon reflections in the wet pavement, gritty cyberpunk aesthetic, high-fashion editorial lighting, photorealistic.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/neon-alley-hip-tilt-smirk-composite-20260305.jpeg",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands in a rain-slicked urban alley at night, bathed in vivid neon pink and blue light from surrounding signs. She leans confidently against a brick wall in a 3/4 angle from slightly below eye level, one hand resting on her hip, the other hand lightly touching her hair near her temple. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish. The neon reflections pool on the wet ground beneath her. Shot on a 50mm lens, vogue-style editorial lighting, deep shadows with saturated color pops.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/neon-alley-hip-tilt-smirk-20260304.png",
+    "date": "2026-03-04T02:16:00",
+    "category": "Pose"
+  },
+  {
+    "title": "Waitomo Glowworm Caves at Midnight – New Zealand",
+    "prompt": "A breathtaking underground cave system in Waitomo, New Zealand, photographed at midnight. The cave ceiling is blanketed with thousands of tiny bioluminescent glowworms (Arachnocampa luminosa), casting an ethereal, deep blue-cyan glow across the still dark water below, creating a perfect mirror reflection of the starlike ceiling. Ancient limestone formations — stalactites and flowstones — are softly lit in cool blue and teal tones. A small wooden boat drifts silently through the subterranean river, adding scale to the immense cavern. The atmosphere is magical, otherworldly, and serene. Ultra-detailed, photorealistic, long-exposure photography aesthetic, deep blacks, glowing cyan bioluminescence, perfectly still reflective water.",
+    "image": "images/waitomo-glowworm-caves-at-midnight-new-zealand.png",
+    "timestamp": "2026-03-05T02:09:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Antelope Canyon Light Beams at Noon – Arizona",
+    "filename": "antelope-canyon-light-beams-at-noon-arizona.png",
+    "prompt": "A breathtaking photorealistic wide-angle shot deep inside Upper Antelope Canyon, Arizona. Razor-thin shafts of golden noon sunlight pierce through narrow sandstone slot canyon walls, illuminating swirling dust particles in dramatic beams. The undulating, wave-like orange and crimson sandstone walls glow with rich warm hues. The canyon floor is bathed in soft ambient light. 16:9 cinematic format, ultra-high detail, 2K resolution.",
+    "timestamp": "2026-03-04T19:04:12Z",
+    "location": "Arizona, USA",
+    "category": "Scenery"
+  },
+  {
+    "title": "Antelope Canyon Light Beams Hip Tilt Smirk",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level — one hand resting on her hip, the other lightly touching her hair near her temple. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk. Razor-thin shafts of golden noon sunlight pierce through the narrow slot canyon above, casting dramatic light beams through the swirling dust particles and illuminating her face and silhouette with warm, glowing tones. The orange and crimson sandstone walls undulate in smooth waves around her. Shot on a 50mm lens, editorial lighting with natural canyon light, deep shadows and glowing highlights, ultra-high detail, photorealistic, cinematic composition.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/antelope-canyon-hip-tilt-smirk-20260304.png",
+    "date": "2026-03-04T02:48:00",
+    "category": "Pose"
+  },
+  {
+    "title": "Socotra Dragon Blood Trees at Crimson Dusk",
+    "prompt": "A surreal, photorealistic ultra-wide landscape of Socotra Island, Yemen, at crimson dusk. The foreground is dotted with iconic Dragon Blood Trees (Dracaena cinnabari) — their distinctive umbrella-shaped canopies silhouetted against a glowing crimson and amber sky. The twisted, ancient trunks stand on rolling hills of pale limestone and sparse desert grasses. The Indian Ocean glimmers faintly on the distant horizon. Deep red and gold clouds streak the sky as the last light fades. The scene is otherworldly, ancient, and isolated. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "socotra-dragon-blood-trees-at-crimson-dusk.png",
+    "timestamp": "2026-03-05T03:09:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Salar de Uyuni Mirror Effect at Dawn – Bolivia",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Salar de Uyuni salt flats in Bolivia at dawn. The endless flat expanse is covered by a thin layer of water, creating a perfect mirror reflection of the pastel pink, lavender, and gold sky above. Wispy clouds stretch symmetrically across the water's surface. The horizon line disappears, creating an infinite, surreal effect. The first light of sunrise glows softly on the distant Andes mountains. The scene is serene, dreamlike, and otherworldly. Photorealistic, ultra-high detail, cinematic scale, no people.",
+    "filename": "salar-de-uyuni-mirror-effect-at-dawn-bolivia.png",
+    "timestamp": "2026-03-04T18:49:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Mangystau White Cliffs at Dusk – Kazakhstan",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Mangystau white chalk cliffs in Kazakhstan at dusk. The dramatic, wind-eroded limestone formations rise sharply from the barren steppe, their layered white and cream-colored surfaces glowing softly in the golden-hour light. Deep shadows carve dramatic lines into the cliffs. The foreground features cracked earth and sparse desert vegetation. The sky is painted in warm amber, pink, and violet tones as the sun sets on the horizon. The scene is vast, ancient, and hauntingly beautiful. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "mangystau-white-cliffs-at-dusk-kazakhstan.jpeg",
+    "timestamp": "2026-03-04T17:55:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Zhangye Danxia Landform at Twilight – Gansu, China",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Zhangye Danxia National Geological Park in Gansu, China, at twilight. The surreal, rainbow-striped sandstone mountains glow with vivid bands of red, orange, yellow, green, and purple, shaped by millions of years of mineral deposits and erosion. The undulating ridges and peaks create a dramatic, otherworldly terrain. The sky is painted in soft twilight hues of deep blue, pink, and gold. The scene is vibrant, surreal, and awe-inspiring. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "zhangye-danxia-landform-at-twilight-gansu-china.jpeg",
+    "timestamp": "2026-03-04T16:59:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Ennedi Massif at Golden Hour – Chad",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Ennedi Massif in northeastern Chad at golden hour. Towering sandstone rock formations, sculpted by wind and time, rise dramatically from the Sahara Desert floor. The ancient arches, pillars, and plateaus are bathed in warm amber and gold light, casting long, deep shadows across the desert sand. Ancient rock art (petroglyphs) is faintly visible on some surfaces. Sparse desert vegetation dots the sandy foreground. The sky is clear, painted in warm orange and pink tones. The scene is vast, timeless, and hauntingly beautiful. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "ennedi-massif-at-golden-hour-chad.png",
+    "timestamp": "2026-03-04T16:03:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Putorana Plateau at Midnight Sun – Siberia",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Putorana Plateau in northern Siberia, Russia, during the midnight sun in summer. The vast, rugged plateau is covered with deep basalt canyons, glacial lakes, and cascading waterfalls. The sun hovers just above the horizon, casting a soft golden-pink glow across the landscape. The still lake in the foreground reflects the sky and surrounding cliffs perfectly. Sparse tundra vegetation and lichen-covered rocks add texture. The atmosphere is serene, remote, and otherworldly. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "putorana-plateau-at-midnight-sun-siberia.png",
+    "timestamp": "2026-03-04T15:07:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Hoh Xil at Dawn – Tibet's Third Pole",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Hoh Xil (Kekexili) nature reserve on the Tibetan Plateau at dawn. The vast, barren high-altitude grasslands stretch endlessly under a pastel pink and gold sky. Snow-capped mountain peaks rise in the distant horizon. A shallow, glassy lake in the foreground reflects the sky and mountains perfectly. Wild Tibetan antelopes (chiru) graze peacefully in the middle distance. The scene is remote, pristine, and hauntingly beautiful. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "hoh-xil-at-dawn-tibets-third-pole.png",
+    "timestamp": "2026-03-04T14:11:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Tien Shan Celestial Peaks at Blue Hour – Kyrgyzstan",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Tien Shan mountain range in Kyrgyzstan at blue hour. The towering snow-capped peaks glow softly in deep blue and violet twilight tones, with the last traces of pink and gold light kissing the highest summits. A pristine alpine lake in the foreground reflects the peaks and sky perfectly. The surrounding slopes are dotted with sparse evergreen trees and rocky terrain. The scene is majestic, serene, and remote. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "tien-shan-celestial-peaks-at-blue-hour-kyrgyzstan.jpeg",
+    "timestamp": "2026-03-04T13:15:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Ulakhan-Sis Stone Pillars at Arctic Dusk – Yakutia",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Ulakhan-Sis stone pillars (Lena Pillars) in Yakutia, Siberia, Russia, at Arctic dusk. Towering vertical rock formations of Cambrian-era limestone rise dramatically along the Lena River, their ancient layered surfaces glowing softly in the deep blue and violet twilight. The river below reflects the pillars and the fading sky. Sparse taiga forest lines the riverbanks. The scene is vast, ancient, and hauntingly beautiful. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "ulakhan-sis-stone-pillars-at-arctic-dusk-yakutia.jpeg",
+    "timestamp": "2026-03-04T12:19:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Cordillera Sarmiento at First Light – Chilean Patagonia",
+    "prompt": "A breathtaking ultra-wide photorealistic landscape of the Cordillera Sarmiento mountain range in Chilean Patagonia at first light. The jagged, snow-covered granite peaks pierce the sky, glowing softly in pastel pink and gold tones as the sun rises. A pristine glacial fjord in the foreground reflects the mountains and sky perfectly. Sparse Patagonian beech trees line the rocky shores. The scene is dramatic, remote, and pristine. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "cordillera-sarmiento-at-first-light-chilean-patagonia.jpeg",
+    "timestamp": "2026-03-04T11:23:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "id": 381,
+    "title": "Northeast Greenland Ice Fjord Under Nacreous Clouds at Polar Twilight",
+    "prompt": "A breathtaking ultra-wide landscape of Northeast Greenland's ice fjord at polar twilight — massive ancient glaciers calving into ink-dark Arctic waters, with towering icebergs drifting silently. Above, rare nacreous (mother-of-pearl) polar stratospheric clouds fill the sky in iridescent pastel swirls of pink, violet, turquoise, and gold, glowing intensely as the sun sits just below the horizon. The frozen tundra shoreline is dusted with snow, and the clouds' vivid colors reflect off the glassy fjord surface. Photorealistic, epic scale, cinematic composition, no people.",
+    "filename": "northeast-greenland-ice-fjord-nacreous-clouds-polar-twilight.jpeg",
+    "timestamp": "2026-03-05T04:09:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Polar Twilight Smirk on Greenland Ice Fjord",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands at the icy shoreline of Northeast Greenland's ice fjord at polar twilight, leaning confidently against a frost-covered basalt boulder with one hand on her hip and the other lightly touching her hair near her temple. She wears a sleek black high-fashion ensemble that contrasts dramatically against the glowing iridescent nacreous clouds swirling overhead in pastel pink, violet, and gold. The ink-dark Arctic water stretches behind her, massive ancient icebergs drifting silently in the distance as their pale surfaces catch the otherworldly cloud light. Her cool confident smirk commands the frame — shot from slightly below eye level at a 3/4 angle on a 50mm lens, with the nacreous cloud colors reflecting subtly on her face and the frozen tundra ground beneath her feet. Photorealistic, Vogue-style editorial lighting, epic cinematic scale, deep shadows with iridescent color pops.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/polar-twilight-smirk-greenland-ice-fjord-composite-20260305.png",
     "date": "2026-03-05T05:00:00+08:00",
     "category": "Composite"
   },
   {
-    "title": "Lençóis Maranhenses Lagoons at Blue Hour — Brazil",
-    "prompt": "The vast white sand dunes of Lençóis Maranhenses National Park stretching endlessly beneath deep blue twilight skies, countless turquoise-blue freshwater lagoons nestled between dune crests glowing with ethereal luminescence under the blue hour light, endless rhythmic pattern of white sand ridges and aquamarine pools creating a surreal otherworldly landscape, a lone figure silhouetted on a distant dune crest for scale, ultra-wide cinematic aerial perspective, serene and dreamlike atmosphere, pristine whites and electric blues.",
-    "timestamp": "2026-03-05T04:15:00Z"
-  },
-  {
-    "title": "Namib Sand Sea at Crimson Dusk — Namibia",
-    "prompt": "Towering rust-red sand dunes of the Namib Desert at sunset, the world's tallest dunes casting dramatic deep purple shadows across rippled slopes, a lone dead acacia tree silhouetted against blazing crimson and gold sky, vast barren landscape stretching to the horizon, a crescent moon rising in the deepening indigo above, ultra-wide cinematic perspective, majestic and humbling scale, warm ambers and crimsons contrasted with cool violet shadows.",
-    "image": "images/namib-sand-sea-at-crimson-dusk-namibia.png",
-    "timestamp": "2026-03-05T03:15:00Z"
-  },
-  {
-    "title": "Cano Cristales River of Five Colors at Peak Bloom — Colombia",
-    "prompt": "The legendary Cano Cristales river in Colombia's Sierra de la Macarena during peak bloom season, vivid crimson Macarenia clavigera aquatic plants carpeting the riverbed creating the 'Liquid Rainbow' effect, swirling currents of electric blue, emerald green, golden yellow, and deep red flowing between ancient black rocks, tropical rainforest canopy framing the scene, midday equatorial light illuminating the surreal natural color palette, ultra-wide aerial perspective, magical and vibrant atmosphere, saturated natural colors.",
-    "image": "images/cano-cristales-river-of-five-colors-at-peak-bloom-colombia.png",
-    "timestamp": "2026-03-05T02:15:00Z"
-  },
-  {
-    "title": "Northeast Greenland Ice Fjord Nacreous Clouds Polar Twilight",
-    "prompt": "A vast ice fjord in Northeast Greenland National Park during polar twilight, towering midnight blue icebergs calved from ancient glaciers floating in mirror-still arctic waters, rare nacreous clouds glowing with iridescent mother-of-pearl colors—vivid pinks, electric blues, ethereal greens—shimmering high in the stratosphere above the frozen landscape, distant glacier walls casting deep indigo shadows, the low arc of twilight sky painting the horizon in deep violet and magenta, ultra-wide cinematic perspective, ethereal and otherworldly atmosphere, pristine arctic wilderness, luminous pastels contrasted with deep arctic blues.",
-    "image": "images/northeast-greenland-ice-fjord-nacreous-clouds-polar-twilight.png",
-    "timestamp": "2026-03-05T01:15:00Z"
-  },
-  {
-    "title": "Antelope Canyon Light Beams at Noon — Arizona",
-    "prompt": "The narrow slot canyon of Antelope Canyon carved through Navajo sandstone, smooth undulating orange and red-striped walls sculpted by flash floods over millennia, brilliant shafts of midday sunlight streaming down from the canyon opening above creating dramatic golden light beams cutting through dusty air, intricate wave-like patterns in the rock illuminated by reflected indirect light, warm glowing ambers and burnt oranges contrasted with cool shadows, intimate perspective looking upward, ethereal and spiritual atmosphere.",
-    "image": "images/antelope-canyon-light-beams-at-noon-arizona.png",
-    "timestamp": "2026-03-05T00:15:00Z"
-  },
-  {
-    "title": "Waitomo Glowworm Caves at Midnight — New Zealand",
-    "prompt": "The cathedral-like limestone chamber of Waitomo Caves in complete darkness, thousands of bioluminescent Arachnocampa luminosa glowworms clinging to the cave ceiling creating a breathtaking starfield effect, their blue-green larvae light reflecting in the still underground stream below, ancient stalactites and rock formations barely visible in the ethereal glow, absolute silence and darkness punctuated only by gentle water drips and living light, ultra-wide perspective capturing the scale of the subterranean chamber, mystical and otherworldly atmosphere, deep blacks contrasted with electric blue-green bioluminescence.",
-    "image": "images/waitomo-glowworm-caves-at-midnight-new-zealand.png",
-    "timestamp": "2026-03-04T23:15:00Z"
-  },
-  {
-    "title": "Socotra Dragon Blood Trees at Crimson Dusk",
-    "prompt": "Ancient dragon blood trees (Dracaena cinnabari) with their distinctive umbrella-shaped canopies dotting the alien landscape of Socotra Island, twisted trunks and dense mushroom-like crowns silhouetted against a blazing crimson and gold sunset sky, the arid plateau stretching endlessly with scattered endemic flora, deep violet shadows lengthening across the ochre earth, the Arabian Sea visible in the far distance, ultra-wide cinematic perspective, surreal and primordial atmosphere, warm sunset tones contrasted with the strange sculptural tree forms.",
-    "image": "images/socotra-dragon-blood-trees-at-crimson-dusk.png",
-    "timestamp": "2026-03-04T22:15:00Z"
-  },
-  {
-    "title": "Salar de Uyuni Mirror Effect at Dawn — Bolivia",
-    "prompt": "The world's largest salt flat during the wet season transformed into an endless perfect mirror, a thin layer of water creating flawless reflections of dramatic dawn clouds and the rising sun, the hexagonal salt patterns visible beneath the water's surface, distant volcanic peaks of the Andes reflected symmetrically, a lone pink flamingo standing in the shallow water adding scale, pastel pinks and lavenders of sunrise blending seamlessly with their reflections, ultra-wide perspective creating an infinite horizon where sky and earth merge, ethereal and dreamlike atmosphere.",
-    "image": "images/salar-de-uyuni-mirror-effect-at-dawn-bolivia.png",
-    "timestamp": "2026-03-04T21:15:00Z"
-  },
-  {
-    "title": "Mangystau White Cliffs at Dusk — Kazakhstan",
-    "prompt": "The dramatic chalk cliffs of Boszhira Valley in Mangystau Region rising from the ancient seabed of the vanished Tethys Ocean, otherworldly white limestone formations and mesa plateaus glowing pale cream and pink under the setting sun, deep canyons and vertical cliff faces casting long violet shadows across the barren landscape, the vast steppe stretching to distant mountains, a lone eagle soaring above the formations, ultra-wide cinematic perspective, alien and desolate beauty, warm sunset light on white rock contrasted with deep shadow crevasses.",
-    "image": "images/mangystau-white-cliffs-at-dusk-kazakhstan.png",
-    "timestamp": "2026-03-04T20:15:00Z"
-  },
-  {
-    "title": "Zhangye Danxia Landform at Twilight — Gansu, China",
-    "prompt": "The rainbow mountains of Zhangye Danxia Geological Park at dusk, dramatic sedimentary rock layers in vivid stripes of crimson, orange, yellow, green, and blue-grey folded and eroded into surreal wave-like formations, the late twilight sky casting a soft purple-blue glow over the landscape, deep shadows accentuating the contours and color bands, distant peaks fading into atmospheric haze, ultra-wide aerial perspective, otherworldly and painterly atmosphere, saturated natural mineral colors glowing under fading light.",
-    "image": "images/zhangye-danxia-landform-at-twilight-gansu-china.png",
-    "timestamp": "2026-03-04T19:15:00Z"
-  },
-  {
-    "title": "Ennedi Massif at Golden Hour — Chad",
-    "prompt": "The ancient sandstone formations of Ennedi Massif in the Sahara Desert bathed in golden hour light, towering natural arches and sculpted rock pillars rising from vast sand plains, intricate wind-carved patterns in the orange-red stone, deep shadows in canyon crevasses contrasting with sun-washed cliff faces, scattered acacia trees in a hidden wadi (dry riverbed), distant rock formations fading into heat haze, a lone camel caravan silhouetted on a dune ridge, ultra-wide cinematic perspective, timeless and majestic atmosphere, warm golds and burnt oranges.",
-    "image": "images/ennedi-massif-at-golden-hour-chad.png",
-    "timestamp": "2026-03-04T18:15:00Z"
-  },
-  {
-    "title": "Putorana Plateau at Midnight Sun — Siberia",
-    "prompt": "The vast basalt plateau of Putorana in northern Siberia during the midnight sun, dramatic stepped cliffs and deep canyons carved by ancient glaciers, countless waterfalls cascading down dark rock faces into pristine glacial lakes, the low sun painting the landscape in golden-orange light despite the late hour, endless tundra stretching to the horizon dotted with crystal-clear lakes, patches of Arctic wildflowers in bloom, ultra-wide aerial perspective, remote and pristine wilderness, warm midnight light contrasted with cool lake reflections.",
-    "image": "images/putorana-plateau-at-midnight-sun-siberia.png",
-    "timestamp": "2026-03-04T17:15:00Z"
-  },
-  {
-    "title": "Hoh Xil at Dawn — Tibet's Third Pole",
-    "prompt": "The vast high-altitude wilderness of Hoh Xil (Kekexili) Nature Reserve on the Tibetan Plateau at dawn, endless rolling grasslands and wetlands at 4,500+ meters elevation, distant snow-capped peaks of the Kunlun Mountains glowing pink with alpenglow, herds of Tibetan antelope (chiru) grazing in the foreground, mirror-still alpine lakes reflecting the pastel dawn sky, vast emptiness and silence of the world's third pole, ultra-wide perspective emphasizing scale and isolation, crisp high-altitude light, serene and pristine atmosphere.",
-    "image": "images/hoh-xil-at-dawn-tibets-third-pole.png",
-    "timestamp": "2026-03-04T16:15:00Z"
-  },
-  {
-    "title": "Faroe Islands Sea Cliffs at Storm Light — Denmark",
-    "prompt": "Dramatic basalt sea cliffs of the Faroe Islands rising vertically from the North Atlantic, storm clouds breaking to reveal shafts of silver-gold light piercing through dark turbulent skies, white-capped waves crashing against ancient black rock faces, emerald green clifftop grass glowing under fleeting sunbeams, cinematic ultra-wide aerial perspective, moody and sublime atmosphere, deep grays and teals contrasted with luminous golds.",
-    "image": "images/faroe-islands-sea-cliffs-at-storm-light-denmark.png",
-    "timestamp": "2026-03-05T00:16:00Z"
+    "title": "Rainy-Window-Sit-Chin-Rest-Pensive",
+    "prompt": "A young Korean female model with long blonde hair sits beside a rain-streaked window in a dimly lit interior, her elbow resting on the sill and chin cradled in her palm, gaze drifting softly toward the wet glass. She wears an oversized cream knit sweater, her posture relaxed and introspective. The light is soft and diffused — cool blue-grey tones from outside blending with warm amber candlelight from within, creating a painterly chiaroscuro. Shot at eye level with a 85mm lens, shallow depth of field, gentle bokeh on the raindrops, fine art portrait style with a melancholic, contemplative mood.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/rainy-window-sit-chin-rest-pensive-20260305.png",
+    "date": "2026-03-05T08:11:00+08:00",
+    "category": "Pose"
   }
 ]
