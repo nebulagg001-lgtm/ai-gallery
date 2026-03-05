@@ -95,28 +95,5 @@
     "category": "Composite",
     "scenery": "Salar de Uyuni Mirror Lake at Sunrise — Bolivia",
     "pose": "Neon Alley Hip Tilt Smirk"
-  },
-  {
-    "title": "Faroe Islands Sea Cliffs at Storm Break - Denmark",
-    "prompt": "A dramatic coastal scene on the Faroe Islands where towering basalt sea cliffs emerge from receding storm clouds, shafts of golden light breaking through charcoal skies and illuminating the turbulent North Atlantic below. The clifftops are blanketed in vivid emerald-green grass, contrasting sharply against the dark volcanic rock faces streaked with white sea spray. Mist clings to the valleys between jagged peaks while distant waterfalls cascade directly into the churning ocean, creating a wild, primordial atmosphere of raw natural power.",
-    "image": "images/faroe-islands-sea-cliffs-at-storm-break-denmark.jpeg",
-    "timestamp": "2026-03-05T18:10:00+08:00",
-    "location": "Faroe Islands, Denmark",
-    "category": "Scenery"
-  },
-  {
-    "title": "Plitvice Lakes Cascade at Autumn Twilight — Croatia",
-    "prompt": "A breathtaking photorealistic wide-angle shot of Plitvice Lakes National Park in Croatia at twilight in autumn. Sixteen terraced turquoise lakes cascade into each other via a series of waterfalls framed by dense forests ablaze with amber, crimson, and gold autumn foliage. The fading evening light casts a warm amber-rose glow across the water surface while long-exposure silky waterfalls pour between mossy travertine barriers. Mist rises gently from the lower lakes. The sky glows in deep violet and burnt orange at the horizon. Crystal-clear water reveals submerged logs and rocks below. 16:9 cinematic format, ultra-high detail, 2K resolution.",
-    "image": "images/plitvice-lakes-cascade-at-autumn-twilight-croatia.jpeg",
-    "timestamp": "2026-03-05T19:11:00+08:00",
-    "location": "Plitvice Lakes, Croatia",
-    "category": "Scenery"
-  },
-  {
-    "id": 397,
-    "title": "Patagonia Torres del Paine at Sunrise Glow - Chile",
-    "prompt": "The iconic granite towers of Torres del Paine rise dramatically against a blazing sunrise sky of deep orange and rose pink reflected in the glacial lagoon below. Low morning mist clings to the valley floor between ancient lenga beech trees dusted with autumn gold. The air is crisp and electric, with distant glaciers catching the first light on the horizon. A hyper-realistic landscape photograph with cinematic wide-angle composition, extraordinary detail, and rich dynamic range.",
-    "image": "patagonia-torres-del-paine-at-sunrise-glow-chile.jpeg",
-    "timestamp": "2026-03-05T20:15:00+08:00"
   }
 ]
