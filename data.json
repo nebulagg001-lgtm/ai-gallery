@@ -23,80 +23,64 @@
   },
   {
     "title": "Antelope Canyon Light Beams Hip Tilt Smirk",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level, one hip cocked, one hand resting on her hip and the other touching her half-up blonde hair. She wears a flowing desert-inspired white outfit that contrasts stunningly with the orange-red canyon walls. Golden sunlight streaks diagonally through the frame, bathing her face and hair in a rich 1key golden glow. Her expression is a confident, effortless smirk — commanding and captivating. Shot on a 50mm lens, vogue-style portrait lighting, deep shadows, warm-toned, high-fashion composition.",
-    "id": 221,
-    "image": "images/antelope-canyon-light-beams-hip-tilt-smirk.jpeg",
-    "timestamp": "2026-03-04T19:04:12+08:00",
-    "category": "Composite"
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level. One hand rests on her hip, creating a casual yet commanding posture, and her head tilts slightly toward the camera with a playful, confident smirk — effortlessly cool. She wears a sleek, minimalist outfit suited to the warm canyon environment (neutral tones). Golden shafts of mid-day sunlight slant through the narrow canyon openings, illuminating dust particles in dramatic beams and bathing the undulating orange-red sandstone walls in rich, warm light. Photographed on a 50mm lens, shallow depth of field, editorial-quality lighting, ultra-detailed, photorealistic.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/antelope-canyon-light-beams-hip-tilt-smirk-20260305-141.png",
+    "date": "2026-03-05T07:00:00+08:00",
+    "category": "Composite",
+    "scenery": "Antelope Canyon Light Beams at Noon — Arizona",
+    "pose": "Neon Alley Hip Tilt Smirk",
+    "execution": 141
   },
   {
-    "id": 399,
-    "title": "Zhangjiajie Pillar Peaks at Morning Mist — China",
-    "prompt": "A breathtaking photorealistic panoramic shot of Zhangjiajie National Forest Park, Hunan, China, captured during early morning hours. Tall, vertical sandstone pillars-—some rising over 300 meters high—emerge from dense, layered clouds/mist that fill the valleys below. The pillars are drenched in low golden sunlight, highlighting teal-green vegetation clinging to their sides. The fog creates a mystical, ethereal layered effect with pillars fading gradually into the distance. A winding pathway/bridge snakes along the foreground cliff, adding scale and human context. Soft, warm light, layered atmospheric depth, Panasonic-style nature documentary aesthetic, sweeping dramatic composition.",
-    "url": "https://i.ibb.co/cNG95YF/zhangjiajie-pillar-peaks-at-morning-mist-china.jpg",
-    "image": "images/zhangjiajie-pillar-peaks-at-morning-mist-china.jpg",
-    "timestamp": "2026-03-05T13:00:44Z",
-    "category": "Scenery",
-    "execution": 399
+    "title": "Greenhouse Crouching Head Tilt",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features crouches on a wooden pathway inside a lush, mist-filled greenhouse at sunrise. Framed from slightly above eye level in a 3/4 angle shot with a 50mm lens and shallow depth of field. She is clothed in a light, flowing linen dress in soft cream or beige tones, fitting the organic, earthy environment. She looks directly at the camera with a serene, introspective expression, her chin gently tilted downward, her hair softly draped across one shoulder. One hand rests lightly on the ground or a potted plant, the other rests on her knee or tangles in her hair. The greenhouse is full of tall tropical plants — ferns, monstera, palms — with golden sunrise light streaming through glass panels, creating a soft, warm, light glow and ethereal atmosphere. Photorealistic, ultra-detailed, cinematic, editorial-quality, earthy and botanical mood.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/greenhouse-crouching-head-tilt-20260305-142.png",
+    "date": "2026-03-05T08:00:00+08:00",
+    "category": "Pose",
+    "execution": 142
   },
   {
-    "id": 400,
-    "title": "Deadvlei White Clay Pan at Blue Hour — Namibia",
-    "prompt": "A haunting, otherworldly landscape photograph of Deadvlei, an white-salt clay pan in the Namib Desert, Namibia, captured during blue hour. In the foreground, stark skeletal acacia trees—blackened by the sun over 900 years ago—stand frozen in death, casting long sharp shadows on the cracked white pan. The background features the towering red ocher sand dunes of Sossusvlei, some of the highest in the world. The sky gradients from deep indigo-blue to soft lavender tones at the horizon. Composition emphasizes isolation, silence, and timelessness. Photorealistic, ultra-detailed, cool toned, long-exposure aesthetic, high-contrast dramatic visual.",
-    "url": "https://i.ibb.co/bg1c2Gn/deadvlei-white-clay-pan-at-blue-hour-namibia.jpg",
-    "image": "images/deadvlei-white-clay-pan-at-blue-hour-namibia.jpeg",
-    "timestamp": "2026-03-05T14:00:44Z",
+    "title": "Santorini Caldera Sunset — Greece",
+    "prompt": "A stunning photorealistic wide-angle shot of the Santorini caldera at sunset. Iconic whitewashed cycladic buildings with bright blue domed roofs cascade down the cliffside. The warm, golden-sunrise light bathes the village in rich-hues. The deep blue Aegean Sea stretches to the horizon, and distant islands are silhouetted against the vibrant orange and pink sky. The foreground includes a tiled terrace or winding pathway. Ultra-high detail, 16:9 cinematic format, 2K resolution, warm and vibrant colors.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/santorini-caldera-sunset-greece-20260305-143.png",
+    "date": "2026-03-05T18:00:00+08:00",
     "category": "Scenery",
-    "execution": 400
+    "execution": 143
   },
   {
-    "id": 401,
-    "title": "Plitvice Lakes at Autumn Peak — Croatia",
-    "prompt": "A stunning photorealistic aerial/drone shot of Plitvice Lakes National Park, Croatia, during peak autumn season. A series of terraced turquoise-blue lakes step down the frame, connected by crystal-clear travertine waterfalls that cascade in graceful curtains. The surrounding deciduous forest is exploding in fiery autumn hues—golden yellows, burnt oranges, and deep crimson reds—creating a vibrant ring around the blue water. Wooden boardwalks and visitors (tiny at this scale) can be seen snaking along the lake edges. Soft autumn light filters through the trees, casting warm tones on the water surface. Photorealistic, ultra-detailed, saturated colors, cyan and orange contrast, National Geographic style.",
-    "url": "https://i.ibb.co/c5gz73c/plitvice-lakes-at-autumn-peak-croatia.jpg",
-    "image": "images/plitvice-lakes-at-autumn-peak-croatia.jpeg",
-    "timestamp": "2026-03-05T15:00:44Z",
-    "category": "Scenery",
-    "execution": 401
+    "title": "Santorini Caldera Sunset — Neon Alley Hip Tilt Smirk",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently on a tiled terrace in Santorini, Greece, during the golden hour just before sunset. She leans with casual authority against a whitewashed wall or pillar, one hand resting confidently on her hip, creating a cool, effortless posture. Her head tilts slightly toward the camera with a playful, confident smirk — commanding but effortlessly stylish. She wears a chic, flowing summer dress in white or soft pastel tones, perfectfor the Mediterranean setting. Behind her, iconic blue-domed chapels and whitewashed buildings cascade down the cliffside, and the deep blue Aegean Sea stretches to the horizon beneath a vibrant orange-gold sunset sky. Shot on a 50mm lens, shallow depth of field, from slightly below eye level in a 3/4 angle, editorial-quality, ultra-detailed, photorealistic.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/santorini-caldera-sunset-neon-alley-hip-tilt-smirk-composite-20260305-144.png",
+    "imgbb_url": "https://i.ibb.co/vpZq27K/santorini-caldera-sunset-neon-alley-hip-tilt-smirk-composite-20260305-144.png",
+    "google_drive_url": "https://drive.google.com/file/d/1KWypLtW6xlQmIHsMaTSt8ScTougBcbNO/view",
+    "date": "2026-03-05T19:00:00+08:00",
+    "category": "Composite",
+    "scenery": "Santorini Caldera Sunset — Greece",
+    "pose": "Neon Alley Hip Tilt Smirk",
+    "execution": 144
   },
   {
-    "id": 402,
-    "title": "Lofoten Islands Sea Village at Winter Dusk — Norway",
-    "prompt": "A dramatic photorealistic landscape shot of a traditional red fishing village (rorbuer) nestled against the dramatic jagged peaks of the Lofoten Islands, Norway, shot during winter dusk. The iconic bright red cabins on wooden stilts line the rocky shoreline of the dark Arctic ocean. Towering, snow-capped charcoal-gray poaks rise dramatically in the background. The sky is a deep saturated indigo-blue, with a faint pink-orange glow on the horizon cast by the distant sun. Smoke rises from a chimney in one cabin, and warm yellow light glows from a few windows. The still ocean reflects both the cabins and the poaks. Moody, cinematic, cool-dominant blue and cyan tones balanced with warm red accents, National Geographic photography.",
-    "url": "https://i.ibb.co/gDvCDvP/lofoten-islands-sea-village-at-winter-dusk-norway.png",
-    "image": "images/lofoten-islands-sea-village-at-winter-dusk-norway.png",
-    "timestamp": "2026-03-05T16:00:44Z",
-    "category": "Scenery",
-    "execution": 402
+    "title": "Waitomo Glowworm Caves — Greenhouse Crouching Head Tilt",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features sits in a small wooden boat drifting silently through the Waitomo Glowworm Caves subterranean river. Photographed from slightly behind and to the side — her profile and the back of her flowing hair visible as she gazes upward in awe at the bioluminescent cave ceiling. Thousands of glowworms (Arachnocampa luminosa) cast an ethereal deep blue-cyan glow across her white linen dress and illuminate her face softly. The perfectly still dark water below reflects both the glowing ceiling and her silhouette. Lighting is purely bioluminescent — deep blacks, glowing cyan and blue tones, long-exposure photography aesthetic, ultra-detailed photorealistic, cinematic, intimate mysterious mood.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/waitomo-glowworm-caves-greenhouse-crouching-head-tilt-composite-20260305-145.png",
+    "imgbb_url": "https://i.ibb.co/7J58kqf/waitomo-glowworm-caves-greenhouse-crouching-head-tilt-composite-20260305-145.png",
+    "google_drive_url": "https://drive.google.com/file/d/1-DvK52QvokwkUKAFViVFBJNtaLMTezYO/view",    
+    "date": "2026-03-05T20:00:00+08:00",
+    "category": "Composite",
+    "scenery": "Waitomo Glowworm Caves at Midnight — New Zealand",
+    "pose": "Greenhouse Crouching Head Tilt",
+    "execution": 145
   },
   {
-    "id": 403,
-    "title": "Lençóis Maranhenses Dunes at Midday Shimmer — Brazil",
-    "prompt": "A breathtaking photorealistic aerial shot of Lençóis Maranhenses National Park, Brazil, captured during midday—the period when the interdunal laguons are full of crystal-clear turquoise and emerald rainwater. The view shows a striking contrast between towering, rippled white sand dunes and the vibrant blue/green water pools nestled between them. The dunes cast sharp, striking shadows across the scene, emphasizing their undulating geometry. The laguna water has a shimmering, gem-like quality—so clear that you can see the sandy bottom. Subtle ripples dance across the surface. High-contrast lighting, saturated vibrant colors, sharp beta architectural-like shadows, drone aerial photography aesthetic, ultra-detailed.",
-    "url": "https://i.ibb.co/hHpLChC/lencos-maranhenses-dunes-at-midday-shimmer-brazil.jpg",
-    "image": "images/lencos-maranhenses-dunes-at-midday-shimmer-brazil.jpeg",
-    "timestamp": "2026-03-05T17:00:44Z",
-    "category": "Scenery",
-    "execution": 403
-  },
-  {
-    "id": 404,
-    "title": "Waitomo Glowworm Caves at Midnight — New Zealand",
-    "prompt": "A breathtaking underground cave system in Waitomo, New Zealand, photographed at midnight. The cave ceiling is blanketed with thousands of tiny bioluminescent glowworms (Arachnocampa luminosa), casting an eshereal, deep blue-cyan glow across the still dark water below, creating a perfect mirror reflection of the starlike ceiling. Ancient limestone formations — stalactites and flowstones — are softly lit in cool blue and teal tones. A small wooden boat drifts silently through the subterranean river, adding scale to the immense cavern. The atmosphere is magical, otherworldly, and serene. Ultra-detailed, photorealistic, nong-exposure photography aesthetic, deep blacks, glowing cyan bioluminescence, perfectly still reflective water.",
-    "url": "https://i.ibb.co/BGmw5by/waitomo-glowworm-caves-at-midnight-new-zealand.jpg",
-    "image": "images/waitomo-glowworm-caves-at-midnight-new-zealand.jpeg",
-    "timestamp": "2026-03-05T20:00:44Z",
-    "category": "Scenery",
-    "execution": 404
-  },
-  {
-    "id": 405,
-    "title": "Khongoryn Els Sand Dunes at Sunset — Mongolia",
-    "prompt": "A vast golden sea of towering sand dunes (the legendary \"Singing Sands\" of the Gobi Desert, Mongolia) captured at sunset. The dunes rise up to 300 meters, their crests razor-sharp against a blazing orange and crimson sky. Long dramatic shadows carve deep valleys between the dune ridges, creating powerful contrast. In the foreground, a small silhouetted camel caravan winds its way across the base of the dunes, adding epic scale. The sky transitions from deep burnt orange near the horizon to violet-blue at the zenith. Shot in the style of a National Geographic landscape photograph — ultra-realistic, cinematic, high detail.",
-    "url": "https://i.ibb.co/pvtR5fGt/khongoryn-els-sand-dunes-at-sunset-mongolia.jpg",
-    "image": "images/khongoryn-els-sand-dunes-at-sunset-mongolia.jpeg",
-    "timestamp": "2026-03-05T21:00:44Z",
-    "category": "Scenery",
-    "execution": 405
+    "title": "Waitomo Glowworm Caves — Greenhouse Crouching Head Tilt",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features sits in a small wooden boat drifting silently through the Waitomo Glowworm Caves subterranean river. Photographed from slightly behind and to the side — her profile and the back of her flowing hair visible as she gazes upward in awe at the bioluminescent cave ceiling. Thousands of glowworms (Arachnocampa luminosa) cast an ethereal deep blue-cyan glow across her white linen dress and illuminate her face softly. The perfectly still dark water below reflects both the glowing ceiling and her silhouette. Lighting is purely bioluminescent — deep blacks, glowing cyan and blue tones, long-exposure photography aesthetic, ultra-detailed photorealistic, cinematic, intimate mysterious mood.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/waitomo-glowworm-caves-greenhouse-crouching-head-tilt-composite-20260305-146.jpeg",
+    "imgbb_url": "https://i.ibb.co/C3br6XK7/770d256d872d.jpg",
+    "google_drive_url": "https://drive.google.com/file/d/1QIMcx0JNvOi7dEasjjZePW1n9lb9RV0z/view",
+    "date": "2026-03-05T21:00:00+08:00",
+    "category": "Composite",
+    "scenery": "Waitomo Glowworm Caves at Midnight — New Zealand",
+    "pose": "Greenhouse Crouching Head Tilt",
+    "execution": 146
   }
 ]
