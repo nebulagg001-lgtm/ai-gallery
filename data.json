@@ -23,114 +23,88 @@
   },
   {
     "title": "Antelope Canyon Light Beams Hip Tilt Smirk",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level — one hand resting on her hip, the other hand lightly touching her hair near her temple. She wears a flowing beige or soft orange linen outfit that complements the natural tones. Her expression is a cool, confident smirk — commanding and effortlessly stylish. Dramatic golden sunbeams pierce through the narrow slot above, illuminating her and the richly hued sandstone around her. Shot on a 50mm lens, cinematic natural lighting, deep shadows contrasted with brilliant shafts of sunlight, rich warm color grading.",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level — one hand resting on her hip, the other hand lightly touching her hair near her temple. Dramatic, razor-thin shafts of golden noon sunlight pierce through the narrow slot canyon walls above, illuminating the wave-like layered orange and crimson sandstone textures around her, and swirling dust particles in dramatic beams. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish, adapted to the magical light and dramatic natural composition. Shot on a 50mm lens, vogue-style editorial lighting, warm golden-hour light against deep shadows, rich-orange-red earth tones, ultra-high-detail photorealistic 2K resolution. Wide-angle cinematic format captures the magnitude of the canyon walls towering around her.",
     "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/antelope-canyon-light-beams-hip-tilt-smirk-20260304.png",
-    "date": "2026-03-04T19:13:00Z",
+    "date": "2026-03-04T19:29:00",
     "category": "Pose"
   },
   {
-    "title": "Northeast Greenland Ice Fjord Nacreous Clouds Polar Twilight",
-    "prompt": "A vast frozen fjord deep in Northeast Greenland National Park at the height of polar twilight (blue hour). Towering, fractured ice cliffs in shades of electric blue and white frame the scene, with jagged icebergs scattered across the still, glassy water. Above, rare nacreous (mother-of-pearl) clouds shimmer in vivid iridescent bands of pink, green, violet, and blue across the twilight sky. The horizon glows in soft lavender and rose tones. The atmosphere is utterly silent, alien, and pristine. Ultra-detailed, photorealistic, shot with a wide-angle lens, cinematic color grading with saturated twilight tones, perfect reflections on the calm water.",
-    "filename": "northeast-greenland-ice-fjord-nacreous-clouds-polar-twilight.png",
-    "timestamp": "2026-03-05T03:01:00+08:00",
-    "category": "Scenery"
+    "id": 125,
+    "pose": "Lakeside Dock Sit Feet Dangle Golden Hour",
+    "date": "2026-03-05",
+    "time": "11:01 CST",
+    "image": "images/lakeside-dock-sit-feet-dangle-golden-hour-20260305.png",
+    "scene": "Wooden dock extending over calm lake, sitting at edge feet dangling above water, golden-hour sunset glow, warm light on wood and water, casual contemplative peace",
+    "model": "blonde hair, Korean appearance",
+    "execution": 125
   },
   {
-    "title": "Cano Cristales River of Five Colors at Peak Bloom — Colombia",
-    "prompt": "An aerial drone shot of Cano Cristales, Colombia's legendary 'River of Five Colors,' captured during peak bloom season. The riverbed explodes in vibrant natural hues — deep reds, vivid magentas, golden yellows, emerald greens, and cobalt blues — created by aquatic plants (Macarenia clavigera) at peak bloom. Crystal-clear turquoise water flows over colorful underwater rocks and formations, creating intricate patterns and channels. Lush tropical rainforest frames both sides of the river. The scene is surreal, hyper-saturated, and otherworldly. Ultra-detailed, photorealistic, drone cinematography aesthetic, bright equatorial sunlight, vivid color saturation, 16:9 cinematic format.",
-    "filename": "cano-cristales-river-of-five-colors-at-peak-bloom-colombia.png",
-    "timestamp": "2026-03-05T04:01:12+08:00",
-    "category": "Scenery"
+    "id": 126,
+    "pose": "Rainy Window Sit Chin Rest Pensive",
+    "date": "2026-03-05",
+    "time": "12:00 CST",
+    "image": "images/rainy-window-sit-chin-rest-pensive-20260305.png",
+    "scene": "Rain-streaked window overlooking city, sitting on windowsill chin resting on knee, cozy oversized knit sweater, soft grey light, melancholic introspection",
+    "model": "blonde hair, Korean appearance",
+    "execution": 126
   },
   {
-    "title": "Namib Sand Sea at Crimson Dusk — Namibia",
-    "prompt": "A sweeping drone shot over Namibia's Namib Sand Sea at crimson dusk. Massive red-orange sand dunes tower in dramatic sculptural forms, with sharp ridgelines and deep shadows. The low-angle sunlight paints the dunes in intense gradients of burnt orange, deep crimson, and rich sienna. In the foreground, scattered skeletal camel-thorn trees stand in stark silhouette against the vivid dunes. The sky glows with warm amber and purple hues. The scene feels ancient, vast, and intensely cinematic. Ultra-detailed, photorealistic, aerial cinematography aesthetic, dramatic lighting, saturated warm tones, 16:9 widescreen format.",
-    "filename": "namib-sand-sea-at-crimson-dusk-namibia.png",
-    "image": "images/namib-sand-sea-at-crimson-dusk-namibia.jpeg",
-    "timestamp": "2026-03-05T05:02:00+08:00",
-    "category": "Scenery"
+    "id": 127,
+    "pose": "Rainy Window Kneel Hands Face Serene",
+    "date": "2026-03-05",
+    "time": "13:00 CST",
+    "image": "images/rainy-window-kneel-hands-face-serene-20260305.png",
+    "scene": "Rain-streaked window, kneeling on cushion, hands framing face, looking through glass, soft oversized cream sweater, grey diffuse light, serene wonder",
+    "model": "blonde hair, Korean appearance",
+    "execution": 127
   },
   {
-    "title": "Lencois Maranhenses Lagoons at Blue Hour — Brazil",
-    "prompt": "A sweeping aerial drone shot over Lencois Maranhenses National Park, Brazil, at the height of blue hour. Vast white sand dunes stretch endlessly, dotted with hundreds of crystalline turquoise and emerald lagoons that shimmer like jewels across the surreal landscape. The sky is painted in deep twilight blues and soft purples, reflected perfectly in the still lagoon surfaces. Gentle wind patterns trace delicate lines across the sand. The atmosphere is dreamlike, serene, and otherworldly. Ultra-detailed, photorealistic, drone cinematography aesthetic, cinematic twilight color grading, 16:9 widescreen format.",
-    "filename": "lencois-maranhenses-lagoons-at-blue-hour-brazil.png",
-    "image": "images/lencois-maranhenses-lagoons-at-blue-hour-brazil.jpeg",
-    "timestamp": "2026-03-05T06:02:00+08:00",
-    "category": "Scenery"
+    "id": 128,
+    "pose": "Rooftop Edge Stand Arms Open Sunrise",
+    "date": "2026-03-05",
+    "time": "14:01 CST",
+    "image": "images/rooftop-edge-stand-arms-open-sunrise-20260305.png",
+    "scene": "Urban rooftop edge at sunrise, standing arms outstretched, backlit by golden-pink sky and city silhouette, wind-blown hair, flowing long coat, moment of freedom and power",
+    "model": "blonde hair, Korean appearance",
+    "execution": 128
   },
   {
-    "title": "Faroe Islands Sea Cliffs at Storm Light — Denmark",
-    "prompt": "A dramatic cliffside view from the towering sea cliffs of Vagar Island, Faroe Islands, during a passing storm. Jagged volcanic basalt cliffs drop vertically into churning, foam-white Atlantic waves below. Dark, heavy storm clouds loom overhead, but a narrow break in the clouds allows a single shaft of golden late-afternoon sunlight to illuminate the emerald-green turf and wildflowers on the clifftop. The atmosphere is raw, powerful, and moody. Mist and sea spray drift through the air. Ultra-detailed, photorealistic, cinematic landscape photography aesthetic, dramatic natural lighting, moody color grading with deep greens and stormy grays, 16:9 format.",
-    "filename": "faroe-islands-sea-cliffs-at-storm-light-denmark.png",
-    "timestamp": "2026-03-05T07:02:00+08:00",
-    "category": "Scenery"
+    "id": 129,
+    "pose": "Cherry Blossom Path Twirl Soft Laugh",
+    "date": "2026-03-05",
+    "time": "14:59 CST",
+    "image": "images/cherry-blossom-path-twirl-soft-laugh-20260305.png",
+    "scene": "Cherry blossom-lined path in full bloom, twirling arms out in white flowing dress, blossoms drifting in air, soft diffuse spring light, gentle laughter, pure joy and lightness",
+    "model": "blonde hair, Korean appearance",
+    "execution": 129
   },
   {
-    "title": "Trolltunga Rock Ledge at Golden Hour — Norway",
-    "prompt": "A breathtaking wide-angle shot of Trolltunga (Troll's Tongue), the iconic horizontal rock ledge jutting out over Ringedalsvatnet lake in Norway, captured at golden hour. A lone hiker stands at the very edge of the narrow ledge, silhouetted against the warm, glowing sky. The sheer 700-meter drop below reveals the deep blue fjord lake surrounded by rugged, snow-dusted Norwegian mountains. The scene is dramatic, awe-inspiring, and serene. Warm golden light bathes the rocky plateau and distant peaks. Ultra-detailed, photorealistic, adventure photography aesthetic, cinematic composition, deep depth of field, 16:9 widescreen format.",
-    "filename": "trolltunga-rock-ledge-at-golden-hour-norway.png",
-    "timestamp": "2026-03-05T08:02:00+08:00",
-    "category": "Scenery"
+    "id": 130,
+    "pose": "Neon Alley Lean Back Chin Up",
+    "date": "2026-03-05",
+    "time": "9:00 CST",
+    "image": "images/neon-alley-lean-back-chin-up-20260305.png",
+    "scene": "Neon-lit urban alley at night, leaning back against brick wall, chin tilted up to sky, cyan/magenta reflections, wet pavement, edgy, defiant, leather jacket, unapologetic confidence",
+    "model": "blonde hair, Korean appearance",
+    "execution": 130
   },
   {
-    "title": "Havasupai Turquoise Falls at Golden Hour — Arizona",
-    "prompt": "A stunning ground-level shot of Havasu Falls, one of the most iconic waterfalls in the Havasupai Reservation, Arizona, captured at golden hour. Brilliant turquoise water cascades 30 meters down vivid red-orange travertine rock formations into a crystal-clear pool below. The unique milky-turquoise color of the water contrasts dramatically with the warm, sunlit canyon walls. Lush cottonwood trees and desert vegetation frame the scene. The atmosphere is tranquil, vibrant, and magical. Ultra-detailed, photorealistic, long-exposure water effect, warm golden-hour color grading, 16:9 cinematic format.",
-    "filename": "havasupai-turquoise-falls-at-golden-hour-arizona.png",
-    "timestamp": "2026-03-05T09:02:00+08:00",
-    "category": "Scenery"
+    "id": 131,
+    "pose_name": "Forest Stream Barefoot Wade",
+    "style": "Editorial natural/ethereal",
+    "setting": "Lush green forest with a shallow crystal-clear stream, dappled sunlight through the canopy",
+    "pose_description": "Standing barefoot in the stream, dress hem lifted slightly, one hand touching a hanging branch, gazing downstream with a peaceful expression",
+    "image_file": "images/forest-stream-barefoot-wade-20260305.png",
+    "generated_at": "2026-03-05T17:01:00+08:00"
   },
   {
-    "title": "Jiuzhaigou Valley Autumn Reflections at Blue Hour — Sichuan, China",
-    "prompt": "A serene wide-angle shot of Five Flower Lake (Wuhua Hai) in Jiuzhaigou Valley, Sichuan Province, China, during peak autumn foliage at blue hour. The impossibly clear, turquoise-blue lake reveals intricate fallen tree trunks and colorful mineral deposits on the lakebed below. Surrounding the lake, vibrant autumn foliage blazes in brilliant shades of gold, orange, crimson, and ruby red. The still water creates a perfect mirror reflection of the colorful trees and the deep twilight sky above. The atmosphere is peaceful, magical, and dreamlike. Ultra-detailed, photorealistic, long-exposure photography aesthetic, cinematic color grading with saturated autumn tones and twilight blues, 16:9 format.",
-    "filename": "jiuzhaigou-valley-autumn-reflections-at-blue-hour-sichuan-china.png",
-    "timestamp": "2026-03-05T10:02:00+08:00",
-    "category": "Scenery"
-  },
-  {
-    "title": "Dallol Hydrothermal Fields at Alien Dawn — Ethiopia",
-    "prompt": "A surreal, otherworldly wide-angle shot of the Dallol hydrothermal field in the Danakil Depression, Ethiopia, captured at dawn. Vivid neon-yellow, lime-green, and orange mineral deposits bubble and steam across the volcanic landscape, forming bizarre, alien-like formations and acidic pools. Plumes of sulfurous steam rise from fissures in the earth. The horizon glows with soft, warm dawn light contrasting against the bizarre, hyper-saturated foreground. The atmosphere is hostile, alien, and utterly mesmerizing. Ultra-detailed, photorealistic, cinematic landscape photography aesthetic, dramatic color saturation, moody lighting, 16:9 widescreen format.",
-    "filename": "dallol-hydrothermal-fields-at-alien-dawn-ethiopia.png",
-    "image": "images/dallol-hydrothermal-fields-at-alien-dawn-ethiopia.jpeg",
-    "timestamp": "2026-03-05T11:02:00+08:00",
-    "category": "Scenery"
-  },
-  {
-    "title": "Patagonia Torres del Paine at First Light — Chile",
-    "prompt": "A breathtaking wide-angle shot of the iconic Torres del Paine granite towers in Chilean Patagonia, captured at first light. The three massive, jagged granite spires glow in warm shades of rose-gold and amber as the first rays of sunrise strike their peaks. In the foreground, a tranquil glacial lake reflects the towers and the soft pastel sky above. Windswept grasses and rugged terrain frame the scene. Wispy clouds drift across the dramatic mountain skyline. The atmosphere is epic, raw, and awe-inspiring. Ultra-detailed, photorealistic, landscape photography aesthetic, cinematic composition, warm sunrise color grading, 16:9 format.",
-    "filename": "patagonia-torres-del-paine-at-first-light-chile.png",
-    "image": "images/patagonia-torres-del-paine-at-first-light-chile.jpeg",
-    "timestamp": "2026-03-05T12:02:00+08:00",
-    "category": "Scenery"
-  },
-  {
-    "title": "Plitvice Lakes Cascade at Autumn Twilight — Croatia",
-    "prompt": "A stunning wide-angle shot of one of the iconic cascading waterfalls in Plitvice Lakes National Park, Croatia, captured at autumn twilight. Crystal-clear turquoise water flows gracefully over moss-covered travertine terraces, creating a series of delicate, multi-tiered waterfalls. The surrounding forest blazes in vivid autumn colors — golden yellows, fiery oranges, and deep crimson reds. The twilight sky above glows in soft shades of lavender and rose. The atmosphere is serene, enchanting, and dreamlike. Ultra-detailed, photorealistic, long-exposure water effect, cinematic twilight color grading, 16:9 widescreen format.",
-    "filename": "plitvice-lakes-cascade-at-autumn-twilight-croatia.png",
-    "image": "images/plitvice-lakes-cascade-at-autumn-twilight-croatia.jpeg",
-    "timestamp": "2026-03-05T13:02:00+08:00",
-    "category": "Scenery"
-  },
-  {
-    "id": "kyoto-bamboo-grove-at-morning-mist-japan",
-    "title": "Kyoto Bamboo Grove at Morning Mist, Japan",
-    "prompt": "A serene bamboo grove in Arashiyama, Kyoto, Japan at early morning. Tall, dense bamboo stalks rise into a soft misty sky, with pale golden light filtering through the canopy. The narrow stone path winds through the grove, damp with morning dew. Wisps of low mist drift at ground level, creating an ethereal, dreamlike atmosphere. The color palette is cool greens, silver-grey mist, and warm amber light shafts. Photorealistic, ultra-detailed, 8K landscape photography style.",
-    "image": "images/kyoto-bamboo-grove-at-morning-mist-japan.jpeg",
-    "timestamp": "2026-03-05T07:10:59Z"
-  },
-  {
-    "id": "zhangjiajie-floating-peaks-at-cloud-break-china",
-    "title": "Zhangjiajie Floating Peaks at Cloud Break China",
-    "prompt": "A breathtaking aerial view of Zhangjiajie National Forest Park in Hunan, China — towering sandstone pillar mountains draped in lush green forest emerge dramatically through a sea of white clouds breaking apart at dawn. Golden morning light pierces through cloud gaps, casting warm rays across the misty valleys below. The scene captures the surreal, otherworldly landscape that inspired the floating mountains of Avatar. Shot with cinematic wide-angle composition, ultra-detailed 8K quality, dramatic chiaroscuro lighting, ethereal atmosphere.",
-    "image": "images/zhangjiajie-floating-peaks-at-cloud-break-china.jpg",
-    "timestamp": "2026-03-05T08:13:53Z"
-  },
-  {
-    "title": "Zhangjiajie Floating Peaks Crouch Low Camera Gaze",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features crouches low on a narrow stone path atop one of the towering sandstone pillar mountains of Zhangjiajie National Forest Park, Hunan, China, at dawn. Her knees are together, one hand resting lightly on the ancient moss-covered stone beneath her, chin lifted as she gazes directly and confidently into the camera. She wears an oversized beige linen blazer and wide-leg white trousers. Shafts of warm golden morning light pierce through breaking clouds around and below her, illuminating her face and torso while soft amber light bounces from the surrounding lush green pillar peaks. The breathtaking view behind her reveals a sea of white clouds breaking apart, with other towering forested peaks emerging dramatically in the distance. Shot on an 85mm lens from slightly below eye level, editorial fashion photography, natural cinematic lighting, ultra-detailed photorealistic, ethereal atmosphere.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/zhangjiajie-floating-peaks-crouch-low-camera-gaze-composite-20260305.jpeg",
-    "date": "2026-03-05T08:15:00Z",
-    "category": "Composite",
-    "scenery": "Zhangjiajie Floating Peaks at Cloud Break, China",
-    "pose": "Cobblestone Alley Crouch Low Camera Gaze"
+    "id": 132,
+    "pose": "Sunlit Cafe Window Sit Cross-Legged Book Hold",
+    "date": "2026-03-05",
+    "time": "15:01 CST",
+    "image": "images/sunlit-cafe-window-sit-cross-legged-book-hold-20260305.png",
+    "scene": "Warm sunlit cafe, seated cross-legged on window bench, holding open book, oversized knit sweater, golden-hour light, cozy intellectual mood",
+    "model": "blonde hair, Korean appearance",
+    "execution": 132
   }
 ]
