@@ -107,10 +107,12 @@
     "drive_folder_url": "https://drive.google.com/drive/folders/1-4-LaBNWOnsFwKQQaCzZIgUebBw80NvK?usp=sharing"
   },
   {
-    "id": 402,
-    "title": "Lofoten Islands Sea Village at Winter Dusk — Norway",
-    "prompt": "A dramatic winter dusk scene over the Lofoten Islands, Norway — traditional red and yellow wooden rorbuer fishing cabins perched on stilts above the dark Arctic sea, snow-dusted mountain peaks rising sharply behind, the sky ablaze with deep violet and amber gradients, reflections shimmering on calm black water, a faint aurora haze beginning to appear on the horizon, photorealistic cinematic landscape photography, 8K ultra-detailed.",
-    "imageUrl": "https://i.ibb.co/4ZsX3HkQ/lofoten-islands-sea-village-at-winter-dusk-norway.png",
-    "timestamp": "2026-03-05T18:01:00Z"
+    "id": 140,
+    "title": "Cobblestone Alley — Lean Back on Wall, One Foot Up",
+    "style": "Candid street editorial / warm golden hour",
+    "date": "2026-03-06",
+    "imageUrl": "https://i.ibb.co/hRL2GbwV/cobblestone-alley-lean-back-wall-one-foot-up-20260306.png",
+    "pose": "Model leans back casually against a textured stone/brick wall in a narrow European cobblestone alley, one foot flat against the wall behind her (knee bent), arms loosely at sides, warm golden hour light",
+    "model": "Young female, blonde hair, Korean appearance, early 20s"
   }
 ]
