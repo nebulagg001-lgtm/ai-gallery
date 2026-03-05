@@ -107,15 +107,11 @@
     "drive_folder_url": "https://drive.google.com/drive/folders/1-4-LaBNWOnsFwKQQaCzZIgUebBw80NvK?usp=sharing"
   },
   {
-    "id": 143,
-    "title": "Amalfi Coast Terrace Neon Alley Hip Tilt Smirk Composite",
-    "category": "Composite",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features stands on a sun-drenched terrace overlooking the Amalfi Coast in Italy at golden hour, bougainvillea in deep magenta framing her, Positano cascading behind her to the turquoise Mediterranean. She leans against a stone balustrade, one hand on hip, other touching hair, cool confident smirk. Warm golden light, 50mm lens, vogue-style editorial lighting.",
-    "image_url": "https://i.ibb.co/LdwgHVkZ/amalfi-coast-terrace-neon-alley-hip-tilt-smirk-composite-20260305-143.jpg",
-    "local_image": "images/amalfi-coast-terrace-neon-alley-hip-tilt-smirk-composite-20260305-143.jpeg",
-    "scenery": "Amalfi Coast Cliffside Village at Golden Hour — Italy",
-    "pose": "Neon Alley Hip Tilt Smirk",
-    "date": "2026-03-05T18:05:00.000+08:00",
-    "drive_url": "https://drive.google.com/file/d/1cjRP-1Hmz4Fcz-qx9wWKo0_tw-7_6gpY/view"
+    "title": "Lencos Maranhenses Dunes at Midday Shimmer — Brazil",
+    "prompt": "Aerial perspective of Lencois Maranhenses National Park, Brazil — vast white sand dunes interspersed with crystal-clear turquoise and emerald freshwater lagoons shimmering under intense midday sun, heat haze rising from bleached sand, reflections of pure blue sky in still lagoon surfaces, remote and surreal landscape stretching to the horizon, shot with wide-angle lens, ultra-realistic photography style",
+    "image": "images/lencos-maranhenses-dunes-at-midday-shimmer-brazil.jpeg",
+    "image_url": "https://i.ibb.co/ycZZJBTs/lencos-maranhenses-dunes-at-midday-shimmer-brazil.jpg",
+    "timestamp": "2026-03-06T03:02:00+08:00",
+    "category": "Scenery"
   }
 ]
