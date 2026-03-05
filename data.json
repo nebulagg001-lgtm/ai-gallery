@@ -1,5 +1,15 @@
 [
   {
+    "title": "Kyoto Bamboo Grove — Sunlit Cafe Sit Book Hold",
+    "prompt": "Place the model from the pose image naturally into the Kyoto Bamboo Grove scenery. She is seated cross-legged on the stone path of the bamboo grove, holding her open book with a gentle contemplative smile. The morning mist drifts softly around her at ground level. The soft golden morning light through the bamboo canopy illuminates her face and knit sweater warmly. The bamboo stalks rise dramatically behind her on both sides. The atmosphere is serene, ethereal, and dreamlike. Shot at eye level, shallow depth of field, photorealistic, vogue editorial quality, ultra-detailed.",
+    "image": "images/kyoto-bamboo-grove-sunlit-cafe-sit-book-hold-composite-20260305.jpeg",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/kyoto-bamboo-grove-sunlit-cafe-sit-book-hold-composite-20260305.jpeg",
+    "timestamp": "2026-03-05T07:00:00+08:00",
+    "category": "Composite",
+    "scenery": "Kyoto Bamboo Grove at Morning Mist — Japan",
+    "pose": "Sunlit Cafe Window Sit Cross-Legged Book Hold"
+  },
+  {
     "title": "Neon Alley Hip Tilt Smirk",
     "prompt": "A young solo female model with long blonde hair and Korean facial features stands in a rain-slicked urban alley at night, bathed in vivid neon pink and blue light from surrounding signs. She leans confidently against a brick wall in a 3/4 angle from slightly below eye level, one hand resting on her hip, the other hand lightly touching her hair near her temple. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish. The neon reflections pool on the wet ground beneath her. Shot on a 50mm lens, vogue-style editorial lighting, deep shadows with saturated color pops.",
     "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/neon-alley-hip-tilt-smirk-20260304.png",
@@ -23,99 +33,22 @@
   },
   {
     "title": "Antelope Canyon Light Beams Hip Tilt Smirk",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level — one hand resting on her hip, the other hand lightly touching her hair near her temple. Dramatic, razor-thin shafts of golden noon sunlight pierce through the narrow slot canyon walls above, illuminating the wave-like layered orange and crimson sandstone textures around her, and swirling dust particles in dramatic beams. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish, adapted to the magical light and dramatic natural composition. Shot on a 50mm lens, vogue-style editorial lighting, warm golden-hour light against deep shadows, rich-orange-red earth tones, ultra-high-detail photorealistic 2K resolution. Wide-angle cinematic format captures the magnitude of the canyon walls towering around her.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/antelope-canyon-light-beams-hip-tilt-smirk-20260304.png",
-    "date": "2026-03-04T19:29:00",
-    "category": "Pose"
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level — one hand resting on her tilted hip, the other casually touching her hair near her temple. Her expression is a cool, self-assured smirk — poised, effortlessly stylish, and magnetic. She wears a fitted, muted-tone high-fashion outfit that contrasts beautifully with the vibrant orange and crimson canyon walls. Razor-thin shafts of golden sunlight pierce dramatically through the narrow slot canyon opening above, illuminating swirling dust particles in cinematic beams that graze her face and hair with warm, ethereal light. The canyon walls glow in rich amber and burnt-orange tones, with soft ambient reflections filling the narrow space. Shot on a 50mm lens, shallow depth of field isolating the model, photorealistic, vogue-style editorial lighting, cinematic color grading, 16:9 format.",
+    "image": "images/antelope-canyon-light-beams-hip-tilt-smirk.jpeg",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/antelope-canyon-light-beams-hip-tilt-smirk.jpeg",
+    "timestamp": "2026-03-04T19:09:00+08:00",
+    "category": "Composite",
+    "scenery": "Antelope Canyon Light Beams at Noon — Arizona",
+    "pose": "Neon Alley Hip Tilt Smirk"
   },
   {
-    "id": 125,
-    "pose": "Lakeside Dock Sit Feet Dangle Golden Hour",
-    "date": "2026-03-05",
-    "time": "11:01 CST",
-    "image": "images/lakeside-dock-sit-feet-dangle-golden-hour-20260305.png",
-    "scene": "Wooden dock extending over calm lake, sitting at edge feet dangling above water, golden-hour sunset glow, warm light on wood and water, casual contemplative peace",
-    "model": "blonde hair, Korean appearance",
-    "execution": 125
-  },
-  {
-    "id": 126,
-    "pose": "Rainy Window Sit Chin Rest Pensive",
-    "date": "2026-03-05",
-    "time": "12:00 CST",
-    "image": "images/rainy-window-sit-chin-rest-pensive-20260305.png",
-    "scene": "Rain-streaked window overlooking city, sitting on windowsill chin resting on knee, cozy oversized knit sweater, soft grey light, melancholic introspection",
-    "model": "blonde hair, Korean appearance",
-    "execution": 126
-  },
-  {
-    "id": 127,
-    "pose": "Rainy Window Kneel Hands Face Serene",
-    "date": "2026-03-05",
-    "time": "13:00 CST",
-    "image": "images/rainy-window-kneel-hands-face-serene-20260305.png",
-    "scene": "Rain-streaked window, kneeling on cushion, hands framing face, looking through glass, soft oversized cream sweater, grey diffuse light, serene wonder",
-    "model": "blonde hair, Korean appearance",
-    "execution": 127
-  },
-  {
-    "id": 128,
-    "pose": "Rooftop Edge Stand Arms Open Sunrise",
-    "date": "2026-03-05",
-    "time": "14:01 CST",
-    "image": "images/rooftop-edge-stand-arms-open-sunrise-20260305.png",
-    "scene": "Urban rooftop edge at sunrise, standing arms outstretched, backlit by golden-pink sky and city silhouette, wind-blown hair, flowing long coat, moment of freedom and power",
-    "model": "blonde hair, Korean appearance",
-    "execution": 128
-  },
-  {
-    "id": 129,
-    "pose": "Cherry Blossom Path Twirl Soft Laugh",
-    "date": "2026-03-05",
-    "time": "14:59 CST",
-    "image": "images/cherry-blossom-path-twirl-soft-laugh-20260305.png",
-    "scene": "Cherry blossom-lined path in full bloom, twirling arms out in white flowing dress, blossoms drifting in air, soft diffuse spring light, gentle laughter, pure joy and lightness",
-    "model": "blonde hair, Korean appearance",
-    "execution": 129
-  },
-  {
-    "id": 130,
-    "pose": "Neon Alley Lean Back Chin Up",
-    "date": "2026-03-05",
-    "time": "9:00 CST",
-    "image": "images/neon-alley-lean-back-chin-up-20260305.png",
-    "scene": "Neon-lit urban alley at night, leaning back against brick wall, chin tilted up to sky, cyan/magenta reflections, wet pavement, edgy, defiant, leather jacket, unapologetic confidence",
-    "model": "blonde hair, Korean appearance",
-    "execution": 130
-  },
-  {
-    "id": 131,
-    "pose": "Sunlit Cafe Window Sit Cross-Legged Book Hold",
-    "date": "2026-03-05",
-    "time": "6:02 CST",
-    "image": "images/sunlit-cafe-window-sit-cross-legged-book-hold-20260305.png",
-    "scene": "Warm sunlit cafe, seated cross-legged on window bench, holding open book, oversized knit sweater, golden-hour light, cozy intellectual mood",
-    "model": "blonde hair, Korean appearance",
-    "execution": 131
-  },
-  {
-    "id": 132,
-    "pose": "Sunlit Cafe Window Sit Cross-Legged Book Hold",
-    "date": "2026-03-05",
-    "time": "15:01 CST",
-    "image": "images/sunlit-cafe-window-sit-cross-legged-book-hold-20260305.png",
-    "scene": "Warm sunlit cafe, seated cross-legged on window bench, holding open book, oversized knit sweater, golden-hour light, cozy intellectual mood",
-    "model": "blonde hair, Korean appearance",
-    "execution": 132
-  },
-  {
-    "id": 129,
-    "pose": "Sunlit Cafe Window Sit Cross-Legged Book Hold",
-    "date": "2026-03-05",
-    "time": "15:01 CST",
-    "image": "images/sunlit-cafe-window-sit-cross-legged-book-hold-20260305.png",
-    "scene": "Warm sunlit cafe, seated cross-legged on window bench, holding open book, oversized knit sweater, golden-hour light, cozy intellectual mood",
-    "model": "blonde hair, Korean appearance",
-    "execution": 129
+    "title": "Ice Fjord Nacreous Clouds Hip Tilt Smirk",
+    "prompt": "Place the model from the pose image naturally into the Ice Fjord scenery. She stands confidently on the icy shore of the Norwegian fjord at twilight, one hand resting on her tilted hip, the other casually touching her hair near her temple. Her expression is a cool, self-assured smirk. She wears a fitted, high-fashion winter coat that contrasts with the icy blue and silver tones of the frozen landscape. The nacreous clouds swirl dramatically overhead in pastel pink, green, and blue. The towering glacial walls frame her on both sides, and the mirror-smooth icy water reflects both her silhouette and the ethereal sky. The atmosphere is cinematic, surreal, and commanding. Shot from slightly below eye level at a 3/4 angle, shallow depth of field, photorealistic, vogue editorial quality, ultra-detailed.",
+    "image": "images/ice-fjord-nacreous-clouds-hip-tilt-smirk-composite-20260305.jpeg",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/ice-fjord-nacreous-clouds-hip-tilt-smirk-composite-20260305.jpeg",
+    "timestamp": "2026-03-05T06:00:00+08:00",
+    "category": "Composite",
+    "scenery": "Ice Fjord at Twilight with Nacreous Clouds — Norway",
+    "pose": "Neon Alley Hip Tilt Smirk"
   }
 ]
