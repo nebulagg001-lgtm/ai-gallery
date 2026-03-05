@@ -107,12 +107,15 @@
     "drive_folder_url": "https://drive.google.com/drive/folders/1-4-LaBNWOnsFwKQQaCzZIgUebBw80NvK?usp=sharing"
   },
   {
-    "id": 140,
-    "title": "Cobblestone Alley — Lean Back on Wall, One Foot Up",
-    "style": "Candid street editorial / warm golden hour",
-    "date": "2026-03-06",
-    "imageUrl": "https://i.ibb.co/hRL2GbwV/cobblestone-alley-lean-back-wall-one-foot-up-20260306.png",
-    "pose": "Model leans back casually against a textured stone/brick wall in a narrow European cobblestone alley, one foot flat against the wall behind her (knee bent), arms loosely at sides, warm golden hour light",
-    "model": "Young female, blonde hair, Korean appearance, early 20s"
+    "id": 143,
+    "title": "Amalfi Coast Terrace Neon Alley Hip Tilt Smirk Composite",
+    "category": "Composite",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands on a sun-drenched terrace overlooking the Amalfi Coast in Italy at golden hour, bougainvillea in deep magenta framing her, Positano cascading behind her to the turquoise Mediterranean. She leans against a stone balustrade, one hand on hip, other touching hair, cool confident smirk. Warm golden light, 50mm lens, vogue-style editorial lighting.",
+    "image_url": "https://i.ibb.co/LdwgHVkZ/amalfi-coast-terrace-neon-alley-hip-tilt-smirk-composite-20260305-143.jpg",
+    "local_image": "images/amalfi-coast-terrace-neon-alley-hip-tilt-smirk-composite-20260305-143.jpeg",
+    "scenery": "Amalfi Coast Cliffside Village at Golden Hour — Italy",
+    "pose": "Neon Alley Hip Tilt Smirk",
+    "date": "2026-03-05T18:05:00.000+08:00",
+    "drive_url": "https://drive.google.com/file/d/1cjRP-1Hmz4Fcz-qx9wWKo0_tw-7_6gpY/view"
   }
 ]
