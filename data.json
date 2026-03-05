@@ -7,14 +7,14 @@
     "category": "Pose"
   },
   {
-    "title": "Waitomo Glowworm Caves at Midnight – New Zealand",
+    "title": "Waitomo Glowworm Caves at Midnight — New Zealand",
     "prompt": "A breathtaking underground cave system in Waitomo, New Zealand, photographed at midnight. The cave ceiling is blanketed with thousands of tiny bioluminescent glowworms (Arachnocampa luminosa), casting an ethereal, deep blue-cyan glow across the still dark water below, creating a perfect mirror reflection of the starlike ceiling. Ancient limestone formations — stalactites and flowstones — are softly lit in cool blue and teal tones. A small wooden boat drifts silently through the subterranean river, adding scale to the immense cavern. The atmosphere is magical, otherworldly, and serene. Ultra-detailed, photorealistic, long-exposure photography aesthetic, deep blacks, glowing cyan bioluminescence, perfectly still reflective water.",
     "image": "images/waitomo-glowworm-caves-at-midnight-new-zealand.png",
     "timestamp": "2026-03-05T02:09:00+08:00",
     "category": "Scenery"
   },
   {
-    "title": "Antelope Canyon Light Beams at Noon – Arizona",
+    "title": "Antelope Canyon Light Beams at Noon — Arizona",
     "filename": "antelope-canyon-light-beams-at-noon-arizona.png",
     "prompt": "A breathtaking photorealistic wide-angle shot deep inside Upper Antelope Canyon, Arizona. Razor-thin shafts of golden noon sunlight pierce through narrow sandstone slot canyon walls, illuminating swirling dust particles in dramatic beams. The undulating, wave-like orange and crimson sandstone walls glow with rich warm hues. The canyon floor is bathed in soft ambient light. 16:9 cinematic format, ultra-high detail, 2K resolution.",
     "timestamp": "2026-03-04T19:04:12Z",
@@ -23,54 +23,79 @@
   },
   {
     "title": "Antelope Canyon Light Beams Hip Tilt Smirk",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level — one hand resting on her hip's curve, the other lightly brushing the stone surface. She wears a flowing, earth-toned boho-style outfit that blends with the canyon's warm palette. Golden sunbeams pierce the slot above, illuminating dust particles and bathing her in dramatic, ethereal light. Her expression: a subtle, serene smirk — calm, knowing, and elegantly dismissive. Orange and crimson sandstone glows. High contrast, cinematic light shafts, deep shadows, 2K resolution.",
-    "image": "images/antelope-canyon-light-beams-hip-tilt-smirk.jpeg",
-    "timestamp": "2026-03-05T02:14:30+08:00",
-    "category": "Composite",
-    "scenery_title": "Antelope Canyon Light Beams at Noon",
-    "pose_title": "Hip Tilt Smirk",
-    "imageUrl": "https://drive.google.com/file/d/1HmzWbX7gx5exTlUMZ3A1L2YiNgYORP8M/view",
-    "scenery_image": "images/antelope-canyon-light-beams-at-noon-arizona.png",
-    "pose_image": "images/hip-tilt-smirk.png",
-    "composite_image": "images/antelope-canyon-light-beams-hip-tilt-smirk.jpeg"
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level — one hand resting confidently on her hip, the other lightly touching her temple-side hair in a natural, editorial gesture. She wears a sleek, minimalist black fashion ensemble. Her expression is a cool, commanding smirk: effortlessly stylish, self-assured, and in control. The canyon glows with rich orange, crimson, and gold tones from reflected sunlight; razor-thin shafts of golden light beam down from the narrow slot above, casting ethereal highlights onto her face and silhouette. The textured, flowing sandstone creates a dramatic, otherworldly backdrop. Shot on a 50mm lens, editorial fashion lighting, ultra-high detail, cinematic composition, 16:9.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/antelope-canyon-light-beams-hip-tilt-smirk-20260304.png",
+    "date": "2026-03-04T19:09:00",
+    "category": "Pose"
   },
   {
-    "title": "Waitomo Glowworm Caves Rainy Window Kneel Hands Face Serene",
-    "prompt": "A dreamy, emotionally evocative editorial composite scene: a young solo female model with long blonde hair and Korean facial features kneels beside a dreamy rain-slicked window in an underground cavern. She gently rests her hands and face on the window, closing her eyes in a serene, meditative pose. Thousands of glowing cyan-blue glowworms (Arachnocampa luminosa) cover the cave ceiling like stars, casting a magical ethereal glow reflected in the still water below and softly illuminating her face. Photorealistic, 16:9, 2K resolution.",
-    "image": "images/waitomo-glowworm-caves-rainy-window-kneel-hands-face-serene-composite-20260305.png",
-    "timestamp": "2026-03-05T03:12:00+08:00",
-    "category": "Composite",
-    "scenery_title": "Waitomo Glowworm Caves at Midnight – New Zealand",
-    "pose_title": "Rainy Window Kneel Hands Face Serene",
-    "imageUrl": "https://drive.google.com/file/d/1XQsN5h6SnlHPqaj_xzx6mH8ZmM6HMG6K/view",
-    "scenery_image": "images/waitomo-glowworm-caves-at-midnight-new-zealand.png",
-    "pose_image": "images/rainy-window-kneel-hands-face-serene-composite-20260305.png",
-    "composite_image": "images/waitomo-glowworm-caves-rainy-window-kneel-hands-face-serene-composite-20260305.png"
+    "title": "Northeast Greenland Ice Fjord Nacreous Clouds Polar Twilight",
+    "prompt": "A vast, otherworldly fjord in Northeast Greenland during polar twilight — the sun hovers just below the horizon, casting a gradient sky of deep violet, electric blue, magenta, and fiery orange. Towering icebergs, sculpted by wind and sea, float silently in the ink-blue water, their surfaces glowing with soft teal and lavender reflections. Above, rare nacreous clouds shimmer in iridescent pastel waves of pink, green, and silver against the twilight sky. The scene is utterly still, surreal, and silent — a frozen symphony of color and form. Shot in ultra-wide cinematic 16:9 format, photorealistic landscape photography, 2K resolution, long-exposure smoothness, hyper-detailed ice textures.",
+    "image": "images/northeast-greenland-ice-fjord-nacreous-clouds-polar-twilight.png",
+    "timestamp": "2026-03-05T03:15:00+08:00",
+    "category": "Scenery"
   },
   {
-    "title": "Waitomo Glowworm Caves Hip Tilt Smirk Boat",
-    "filename": "waitomo-glowworm-caves-hip-tilt-smirk-boat-composite-20260305.png",
-    "timestamp": "2026-03-05T04:17:00+08:00",
-    "category": "Composite",
-    "scenery_title": "Waitomo Glowworm Caves at Midnight",
-    "pose_title": "Hip Tilt Smirk",
-    "prompt": "A dreamy, ethereal editorial composite scene: a young solo female model with long blonde hair and Korean facial features stands in a small wooden boat drifting through an underground river in Waitomo Glowworm Caves, New Zealand, at midnight. She stands confidently with a subtle hip tilt, wearing a flowing neutral-toned outfit, her expression a calm, serene smirk. Thousands of glowing bioluminescent glowworms blanket the cave ceiling like a starry sky, casting a deep blue-cyan glow. The still water perfectly mirrors the glowing ceiling. Ancient limestone formations are softly illuminated in cool blue and teal tones. Photorealistic, 16:9, 2K resolution.",
-    "scenery_image": "images/waitomo-glowworm-caves-at-midnight-new-zealand.png",
-    "pose_image": "images/hip-tilt-smirk.png",
-    "composite_image": "images/waitomo-glowworm-caves-hip-tilt-smirk-boat-composite-20260305.png",
-    "imageUrl": "https://drive.google.com/file/d/1DvCLuY8ERC5cmSvEySQHwzg4hMHK0Ybo/view"
+    "title": "Cano Cristales River of Five Colors at Peak Bloom — Colombia",
+    "prompt": "A breathtaking aerial view of Cano Cristales, the legendary 'River of Five Colors,' in Colombia's Serrania de la Macarena during peak bloom season. The riverbed is a surreal explosion of vivid reds, pinks, yellows, greens, and blues — created by the rare aquatic plant Macarenia clavigera. Crystal-clear water flows gently over smooth rounded stones, creating ribbons of turquoise and emerald that weave through the vibrant crimson and magenta plant blooms. The surrounding tropical forest is lush green, framing the river like a living canvas. Golden hour sunlight filters through scattered clouds, casting soft highlights on the water's surface. Ultra-detailed, photorealistic, cinematic 16:9 composition, hyper-saturated natural colors, 2K resolution.",
+    "image": "images/cano-cristales-river-of-five-colors-at-peak-bloom-colombia.png",
+    "timestamp": "2026-03-05T04:10:00+08:00",
+    "category": "Scenery"
   },
   {
-    "title": "Plitvice Lakes Windblown Hair Pensive Composite",
-    "filename": "plitvice-lakes-windblown-hair-pensive-composite-20260305.png",
-    "timestamp": "2026-03-05T12:17:00+08:00",
-    "category": "Composite",
-    "scenery_title": "Plitvice Lakes Waterfalls Golden Hour",
-    "pose_title": "Windblown Hair Look Away Pensive",
-    "prompt": "A dreamy, emotionally evocative editorial composite scene: a young solo female model with long blonde hair and Korean facial features stands on a moss-covered wooden boardwalk at Plitvice Lakes National Park, Croatia, at golden hour. She gazes off to the side pensively with windblown hair, wearing a flowing neutral-toned outfit. Cascading turquoise waterfalls and lush green vegetation surround her. Golden hour sun filters through the canopy creating a halo effect. Photorealistic, 16:9, 2K resolution.",
-    "scenery_image": "images/plitvice-lakes-waterfalls-golden-hour.png",
-    "pose_image": "images/windblown-hair-look-away-pensive.png",
-    "composite_image": "images/plitvice-lakes-windblown-hair-pensive-composite-20260305.png",
-    "imageUrl": "https://drive.google.com/file/d/1DvCLuY8ERC5cmSvEySQHwzg4hMHK0Ybo/view"
+    "title": "Namib Sand Sea at Crimson Dusk — Namibia",
+    "prompt": "An otherworldly landscape of the Namib Sand Sea in Namibia at dusk, featuring the iconic giant red sand dunes of Sossusvlei. The scene is bathed in deep crimson, burnt orange, and gold as the setting sun casts long dramatic shadows across the undulating dune ridges. The sharp, knife-edge crests of the tallest dunes are illuminated in fiery amber, contrasting starkly against the deep indigo-purple shadow valleys below. In the foreground, a skeletal dead acacia tree stands alone on the cracked white clay pan of Deadvlei, adding haunting scale and stark contrast. The sky transitions from warm peach near the horizon to deep violet overhead. Ultra-wide cinematic 16:9 composition, photorealistic, high-contrast lighting, hyper-detailed sand textures, 2K resolution.",
+    "image": "images/namib-sand-sea-at-crimson-dusk-namibia.png",
+    "timestamp": "2026-03-05T05:05:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Lencois Maranhenses Lagoons at Blue Hour — Brazil",
+    "prompt": "A surreal aerial view of Lencois Maranhenses National Park in Brazil during blue hour. Endless pristine white sand dunes stretch to the horizon, their smooth curves and ripples illuminated in soft pastel pink and lavender twilight tones. Nestled between the dunes are dozens of crystal-clear turquoise and emerald lagoons, their surfaces reflecting the gradient sky — deep blue overhead transitioning to soft peach and magenta near the horizon. The interplay of white sand, vivid blue-green water, and twilight sky creates a dreamlike, otherworldly landscape. Ultra-wide cinematic 16:9 composition, photorealistic, long-exposure smoothness, hyper-detailed sand textures, rich color saturation, 2K resolution.",
+    "image": "images/lencois-maranhenses-lagoons-at-blue-hour-brazil.png",
+    "timestamp": "2026-03-05T06:05:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Faroe Islands Sea Cliffs at Storm Light — Denmark",
+    "prompt": "A dramatic wide-angle view of the towering sea cliffs of the Faroe Islands during a passing storm. Jagged basalt columns and steep grassy slopes plunge vertically into the churning North Atlantic Ocean below. Dark storm clouds swirl overhead, parting momentarily to allow a single shaft of golden sunlight to pierce through and illuminate a cascade of waterfalls tumbling down the cliff face into the sea. The ocean is a deep steel-blue with white foam cresting on turbulent waves. Mist and sea spray rise from the base of the cliffs. The scene is raw, moody, and intensely atmospheric. Ultra-wide cinematic 16:9 composition, photorealistic landscape photography, dramatic lighting contrast, rich textures, 2K resolution.",
+    "image": "images/faroe-islands-sea-cliffs-at-storm-light-denmark.png",
+    "timestamp": "2026-03-05T07:05:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Trolltunga Rock Ledge at Golden Hour — Norway",
+    "prompt": "A breathtaking wide-angle view of Trolltunga ('Troll's Tongue'), the iconic horizontal rock ledge jutting out dramatically over Lake Ringedalsvatnet in Norway, captured at golden hour. The flat stone platform extends boldly into the air, nearly 700 meters above the deep blue fjord lake below. A lone hiker sits at the very edge of the ledge, silhouetted against the glowing sky, emphasizing the dizzying scale and height. The surrounding Norwegian landscape is a tapestry of rugged mountains, deep valleys, and tranquil water, all bathed in warm amber and soft orange light. The sky transitions from golden near the horizon to soft lavender overhead. Ultra-wide cinematic 16:9 composition, photorealistic, dramatic depth and scale, hyper-detailed textures, 2K resolution.",
+    "image": "images/trolltunga-rock-ledge-at-golden-hour-norway.png",
+    "timestamp": "2026-03-05T08:05:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Havasupai Turquoise Falls at Golden Hour — Arizona",
+    "prompt": "A stunning ground-level view of Havasu Falls, the iconic turquoise waterfall in the Havasupai Reservation, Arizona, captured at golden hour. The waterfall cascades dramatically over layered red and orange travertine cliffs into a series of vibrant turquoise pools below — the water's surreal blue-green color is caused by high calcium carbonate content. Lush green cottonwood trees and desert vegetation frame the scene, contrasting vividly against the warm red-orange rock and electric blue water. The late afternoon sun bathes the canyon walls in soft golden light, while the pools shimmer with reflections of the sky. The scene is serene, otherworldly, and intensely colorful. Cinematic 16:9 composition, photorealistic, rich color saturation, hyper-detailed water and rock textures, 2K resolution.",
+    "image": "images/havasupai-turquoise-falls-at-golden-hour-arizona.png",
+    "timestamp": "2026-03-05T09:05:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Jiuzhaigou Valley Autumn Reflections at Blue Hour — Sichuan, China",
+    "prompt": "A breathtaking view of Jiuzhaigou Valley in Sichuan, China, during peak autumn at blue hour. A pristine turquoise lake — so clear the bottom is visible — reflects a perfect mirror image of the surrounding landscape. Ancient forests of golden, orange, and crimson deciduous trees frame the water, their vibrant fall colors glowing softly in the twilight. Snow-capped peaks rise in the distance, their silhouettes dark against the gradient sky — deep blue overhead transitioning to soft lavender and peach near the horizon. Delicate travertine formations and submerged logs create natural patterns beneath the crystal-clear water. The scene is serene, surreal, and intensely colorful. Ultra-wide cinematic 16:9 composition, photorealistic, perfect mirror reflection, hyper-detailed textures, rich color saturation, 2K resolution.",
+    "image": "images/jiuzhaigou-valley-autumn-reflections-at-blue-hour-sichuan-china.png",
+    "timestamp": "2026-03-05T10:05:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Dallol Hydrothermal Fields at Alien Dawn — Ethiopia",
+    "prompt": "An otherworldly, surreal wide-angle view of the Dallol hydrothermal fields in the Danakil Depression, Ethiopia, captured at dawn. The landscape is a vivid alien tableau of sulfuric yellow, electric lime green, rust orange, and deep crimson mineral deposits formed by extreme volcanic activity and salt deposits. Bubbling hot springs, acidic pools, and crystalline salt formations create a bizarre, almost extraterrestrial terrain. The sky transitions from deep violet overhead to warm peach and gold near the horizon, casting soft highlights on the jagged mineral crusts and steaming vents. The scene is harsh, vibrant, and utterly unique — one of the most extreme landscapes on Earth. Ultra-wide cinematic 16:9 composition, photorealistic, hyper-saturated colors, ultra-detailed textures, 2K resolution.",
+    "image": "images/dallol-hydrothermal-fields-at-alien-dawn-ethiopia.png",
+    "timestamp": "2026-03-05T11:05:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Patagonia Torres del Paine at First Light — Chile",
+    "prompt": "Dramatic granite towers of Torres del Paine piercing through morning mist at golden hour, mirror-still turquoise lake in the foreground reflecting the peaks, sweeping Patagonian steppe stretching to the horizon, soft orange and pink alpenglow on the rock faces, cinematic ultra-wide aerial perspective, hyper-realistic landscape photography, 2K resolution 16:9.",
+    "image": "images/patagonia-torres-del-paine-at-first-light-chile.jpeg",
+    "timestamp": "2026-03-05T13:07:00+08:00",
+    "category": "Scenery"
   }
 ]
