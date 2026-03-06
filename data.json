@@ -81,44 +81,24 @@
     "filename": "patagonia-torres-del-paine-neon-alley-hip-tilt-sunrise-composite-20260306-152.png"
   },
   {
+    "id": null,
     "title": "Salar de Uyuni Neon Alley Hip Tilt Mirror Dawn Composite 20260306-153",
     "type": "composite",
     "prompt": "A young solo female model with long blonde hair and Korean facial features stands at the edge of the Salar de Uyuni salt flat in Bolivia at dawn, the world's largest mirror. She leans confidently in a 3/4 angle from slightly below eye level, one hand resting on her hip, the other hand lightly touching her hair near her temple — the exact 'Neon Alley Hip Tilt Smirk' pose. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish. The vast salt flat stretches endlessly behind her, its surface a perfect mirror reflection of the soft pastel dawn sky — pale lavender, rose pink, and golden orange bleeding into each other at the horizon. Thin sheets of water cover the salt crust, creating a seamless sky-earth mirror. Her black silhouette contrasts dramatically against the luminous, glowing reflection beneath her feet. The lighting is soft, diffused golden-hour dawn light from low on the horizon, casting long warm shadows across the flat. Shot on a 50mm lens, Vogue-style editorial wide-angle cinematic, ultra-high detail, perfect harmony between model and infinite mirror landscape.",
     "url": "https://i.ibb.co/nsBhYmDB/salar-de-uyuni-neon-alley-hip-tilt-mirror-dawn-composite-20260306-153.png",
     "date": "2026-03-06",
-    "tags": [
-      "composite"
-    ],
+    "tags": ["composite"],
+    "scenery_id": null,
     "pose_id": 1,
-    "pixel": "1024x1536",
-    "drive_url": "https://drive.google.com/file/d/1Y5nodpryYY8_vg5f0Xkb_DFDcpR3YsI1/view",
-    "execution": 153,
-    "category": "Composite",
-    "scenery": "Salar de Uyuni Mirror Reflections at Dawn — Bolivia",
-    "pose": "Neon Alley Hip Tilt Smirk",
-    "filename": "salar-de-uyuni-neon-alley-hip-tilt-mirror-dawn-composite-20260306-153.png"
+    "pixel": "1024x1536"
   },
   {
-    "id": 150,
-    "title": "Misty Greenhouse Botanical Dreamer",
-    "setting": "Victorian greenhouse at golden morning hour, tropical plants, soft mist, glass panels",
-    "outfit": "Flowing sage-green chiffon maxi dress with thin spaghetti straps, delicate floral hair clip",
-    "pose": "Standing between tall tropical plants, one hand touching monstera leaf, head tilted back, eyes closed, dreamy serene expression",
-    "mood": "Ethereal, botanical, editorial soft-romance",
-    "image": "images/misty-greenhouse-botanical-dreamer-20260306.png",
-    "timestamp": "2026-03-06T07:01:00Z",
-    "execution": 150
-  },
-  {
-    "id": 151,
-    "title": "Sunlit Rooftop Wind Dancer",
-    "setting": "Urban rooftop at mid-morning, city skyline softly blurred in background, warm golden sunlight, scattered potted plants and string lights",
-    "outfit": "Pastel yellow off-shoulder sundress, delicate gold anklet, strappy sandals",
-    "pose": "Standing near rooftop edge, arms slightly outstretched, head tilted back with eyes closed, hair flowing freely in the breeze — free-spirited carefree dancer energy",
-    "mood": "Airy, joyful, Vogue editorial natural light",
-    "image": "images/sunlit-rooftop-wind-dancer-20260306.png",
-    "imgbb_url": "https://i.ibb.co/VcpsBvjx/sunlit-rooftop-wind-dancer-20260306.png",
-    "timestamp": "2026-03-06T08:08:00Z",
-    "execution": 151
+    "id": 411,
+    "title": "Antelope Canyon Light Beams at Noon — Arizona USA",
+    "prompt": "Interior of Antelope Canyon, Arizona, narrow slot canyon walls of swirling orange and red sandstone, dramatic shafts of golden sunlight piercing down from above creating ethereal light beams, fine sand particles floating in the air catching the light, ultra-detailed textures, Nat Geo editorial photography, 8K",
+    "image_url": "https://i.ibb.co/yFtRN5zY/antelope-canyon-light-beams-noon-arizona-usa.jpg",
+    "local_file": "images/antelope-canyon-light-beams-noon-arizona-usa.jpeg",
+    "timestamp": "2026-03-06T08:17:28Z",
+    "execution": 411
   }
 ]
