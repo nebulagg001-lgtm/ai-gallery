@@ -131,13 +131,21 @@
     "filename": "santorini-caldera-sunlit-rooftop-wind-dancer-blue-hour-composite-20260306-156.png"
   },
   {
-    "id": 156,
-    "title": "Cobblestone Alley Dream Walker",
-    "description": "A young Korean woman with long blonde hair caught mid-stride on a narrow rain-slicked European cobblestone alley at dusk. Deep burgundy wrap midi dress with billowy sleeves, caramel leather ankle boots. Warm amber streetlamps, ivy-covered walls, puddle reflections. Romantic wanderlust editorial fashion.",
-    "image": "https://drive.google.com/uc?export=view&id=1yP1A1a8-na15Mwiq2FpmzqrHi0lfRaz7",
-    "drive_url": "https://drive.google.com/file/d/1yP1A1a8-na15Mwiq2FpmzqrHi0lfRaz7/view?usp=drivesdk",
-    "tags": ["fashion", "editorial", "european", "alley", "dusk", "romantic", "blonde", "korean"],
-    "date": "2026-03-06",
-    "pose_number": 156
+    "id": 15,
+    "title": "Kyoto Bamboo Grove Sunlit Rooftop Wind Dancer Misty Morning Composite",
+    "category": "Composite",
+    "timestamp": "2026-03-06T13:00:00+00:00",
+    "execution": 159,
+    "scenery": "Kyoto Bamboo Grove at Misty Morning - Japan",
+    "scenery_description": "Arashiyama Bamboo Grove in Kyoto at misty morning, tall bamboo stalks creating cathedral-like corridors, soft diffused morning mist, dappled green-gold light filtering through the canopy, stone lanterns along a mossy path",
+    "pose": "Sunlit Rooftop Wind Dancer",
+    "pose_number": 151,
+    "outfit": "Pastel yellow off-shoulder sundress, delicate gold anklet, strappy sandals",
+    "image": "images/kyoto-bamboo-grove-sunlit-rooftop-wind-dancer-misty-morning-composite-20260306-159.png",
+    "filename": "kyoto-bamboo-grove-sunlit-rooftop-wind-dancer-misty-morning-composite-20260306-159.png",
+    "imgbb_url": "https://i.ibb.co/ymTrHXbx/composite-159.png",
+    "drive_url": "https://drive.google.com/file/d/1QBTLlgWEPGWrswHEU9KfZOPgRKOtZQRh/view?usp=drivesdk",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/kyoto-bamboo-grove-sunlit-rooftop-wind-dancer-misty-morning-composite-20260306-159.png",
+    "prompt": "Young solo female model with long blonde hair and Korean features standing inside the famous Arashiyama Bamboo Grove in Kyoto, Japan at misty morning. Arms slightly outstretched, head tilted back with eyes closed, hair flowing freely. Pastel yellow off-shoulder sundress, gold anklet, strappy sandals. Soft diffused morning mist, green-gold light, stone lanterns. Photorealistic editorial fashion photography."
   }
 ]
