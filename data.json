@@ -131,14 +131,13 @@
     "filename": "santorini-caldera-sunlit-rooftop-wind-dancer-blue-hour-composite-20260306-156.png"
   },
   {
-    "id": 416,
-    "title": "Faroe Islands Sea Stack at Storm — Denmark",
-    "prompt": "A dramatic photorealistic landscape of the Faroe Islands featuring towering sea stacks rising from churning dark Atlantic waters during a fierce storm. Massive waves crash against the jagged basalt rock formations, sending white spray high into the air. The sky is filled with brooding storm clouds in shades of dark grey and deep purple, with dramatic lighting breaking through in rays. Lush green clifftops are visible above, contrasting with the violent sea below. The scene captures the raw, untamed power of North Atlantic nature — cinematic composition, ultra-detailed, moody and epic atmosphere.",
-    "image_url": "https://i.ibb.co/5hVHhWjY/faroe-islands-sea-stack-at-storm-denmark.jpg",
-    "filename": "faroe-islands-sea-stack-at-storm-denmark.jpeg",
-    "timestamp": "2026-03-06T13:15:58Z",
-    "execution": 416,
-    "location": "Faroe Islands, Denmark",
-    "tags": ["storm", "sea stacks", "Atlantic", "dramatic", "Faroe Islands", "basalt", "waves"]
+    "id": 156,
+    "title": "Cobblestone Alley Dream Walker",
+    "description": "A young Korean woman with long blonde hair caught mid-stride on a narrow rain-slicked European cobblestone alley at dusk. Deep burgundy wrap midi dress with billowy sleeves, caramel leather ankle boots. Warm amber streetlamps, ivy-covered walls, puddle reflections. Romantic wanderlust editorial fashion.",
+    "image": "https://drive.google.com/uc?export=view&id=1yP1A1a8-na15Mwiq2FpmzqrHi0lfRaz7",
+    "drive_url": "https://drive.google.com/file/d/1yP1A1a8-na15Mwiq2FpmzqrHi0lfRaz7/view?usp=drivesdk",
+    "tags": ["fashion", "editorial", "european", "alley", "dusk", "romantic", "blonde", "korean"],
+    "date": "2026-03-06",
+    "pose_number": 156
   }
 ]
