@@ -87,9 +87,17 @@
     "prompt": "A young solo female model with long blonde hair and Korean facial features stands at the edge of the Salar de Uyuni salt flat in Bolivia at dawn, the world's largest mirror. She leans confidently in a 3/4 angle from slightly below eye level, one hand resting on her hip, the other hand lightly touching her hair near her temple — the exact 'Neon Alley Hip Tilt Smirk' pose. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish. The vast salt flat stretches endlessly behind her, its surface a perfect mirror reflection of the soft pastel dawn sky — pale lavender, rose pink, and golden orange bleeding into each other at the horizon. Thin sheets of water cover the salt crust, creating a seamless sky-earth mirror. Her black silhouette contrasts dramatically against the luminous, glowing reflection beneath her feet. The lighting is soft, diffused golden-hour dawn light from low on the horizon, casting long warm shadows across the flat. Shot on a 50mm lens, Vogue-style editorial wide-angle cinematic, ultra-high detail, perfect harmony between model and infinite mirror landscape.",
     "url": "https://i.ibb.co/nsBhYmDB/salar-de-uyuni-neon-alley-hip-tilt-mirror-dawn-composite-20260306-153.png",
     "date": "2026-03-06",
-    "tags": ["composite"],
+    "tags": [
+      "composite"
+    ],
     "scenery_id": null,
     "pose_id": 1,
-    "pixel": "1024x1536"
+    "pixel": "1024x1536",
+    "drive_url": "https://drive.google.com/file/d/1Y5nodpryYY8_vg5f0Xkb_DFDcpR3YsI1/view",
+    "execution": 153,
+    "category": "Composite",
+    "scenery": "Salar de Uyuni Mirror Reflections at Dawn — Bolivia",
+    "pose": "Neon Alley Hip Tilt Smirk",
+    "filename": "salar-de-uyuni-neon-alley-hip-tilt-mirror-dawn-composite-20260306-153.png"
   }
 ]
