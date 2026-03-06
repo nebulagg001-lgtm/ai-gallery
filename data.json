@@ -131,47 +131,14 @@
     "filename": "santorini-caldera-sunlit-rooftop-wind-dancer-blue-hour-composite-20260306-156.png"
   },
   {
-    "id": 157,
-    "title": "Salar de Uyuni Sunlit Rooftop Wind Dancer Dawn Composite",
-    "category": "Composite",
-    "sceneryTitle": "Salar de Uyuni at Dawn — Bolivia",
-    "poseTitle": "Sunlit Rooftop Wind Dancer",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features stands gracefully on the infinite mirror surface of the Salar de Uyuni salt flat in Bolivia at dawn. She stands with arms slightly outstretched, head tilted back gently with eyes closed, hair flowing freely in the soft Andean breeze — the picture of free-spirited, carefree dancer energy. She wears a pastel yellow off-shoulder sundress that glows warmly in the dawn light, a delicate gold anklet, and strappy sandals. Beneath her feet, a thin layer of water creates a flawless mirror reflection of both her figure and the breathtaking pastel dawn sky above — soft pinks, warm oranges, and deep lavenders bleeding into the horizon. The vast white salt flat stretches endlessly in every direction, perfectly flat, the boundary between sky and earth dissolved in the mirror-like water. Scattered hexagonal salt formations catch the first warm rays of sunrise light in the foreground. The atmosphere is ethereal, otherworldly, and utterly silent. Shot on a 50mm lens, Vogue-style editorial wide-angle cinematic framing, ultra-detailed, photorealistic, soft pastel dawn palette with warm golden sunrise accents, 16:9 aspect ratio, 2K resolution.",
-    "imageUrl": "https://i.imgur.com/XWSkQkH.jpeg",
-    "thumbnailUrl": "https://i.imgur.com/XWSkQkH.jpeg",
-    "driveUrl": "https://drive.google.com/file/d/1yCVYp5adgL8tjqyQTQ4WPGTqp0Dz1xZi/view?usp=drivesdk",
-    "filename": "salar-de-uyuni-sunlit-rooftop-wind-dancer-dawn-composite-20260306-157.png",
-    "date": "2026-03-06T11:00:00+00:00",
-    "execution": 157,
-    "tags": [
-      "composite",
-      "salar-de-uyuni",
-      "bolivia",
-      "dawn",
-      "salt-flat",
-      "wind-dancer"
-    ]
-  },
-  {
-    "id": 158,
-    "title": "Salar de Uyuni Sunlit Rooftop Wind Dancer Dawn Composite",
-    "category": "Composite",
-    "sceneryTitle": "Salar de Uyuni at Dawn — Bolivia",
-    "poseTitle": "Sunlit Rooftop Wind Dancer",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features stands gracefully on the infinite mirror surface of the Salar de Uyuni salt flat in Bolivia at dawn. She stands with arms slightly outstretched, head tilted back gently with eyes closed, hair flowing freely in the soft Andean breeze — the picture of free-spirited, carefree dancer energy. She wears a pastel yellow off-shoulder sundress that glows warmly in the dawn light, a delicate gold anklet, and strappy sandals. Beneath her feet, a thin layer of water creates a flawless mirror reflection of both her figure and the breathtaking pastel dawn sky above — soft pinks, warm oranges, and deep lavenders bleeding into the horizon. The vast white salt flat stretches endlessly in every direction, perfectly flat, the boundary between sky and earth dissolved in the mirror-like water. Scattered hexagonal salt formations catch the first warm rays of sunrise light in the foreground. The atmosphere is ethereal, otherworldly, and utterly silent. Shot on a 50mm lens, Vogue-style editorial wide-angle cinematic framing, ultra-detailed, photorealistic, soft pastel dawn palette with warm golden sunrise accents, 16:9 aspect ratio, 2K resolution.",
-    "imageUrl": "https://i.imgur.com/Gre7H6e.jpeg",
-    "thumbnailUrl": "https://i.imgur.com/Gre7H6e.jpeg",
-    "driveUrl": "https://drive.google.com/file/d/1yTkskaYAKZwqXz1ITCevQnhTHLcutwY-/view?usp=drivesdk",
-    "filename": "salar-de-uyuni-sunlit-rooftop-wind-dancer-dawn-composite-20260306-158.png",
-    "date": "2026-03-06T12:00:00+00:00",
-    "execution": 158,
-    "tags": [
-      "composite",
-      "salar-de-uyuni",
-      "bolivia",
-      "dawn",
-      "salt-flat",
-      "wind-dancer"
-    ]
+    "id": 416,
+    "title": "Faroe Islands Sea Stack at Storm — Denmark",
+    "prompt": "A dramatic photorealistic landscape of the Faroe Islands featuring towering sea stacks rising from churning dark Atlantic waters during a fierce storm. Massive waves crash against the jagged basalt rock formations, sending white spray high into the air. The sky is filled with brooding storm clouds in shades of dark grey and deep purple, with dramatic lighting breaking through in rays. Lush green clifftops are visible above, contrasting with the violent sea below. The scene captures the raw, untamed power of North Atlantic nature — cinematic composition, ultra-detailed, moody and epic atmosphere.",
+    "image_url": "https://i.ibb.co/5hVHhWjY/faroe-islands-sea-stack-at-storm-denmark.jpg",
+    "filename": "faroe-islands-sea-stack-at-storm-denmark.jpeg",
+    "timestamp": "2026-03-06T13:15:58Z",
+    "execution": 416,
+    "location": "Faroe Islands, Denmark",
+    "tags": ["storm", "sea stacks", "Atlantic", "dramatic", "Faroe Islands", "basalt", "waves"]
   }
 ]
