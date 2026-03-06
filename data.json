@@ -87,23 +87,34 @@
     "prompt": "A young solo female model with long blonde hair and Korean facial features stands at the edge of the Salar de Uyuni salt flat in Bolivia at dawn, the world's largest mirror. She leans confidently in a 3/4 angle from slightly below eye level, one hand resting on her hip, the other hand lightly touching her hair near her temple — the exact 'Neon Alley Hip Tilt Smirk' pose. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish. The vast salt flat stretches endlessly behind her, its surface a perfect mirror reflection of the soft pastel dawn sky — pale lavender, rose pink, and golden orange bleeding into each other at the horizon. Thin sheets of water cover the salt crust, creating a seamless sky-earth mirror. Her black silhouette contrasts dramatically against the luminous, glowing reflection beneath her feet. The lighting is soft, diffused golden-hour dawn light from low on the horizon, casting long warm shadows across the flat. Shot on a 50mm lens, Vogue-style editorial wide-angle cinematic, ultra-high detail, perfect harmony between model and infinite mirror landscape.",
     "url": "https://i.ibb.co/nsBhYmDB/salar-de-uyuni-neon-alley-hip-tilt-mirror-dawn-composite-20260306-153.png",
     "date": "2026-03-06",
-    "tags": ["composite"],
+    "tags": [
+      "composite"
+    ],
     "scenery_id": null,
     "pose_id": 1,
     "pixel": "1024x1536"
   },
   {
-    "id": 152,
-    "title": "Cherry Blossom Courtyard Reverie",
-    "date": "2026-03-06",
-    "execution": 152,
-    "setting": "Traditional Japanese-style stone courtyard, early spring morning, cherry blossom petals drifting in soft breeze, ancient stone lanterns, moss-covered steps",
-    "outfit": "Soft blush pink slip dress with lace trim, white sheer kimono wrap draped loosely off one shoulder, pearl hair pins, white strappy heels",
-    "pose": "Seated sideways on mossy stone steps, knees drawn to one side, one hand trailing fingertips along stone surface, chin tilted upward gazing at falling cherry blossom petals",
-    "mood": "Dreamy, contemplative, romantically ethereal",
-    "lighting": "Diffused early morning soft light through blossom canopy, subtle warm golden tones",
-    "imgbb_url": "https://i.ibb.co/ynFh883k/cherry-blossom-courtyard-reverie-20260306.jpg",
-    "image_path": "images/cherry-blossom-courtyard-reverie-20260306.jpg",
-    "tags": ["japanese", "cherry blossom", "spring", "courtyard", "dreamy", "ethereal", "kimono", "editorial"]
+    "title": "Waitomo Glowworm Caves Neon Alley Hip Tilt Midnight Composite",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently on a small wooden boat drifting through the magical Waitomo Glowworm Caves in New Zealand at midnight. She strikes a 3/4 angle pose from slightly below eye level — one hand resting on her hip, the other lightly touching her hair near her temple. She wears a sleek, midnight-black high-fashion ensemble that melts into the cave's deep shadows. Her expression is a cool, confident smirk — ethereal and commanding. Above her, thousands of tiny bioluminescent glowworms (Arachnocampa luminosa) blanket the cave ceiling in a breathtaking tapestry of deep blue and cyan light, like a starfield reflected in the perfectly still dark water below. Ancient limestone stalactites and flowstones frame the scene in cool teal tones. The bioluminescent glow casts soft, otherworldly blue-cyan light on her figure, creating a dreamlike editorial portrait. 16:9 cinematic format, ultra-high detail, 2K resolution. Shot on a 50mm lens with editorial lighting blended with natural bioluminescent ambiance.",
+    "image": "images/waitomo-glowworm-caves-neon-alley-hip-tilt-midnight-composite-20260306-154.png",
+    "timestamp": "2026-03-06T08:16:00+08:00",
+    "category": "Composite",
+    "scenery": "Waitomo Glowworm Caves at Midnight — New Zealand",
+    "pose": "Neon Alley Hip Tilt Smirk",
+    "imgbb_url": "https://i.ibb.co/spBgRTQK/waitomo-glowworm-caves-neon-alley-hip-tilt-midnight-composite-20260306-154.png"
+  },
+  {
+    "title": "Amalfi Coast Sunlit Rooftop Wind Dancer Golden Hour Composite",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands on a narrow stone cliff path along the breathtaking Amalfi Coast of Italy at golden hour. She stands near the path's edge with arms slightly outstretched, head tilted back gently with eyes closed, hair flowing freely in the warm Mediterranean sea breeze — the picture of free-spirited, carefree dancer energy. She wears a pastel yellow off-shoulder sundress that catches the golden light, a delicate gold anklet, and strappy sandals. Behind her, dramatic limestone cliffs cascade down to the deep turquoise Mediterranean Sea, with colorful pastel-painted Amalfi villages — terracotta rooftops, lemon groves, cascading bougainvillea in vivid pink and purple — clinging to the cliffside. The late-afternoon sun bathes the scene in rich golden-amber light, casting long warm shadows. The horizon glows with a hazy golden-orange sunset sky meeting the glittering sea. Shot on a 50mm lens, Vogue-style editorial wide-angle cinematic framing, ultra-detailed, photorealistic, warm golden Mediterranean palette, 16:9 aspect ratio, 2K resolution.",
+    "image": "images/amalfi-coast-sunlit-rooftop-wind-dancer-golden-hour-composite-20260306-155.png",
+    "imgbb_url": "https://i.ibb.co/FkB9mPVj/amalfi-coast-sunlit-rooftop-wind-dancer-golden-hour-composite-20260306-155.png",
+    "timestamp": "2026-03-06T09:15:00+00:00",
+    "category": "Composite",
+    "scenery": "Amalfi Coast Cliffside at Golden Hour — Italy",
+    "pose": "Sunlit Rooftop Wind Dancer",
+    "execution": 155,
+    "drive_url": "https://drive.google.com/file/d/19Q7QW8Nl68zjL6vHkQO-EwNVR9PVQQc8/view",
+    "filename": "amalfi-coast-sunlit-rooftop-wind-dancer-golden-hour-composite-20260306-155.png"
   }
 ]
