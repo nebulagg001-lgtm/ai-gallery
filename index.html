@@ -33,39 +33,63 @@
     .grid { max-width: 1200px; margin: 0 auto; padding: 0 20px 60px; display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
     .card { background: var(--card); border-radius: var(--radius); overflow: hidden; cursor: pointer; border: 1px solid #1e1e3a; transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s; }
     .card:hover { transform: translateY(-4px); box-shadow: 0 12px 32px rgba(233, 69, 96, 0.2); border-color: var(--accent); }
-    .card img { width: 100%; aspect-ratio: 1; object-fit: cover; display: block; background: #111; }
+    .card img { width: 100%; aspect-ratio: 2/3; object-fit: cover; display: block; background: #111; }
     .card-info { padding: 12px 14px; }
     .card-title { font-size: 0.9rem; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-    .card-meta { display: flex; justify-content: space-between; margin-top: 6px; font-size: 0.8rem; color: var(--muted); }
-    .lightbox { position: fixed; inset: 0; background: rgba(0,0,0,0.94); z-index: 100; display: none; flex-direction: column; }
-    .lightbox.active { display: flex; }
-    .lightbox-header { padding: 16px 20px; background: rgba(26,26,46,0.8); backdrop-filter: blur(10px); display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #2a2a4a; }
-    .lightbox-close { background: none; border: none; color: var(--text); cursor: pointer; font-size: 2rem; line-height: 1; padding: 0; width: 32px; height: 32px; display: flex; align-items: center; justify-content: center; transition: color 0.2s; }
-    .lightbox-close:hover { color: var(--accent); }
-    .lightbox-body { flex: 1; display: flex; align-items: center; justify-content: center; padding: 20px; position: relative; overflow: hidden; }
-    .lightbox-img { max-width: 90%; max-height: 90%; object-fit: contain; border-radius: 8px; }
-    .lightbox-nav { position: absolute; top: 50%; transform: translateY(-50%); background: rgba(26,26,46,0.8); border: 1px solid #2a2a4a; border-radius: 50%; width: 48px; height: 48px; display: flex; align-items: center; justify-content: center; cursor: pointer; color: var(--text); font-size: 1.5rem; transition: all 0.2s; backdrop-filter: blur(10px); }
-    .lightbox-nav:hover { background: var(--accent); border-color: var(--accent); }
-    .lightbox-nav.prev { left: 20px; }
-    .lightbox-nav.next { right: 20px; }
-    .lightbox-info { padding: 20px; background: rgba(26,26,46,0.8); backdrop-filter: blur(10px); border-top: 1px solid #2a2a4a; }
-    .lightbox-title { font-size: 1.2rem; font-weight: 600; margin-bottom: 8px; }
-    .lightbox-prompt { color: var(--muted); font-size: 0.95rem; line-height: 1.5; }
-    .lightbox-meta { display: flex; gap: 24px; margin-top: 12px; font-size: 0.85rem; }
-    .lightbox-meta span { color: var(--muted); }
-    .lightbox-meta strong { color: var(--text); }
+    .card-meta { margin-top: 6px; font-size: 0.8rem; color: var(--muted); display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+    .tag { background: rgba(233, 69, 96, 0.15); border: 1px solid rgba(233, 69, 96, 0.3); padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; color: #e94560; white-space: nowrap; }
+    .tag.scenery { background: rgba(56, 189, 248, 0.12); border-color: rgba(56, 189, 248, 0.3); color: #38bdf8; }
+    .tag.pose { background: rgba(168, 85, 247, 0.12); border-color: rgba(168, 85, 247, 0.3); color: #a855f7; }
+    .tag.composite { background: rgba(233, 69, 96, 0.12); border-color: rgba(233, 69, 96, 0.3); color: #e94560; }
+
+    /* Modal */
+    .modal { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.92); z-index: 999; padding: 20px; align-items: center; justify-content: center; }
+    .modal.open { display: flex; }
+    .modal-content { max-width: 960px; width: 100%; max-height: 92vh; overflow-y: auto; background: var(--surface); border-radius: var(--radius); position: relative; display: flex; flex-direction: column; }
+    .modal-close { position: absolute; top: 14px; right: 16px; background: rgba(0,0,0,0.4); border: none; color: var(--muted); font-size: 1.6rem; cursor: pointer; transition: color 0.2s; z-index: 10; width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; line-height: 1; }
+    .modal-close:hover { color: #fff; background: rgba(233,69,96,0.5); }
+    .modal-img-wrap { width: 100%; position: relative; background: #111; border-radius: var(--radius) var(--radius) 0 0; overflow: hidden; }
+    .modal-img { width: 100%; max-height: 60vh; object-fit: contain; display: block; }
+    .modal-body { padding: 24px 28px; }
+    .modal-title { font-size: 1.4rem; font-weight: 700; margin-bottom: 6px; }
+    .modal-date { color: var(--muted); font-size: 0.85rem; margin-bottom: 14px; }
+    .modal-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 16px; }
+    .modal-prompt-label { font-size: 0.75rem; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 8px; }
+    .modal-prompt-wrap { position: relative; margin-bottom: 20px; }
+    .modal-prompt { background: var(--card); padding: 16px 16px 16px 16px; border-radius: 8px; font-size: 0.875rem; line-height: 1.65; color: #ccc; border: 1px solid #2a2a4a; }
+    .copy-btn { position: absolute; top: 10px; right: 10px; background: var(--accent2); border: 1px solid #1e3a5a; color: var(--text); font-size: 0.78rem; font-weight: 600; padding: 5px 12px; border-radius: 6px; cursor: pointer; transition: all 0.2s; display: flex; align-items: center; gap: 5px; }
+    .copy-btn:hover { background: var(--accent); border-color: var(--accent); }
+    .copy-btn.copied { background: #16a34a; border-color: #16a34a; }
+    .modal-actions { display: flex; gap: 12px; flex-wrap: wrap; }
+    .btn { padding: 10px 22px; border-radius: 50px; border: none; cursor: pointer; font-size: 0.9rem; font-weight: 600; transition: all 0.2s; text-decoration: none; display: inline-flex; align-items: center; gap: 6px; }
+    .btn-primary { background: var(--accent); color: #fff; }
+    .btn-primary:hover { background: #d13d55; }
+    .btn-secondary { background: var(--surface); border: 1px solid #2a2a4a; color: var(--text); }
+    .btn-secondary:hover { border-color: var(--accent); }
+
+    .empty { text-align: center; padding: 60px 20px; color: var(--muted); }
+    .empty svg { width: 64px; height: 64px; opacity: 0.4; margin-bottom: 16px; }
+    .error-banner { max-width: 1200px; margin: 20px auto; padding: 16px 20px; background: rgba(233,69,96,0.1); border: 1px solid rgba(233,69,96,0.3); border-radius: var(--radius); color: #e94560; font-size: 0.9rem; display: none; }
+    @media (max-width: 600px) {
+      .grid { grid-template-columns: 1fr; }
+      .controls { flex-direction: column; }
+      .search-wrap { width: 100%; }
+      .modal-content { max-height: 95vh; }
+      .modal-img { max-height: 45vh; }
+      .modal-body { padding: 16px 18px; }
+    }
   </style>
 </head>
 <body>
   <header>
     <h1>Nebulalicious's Dream</h1>
-    <p>AI-Generated Art Gallery</p>
+    <p>A curated collection of AI-generated art</p>
   </header>
 
   <div class="controls">
     <div class="search-wrap">
-      <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><circle cx="8" cy="8" r="7"/><path d="M13 13l6 6"/></svg>
-      <input type="text" id="search" placeholder="Search by title or prompt..." />
+      <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="9" r="7"/><path d="m14 14 5 5"/></svg>
+      <input type="text" id="search" placeholder="Search by title, prompt, or tags..." />
     </div>
     <div class="filters">
       <button class="filter-btn active" data-filter="all">All</button>
@@ -75,25 +99,40 @@
     </div>
   </div>
 
+  <div class="error-banner" id="error-banner"></div>
   <div class="stats" id="stats">Loading...</div>
   <div class="grid" id="gallery"></div>
+  <div class="empty" id="empty" style="display:none;">
+    <svg fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 15.75l5.159-5.159a2.25 2.25 0 013.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 013.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 001.5-1.5V6a1.5 1.5 0 00-1.5-1.5H3.75A1.5 1.5 0 002.25 6v12a1.5 1.5 0 001.5 1.5zm10.5-11.25h.008v.008h-.008V8.25zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0z"/></svg>
+    <p>No images found matching your search</p>
+  </div>
 
-  <div class="lightbox" id="lightbox">
-    <div class="lightbox-header">
-      <div></div>
-      <button class="lightbox-close" id="closeLightbox">&times;</button>
-    </div>
-    <div class="lightbox-body">
-      <img class="lightbox-img" id="lightboxImg" src="" alt="" />
-      <div class="lightbox-nav prev" id="prevImg">&#8249;</div>
-      <div class="lightbox-nav next" id="nextImg">&#8250;</div>
-    </div>
-    <div class="lightbox-info">
-      <div class="lightbox-title" id="lightboxTitle"></div>
-      <div class="lightbox-prompt" id="lightboxPrompt"></div>
-      <div class="lightbox-meta">
-        <span>Type: <strong id="lightboxType"></strong></span>
-        <span>Created: <strong id="lightboxDate"></strong></span>
+  <!-- Modal -->
+  <div class="modal" id="modal">
+    <div class="modal-content">
+      <button class="modal-close" onclick="closeModal()" title="Close">&times;</button>
+      <div class="modal-img-wrap">
+        <img id="modal-img" class="modal-img" alt="" />
+      </div>
+      <div class="modal-body">
+        <h2 id="modal-title" class="modal-title"></h2>
+        <p id="modal-date" class="modal-date"></p>
+        <div id="modal-tags" class="modal-tags"></div>
+        <div class="modal-prompt-label">Prompt</div>
+        <div class="modal-prompt-wrap">
+          <div id="modal-prompt" class="modal-prompt"></div>
+          <button class="copy-btn" id="copy-btn" onclick="copyPrompt()">
+            <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
+            Copy Prompt
+          </button>
+        </div>
+        <div class="modal-actions">
+          <a id="modal-download" class="btn btn-primary" download>
+            <svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Download
+          </a>
+          <button class="btn btn-secondary" onclick="closeModal()">Close</button>
+        </div>
       </div>
     </div>
   </div>
@@ -103,37 +142,173 @@
     let filteredImages = [];
     let currentFilter = 'all';
     let searchQuery = '';
-    let currentLightboxIndex = 0;
+    let currentModalIdx = 0;
 
-    // Helper function to get image URL from different field formats
-    function getImageUrl(img) {
-      if (img.image_url) return img.image_url;
-      if (img.image) return 'https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/' + img.image;
-      if (img.filename) return 'https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/' + img.filename;
-      return '';
+    // Normalize a single entry to a consistent schema
+    function normalize(img) {
+      return {
+        id: img.id || null,
+        title: img.title || 'Untitled',
+        type: (img.type || img.category || 'scenery').toLowerCase(),
+        prompt: img.prompt || '',
+        url: img.url || img.image_url || img.imageUrl ||
+             (img.image ? 'https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/' + img.image : null) ||
+             (img.filename ? 'https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/' + img.filename : ''),
+        date: formatDate(img.date || img.timestamp || img.generatedAt || ''),
+        tags: Array.isArray(img.tags) ? img.tags : [img.type || img.category || 'art'].filter(Boolean)
+      };
     }
 
-    // Fetch data
-    fetch('data.json')
-      .then(res => res.json())
-      .then(data => {
-        allImages = data;
-        filteredImages = data;
-        renderGallery();
-        updateStats();
-      })
-      .catch(err => {
-        console.error('Error loading gallery:', err);
-        document.getElementById('stats').textContent = 'Failed to load gallery data.';
-      });
+    function formatDate(raw) {
+      if (!raw) return '';
+      try {
+        const d = new Date(raw);
+        if (isNaN(d.getTime())) return raw;
+        return d.toISOString().slice(0, 10);
+      } catch { return raw; }
+    }
 
-    // Search
+    function formatDateDisplay(raw) {
+      if (!raw) return '';
+      try {
+        const d = new Date(raw + 'T00:00:00');
+        return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+      } catch { return raw; }
+    }
+
+    async function loadGallery() {
+      try {
+        const response = await fetch('data.json');
+        const raw = await response.text();
+        let parsed;
+        try {
+          parsed = JSON.parse(raw);
+        } catch {
+          // Fallback: try base64 decode
+          try {
+            const decoded = atob(raw.trim());
+            parsed = JSON.parse(decoded);
+          } catch {
+            throw new Error('Could not parse data.json as JSON or base64-encoded JSON');
+          }
+        }
+        allImages = (Array.isArray(parsed) ? parsed : [parsed]).map(normalize);
+        // Sort newest first
+        allImages.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+        applyFilters();
+      } catch (error) {
+        console.error('Error loading gallery:', error);
+        document.getElementById('stats').textContent = 'Error loading images';
+        const banner = document.getElementById('error-banner');
+        banner.style.display = 'block';
+        banner.textContent = 'Failed to load gallery data: ' + error.message;
+      }
+    }
+
+    function applyFilters() {
+      filteredImages = allImages.filter(img => {
+        const matchesFilter = currentFilter === 'all' || img.type === currentFilter;
+        const q = searchQuery.toLowerCase();
+        const matchesSearch = q === '' ||
+          img.title.toLowerCase().includes(q) ||
+          img.prompt.toLowerCase().includes(q) ||
+          img.tags.some(tag => tag.toLowerCase().includes(q));
+        return matchesFilter && matchesSearch;
+      });
+      renderGallery();
+    }
+
+    function renderGallery() {
+      const gallery = document.getElementById('gallery');
+      const empty = document.getElementById('empty');
+      const stats = document.getElementById('stats');
+
+      if (filteredImages.length === 0) {
+        gallery.style.display = 'none';
+        empty.style.display = 'block';
+        stats.textContent = 'No images found';
+        return;
+      }
+
+      gallery.style.display = 'grid';
+      empty.style.display = 'none';
+      stats.textContent = `Showing ${filteredImages.length} of ${allImages.length} images`;
+
+      gallery.innerHTML = filteredImages.map((img, idx) => `
+        <div class="card" onclick="openModal(${idx})">
+          <img src="${escHtml(img.url)}" alt="${escHtml(img.title)}" loading="lazy" onerror="this.style.opacity='0.3'" />
+          <div class="card-info">
+            <div class="card-title">${escHtml(img.title)}</div>
+            <div class="card-meta">
+              <span class="tag ${escHtml(img.type)}">${escHtml(img.type)}</span>
+              <span style="flex:1"></span>
+              <span>${escHtml(img.date)}</span>
+            </div>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function openModal(idx) {
+      currentModalIdx = idx;
+      const img = filteredImages[idx];
+      document.getElementById('modal-img').src = img.url;
+      document.getElementById('modal-img').alt = img.title;
+      document.getElementById('modal-title').textContent = img.title;
+      document.getElementById('modal-date').textContent = formatDateDisplay(img.date);
+      document.getElementById('modal-tags').innerHTML =
+        [img.type, ...img.tags.filter(t => t !== img.type)]
+          .map(tag => `<span class="tag ${escHtml(tag)}">${escHtml(tag)}</span>`)
+          .join('');
+      document.getElementById('modal-prompt').textContent = img.prompt;
+      document.getElementById('modal-download').href = img.url;
+      document.getElementById('modal-download').download = img.title.replace(/[^a-z0-9]/gi, '-') + '.png';
+      // Reset copy button
+      const copyBtn = document.getElementById('copy-btn');
+      copyBtn.classList.remove('copied');
+      copyBtn.innerHTML = '<svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg> Copy Prompt';
+      document.getElementById('modal').classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeModal() {
+      document.getElementById('modal').classList.remove('open');
+      document.body.style.overflow = 'auto';
+    }
+
+    function copyPrompt() {
+      const prompt = document.getElementById('modal-prompt').textContent;
+      navigator.clipboard.writeText(prompt).then(() => {
+        const btn = document.getElementById('copy-btn');
+        btn.classList.add('copied');
+        btn.innerHTML = '<svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg> Copied!';
+        setTimeout(() => {
+          btn.classList.remove('copied');
+          btn.innerHTML = '<svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg> Copy Prompt';
+        }, 2000);
+      }).catch(() => {
+        // Fallback for older browsers
+        const ta = document.createElement('textarea');
+        ta.value = prompt;
+        ta.style.position = 'fixed';
+        ta.style.opacity = '0';
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand('copy');
+        document.body.removeChild(ta);
+      });
+    }
+
+    function escHtml(str) {
+      return String(str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+
+    // Event listeners
     document.getElementById('search').addEventListener('input', e => {
       searchQuery = e.target.value.toLowerCase();
       applyFilters();
     });
 
-    // Filter buttons
     document.querySelectorAll('.filter-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
@@ -143,86 +318,15 @@
       });
     });
 
-    function applyFilters() {
-      filteredImages = allImages.filter(img => {
-        const matchesType = currentFilter === 'all' || img.type === currentFilter;
-        const matchesSearch = !searchQuery || 
-          img.title.toLowerCase().includes(searchQuery) ||
-          (img.prompt && img.prompt.toLowerCase().includes(searchQuery));
-        return matchesType && matchesSearch;
-      });
-      renderGallery();
-      updateStats();
-    }
-
-    function renderGallery() {
-      const gallery = document.getElementById('gallery');
-      gallery.innerHTML = filteredImages.map((img, idx) => `
-        <div class="card" onclick="openLightbox(${idx})">
-          <img src="${getImageUrl(img)}" alt="${img.title}" loading="lazy" />
-          <div class="card-info">
-            <div class="card-title">${img.title}</div>
-            <div class="card-meta">
-              <span>${img.type}</span>
-              <span>${new Date(img.timestamp).toLocaleDateString()}</span>
-            </div>
-          </div>
-        </div>
-      `).join('');
-    }
-
-    function updateStats() {
-      const total = filteredImages.length;
-      const types = filteredImages.reduce((acc, img) => {
-        acc[img.type] = (acc[img.type] || 0) + 1;
-        return acc;
-      }, {});
-      const typeText = Object.entries(types).map(([k,v]) => `${k}: ${v}`).join(' | ');
-      document.getElementById('stats').textContent = `Showing ${total} image${total !== 1 ? 's' : ''} ${typeText ? '(' + typeText + ')' : ''}`;
-    }
-
-    function openLightbox(index) {
-      currentLightboxIndex = index;
-      showLightboxImage();
-      document.getElementById('lightbox').classList.add('active');
-    }
-
-    function showLightboxImage() {
-      const img = filteredImages[currentLightboxIndex];
-      document.getElementById('lightboxImg').src = getImageUrl(img);
-      document.getElementById('lightboxTitle').textContent = img.title;
-      document.getElementById('lightboxPrompt').textContent = img.prompt || 'No prompt available';
-      document.getElementById('lightboxType').textContent = img.type;
-      document.getElementById('lightboxDate').textContent = new Date(img.timestamp).toLocaleString();
-    }
-
-    document.getElementById('closeLightbox').addEventListener('click', () => {
-      document.getElementById('lightbox').classList.remove('active');
-    });
-
-    document.getElementById('prevImg').addEventListener('click', () => {
-      currentLightboxIndex = (currentLightboxIndex - 1 + filteredImages.length) % filteredImages.length;
-      showLightboxImage();
-    });
-
-    document.getElementById('nextImg').addEventListener('click', () => {
-      currentLightboxIndex = (currentLightboxIndex + 1) % filteredImages.length;
-      showLightboxImage();
-    });
-
-    document.getElementById('lightbox').addEventListener('click', e => {
-      if (e.target.id === 'lightbox') {
-        document.getElementById('lightbox').classList.remove('active');
-      }
+    document.getElementById('modal').addEventListener('click', e => {
+      if (e.target.id === 'modal') closeModal();
     });
 
     document.addEventListener('keydown', e => {
-      if (document.getElementById('lightbox').classList.contains('active')) {
-        if (e.key === 'Escape') document.getElementById('lightbox').classList.remove('active');
-        if (e.key === 'ArrowLeft') document.getElementById('prevImg').click();
-        if (e.key === 'ArrowRight') document.getElementById('nextImg').click();
-      }
+      if (e.key === 'Escape') closeModal();
     });
+
+    loadGallery();
   </script>
 </body>
 </html>
