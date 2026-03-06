@@ -308,38 +308,24 @@
     "execution": 423
   },
   {
-    "title": "Amalfi Coast Parisian Reverie Composite",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features is seated sideways on a wrought-iron bistro chair on a breathtaking clifftop terrace restaurant overlooking the Amalfi Coast, Italy, at golden hour. One leg is crossed elegantly, she leans back with relaxed sophistication, one hand resting near a glass of white wine on a white linen-covered table, the other hand lightly touching her long blonde hair near her temple. Her gaze drifts dreamily toward the vast turquoise Mediterranean sea and the colorful pastel-painted villages clinging to the dramatic cliffs below. She wears a navy and white Breton stripe top, high-waisted wide-leg cream trousers, a red silk neck scarf tied loosely, nude ballet flats, and a small structured tan leather crossbody bag. The terrace features rustic stone balustrades draped with vibrant magenta and pink bougainvillea, terracotta pots with herbs and lemons lining the edge. Warm golden amber light of the setting sun floods the scene, casting long romantic shadows across ancient stone floors, with rolling green hillsides and a warm amber-pink sunset sky completing the backdrop. Shot on a 50mm lens, vogue-style editorial photography, soft golden-hour lighting, ultra-detailed, photorealistic, cinematic 16:9 aspect ratio.",
-    "image_url": "https://drive.google.com/file/d/1NEa_JlU5p14doD0XAAQvPucoO8D_fOa3/view",
-    "image": "images/amalfi-coast-parisian-reverie-composite-20260307-167.png",
-    "date": "2026-03-07T05:00:00+08:00",
-    "category": "Composite",
-    "scenery": "Amalfi Coast Clifftop Terrace at Golden Hour — Italy",
-    "pose": "Parisian Cafe Terrace Reverie (#159)",
-    "execution": 167
+    "id": 424,
+    "title": "Cappadocia Hot Air Balloons at Sunrise Turkey",
+    "prompt": "A breathtaking aerial view of Cappadocia, Turkey at golden hour sunrise — dozens of colorful hot air balloons floating above the surreal fairy chimney rock formations, warm orange and pink light painting the valleys, ancient cave dwellings carved into the soft tufa rock, a misty dreamlike atmosphere with the landscape stretching to the horizon.",
+    "image": "images/cappadocia-hot-air-balloons-at-sunrise-turkey.jpeg",
+    "driveUrl": "https://drive.google.com/file/d/1AsFUd4msyR5_vhXa9cqNtJYzcGv48WQV/view?usp=sharing",
+    "timestamp": "2026-03-07T05:14:00Z",
+    "execution": 424
   },
   {
     "id": 425,
-    "title": "Sossusvlei Parisian Reverie",
-    "category": "Composite",
-    "prompt": "A young blonde woman in a navy and white Breton stripe top, high-waisted wide-leg cream trousers, red silk neck scarf, nude ballet flats, and a small tan leather crossbody bag, seated sideways on a portable folding chair atop the crimson Sossusvlei sand dunes of Namibia at sunrise, one leg crossed, leaning back elegantly with one hand resting near her, gazing dreamily toward the vast desert horizon, towering burnt-orange dunes casting long dramatic shadows behind her, dry white salt pan visible in the distance, sparse acacia trees silhouetted against a stunning gradient sky of deep violet, amber and gold, photorealistic, cinematic lighting, ultra-detailed, fashion photography style",
-    "image": "images/sossusvlei-parisian-reverie-composite-20260307-168.png",
-    "image_url": "https://drive.google.com/file/d/1NGRtJ-oLizX2DItfp1s0Gf23yyoGRCQv/view?usp=sharing",
-    "driveUrl": "https://drive.google.com/file/d/1NGRtJ-oLizX2DItfp1s0Gf23yyoGRCQv/view?usp=sharing",
-    "timestamp": "2026-03-07T06:02:00Z",
-    "scenery": "Sossusvlei Red Dunes at Sunrise — Namibia",
-    "scenery_id": 420,
-    "pose": "Parisian Cafe Terrace Reverie",
-    "pose_id": 159,
-    "tags": [
-      "composite",
-      "fashion",
-      "namibia",
-      "desert",
-      "dunes",
-      "sunrise",
-      "parisian",
-      "blonde"
-    ]
+    "title": "Lavender Field Wanderer",
+    "category": "Pose",
+    "date": "2026-03-07",
+    "execution": 164,
+    "image_url": "https://drive.google.com/file/d/12V_osAKSf2ZH7O2Et2dR2uinUyxO58nX/view?usp=sharing",
+    "filename": "lavender-field-wanderer-20260307.png",
+    "prompt": "A young solo female model with blonde hair and Korean appearance, walking slowly between rows of lavender in an endless Provence lavender field, France. Soft golden afternoon light. Flowy white sundress with thin straps, wide-brim straw hat in hand, other hand brushing lavender tops. Head turned back over shoulder with a dreamy smile. Low camera angle, slightly behind, capturing vast lavender horizon. Ultra-realistic photography, golden hour lighting, bokeh background.",
+    "setting": "Provence lavender field, golden afternoon light, white sundress, straw hat, dreamy over-shoulder glance",
+    "pose": "Walking between lavender rows, head turned back over shoulder, hand brushing lavender tops"
   }
 ]
