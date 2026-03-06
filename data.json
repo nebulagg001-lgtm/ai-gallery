@@ -1,16 +1,5 @@
 [
   {
-    "id": 149,
-    "title": "Misty Waterfall Rock Perch",
-    "description": "Young woman with blonde hair and Korean appearance, seated on a large mossy rock at the base of a jungle waterfall, one arm extended back bracing on the rock, head tilted upward with eyes closed in serene expression, wearing a flowy white off-shoulder sundress with floral embroidery, bare feet on the moss, surrounded by tropical ferns and golden canopy light filtering through mist.",
-    "image_url": "https://i.ibb.co/NdWxDr0P/misty-waterfall-rock-perch-20260306.png",
-    "local_image": "images/misty-waterfall-rock-perch-20260306.png",
-    "category": "photo-pose",
-    "tags": ["waterfall", "tropical", "serene", "editorial", "white dress", "nature"],
-    "created_at": "2026-03-06T14:04:00+08:00",
-    "execution": 149
-  },
-  {
     "title": "Neon Alley Hip Tilt Smirk",
     "prompt": "A young solo female model with long blonde hair and Korean facial features stands in a rain-slicked urban alley at night, bathed in vivid neon pink and blue light from surrounding signs. She leans confidently against a brick wall in a 3/4 angle from slightly below eye level, one hand resting on her hip, the other hand lightly touching her hair near her temple. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish. The neon reflections pool on the wet ground beneath her. Shot on a 50mm lens, vogue-style editorial lighting, deep shadows with saturated color pops.",
     "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/neon-alley-hip-tilt-smirk-20260304.png",
@@ -34,81 +23,73 @@
   },
   {
     "title": "Antelope Canyon Light Beams Hip Tilt Smirk",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level. One hand rests on her hip in a classic model pose, the other hand lightly touches her hair near her temple. She wears sleek, minimalist high-fashion casual wear in earth tones. Behind her, a dramatic shaft of golden noon sunlight pierces through the canyon, illuminating swirling dust, the sandstone glowing warm orange and crimson. Her expression is a cool, confident smirk — commanding and effortlessly stylish. Shot on a 50mm lens, vogue-style editorial lighting, deep shadows with saturated color pops.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/antelope-canyon-light-beams-hip-tilt-smirk.jpeg",
-    "date": "2026-03-04T19:07:00",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level. One hand rests on her hip, elbow out, the other arm hangs naturally by her side, fingertips lightly grazing the smooth rock. She wears a stylized outfit suited to the warm, dry environment. Her head tilts subtly to the left, long blonde hair tumbling loosely over one shoulder, as razor-thin shafts of golden noon sunlight pierce the narrow canyon space above, dramatically illuminating swirling dust and casting warm, orange-crimson tones across the wave-like sandstone. Her expression is a cool, confident smirk — commanding and effortlessly stylish, eyuding both sophistication and dreaminess. Shot on a 50mm lens, vogue-style editorial lighting, deep shadows, saturated warm orange-gold and cool amber-tones from the sandstone, creating a strong contrast between glowing light and natural deep shadows. Ultra-detailed, photorealistic, cinematic and wide-angle framing, 16:9 aspect ratio, 2K resolution.",
+    "image_url": "https://i.imgbb.com/W24KvKV/antelope-canyon-light-beams-hip-tilt-smirk-composite-20260304-execution-144.jpg",
+    "date": "2026-03-04T19:16:00Z",
+    "category": "Composite"
+  },
+  {
+    "title": "Greenhouse Crouching Head Tilt",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features is captured in a gentle, contemplative mood inside a large, well-lit greenhouse at midday. She crouches gracefully on a low garden step or wooden deck, seated on her heels, knees raised, one arm draped across her knees, the other resting gently on the ground for balance. She wears light, casual gardening attire — a linen shirt and slim pants. Her tilts subtly to the left, long blonde hair draping softly over one shoulder, as she gazes off to the side with a soft, introspective expression — peaceful, calm, and grounded. The shot is taken from approximately eye level, framing her in a 3/4 angle, set against a lush backdrop of green tropical plants, overgrown ferns, palms, and wild foliage. Soft, natural light streams through the glass roof, casting gentle warm golden highlights on her face and hair, with cool teal and green tones from the surrounding plants. Shot on a 50mm lens, exposure balanced to soft natural portrait lighting, bokeh effect on the background foliage, utrah-detailed, photorealistic, cinematic editorial style.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/greenhouse-crouching-head-tilt-20260305.png",
+    "date": "2026-03-05T04:00:00",
     "category": "Pose"
   },
   {
-    "id": 402,
-    "title": "Amalfi Coast Golden Hour — Italy",
-    "prompt": "Dramatic vertical cliffside overlooking the shimmering turquoise Tyrrhenian Sea at golden hour, cascading whitewashed houses with colorful bougainvillea clinging to the steep slope, narrow winding charova-earthen staircases connecting levels, lemon and orange groves terraced into the hillside, warm diffused sunset light bathing everything in amber and gold, ultra-wide cinematic composition, photorealistic Mediterranean landscape, golden hour photography, 8K",
-    "imageUrl": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/tmp-upload/amalfi-coast-golden-hour-italy.jpeg",
-    "filename": "amalfi-coast-golden-hour-italy.jpeg",
-    "generatedAt": "2026-03-05T18:03:24Z"
+    "title": "Waitomo Glowworm Caves Greenhouse Crouching Head Tilt Composite",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features crouches in a gentle, contemplative pose inside the breathtaking Waitomo Glowworm Caves of New Zealand at midnight. She crouches gracefully on a smooth rock near the edge of the dark subterranean river, seated on her heels, knees raised, one arm draped across her knees, the other resting lightly on the cave floor for balance. She wears a simple, earthy-colored outfit that blends naturally with the cave environment. Her head tilts subtly to the left, long blonde hair falling softly over one shoulder, as she gazes off to the side with a soft, awe-struck expression — peaceful, calm, and humbled by the natural wonder surrounding her. The shot is framed in a 3/4 angle from approximately eye level, set against the awe-inspiring cave background. The cave ceiling above is blanketed with thousands of tiny bioluminescent glowworms (Arachnocampa luminosa), casting an ethereal, deep blue-cyan glow across the still dark water below, creating a perfect mirror reflection of the starlike ceiling. Ancient limestone stalactites and flowstones frame the background, softly lit in cool blue and teal tones from the glowworms' light. A small wooden boat drifts silently in the distance, adding scale to the immense cavern. The atmosphere is magical, otherworldly, and serene. Shot on a 50mm lens, exposure balanced to the low bioluminescent ambient light (natural long-exposure photography aesthetic), ultra-detailed, photorealistic, deep blacks, glowing cyan bioluminescence, perfectly still reflective water, cinematic editorial style, 50mm lens.",
+    "image_url": "https://i.imgbb.com/GzhFNRX/waitomo-glowworm-caves-greenhouse-crouching-head-tilt-composite-20260305-145.jpg",
+    "date": "2026-03-05T20:16:00Z",
+    "category": "Composite"
   },
   {
-    "id": 403,
-    "title": "Yosemite El Capitan at Dusk — California",
-    "prompt": "The monumental granite face of El Capitan rising 3000 feet from Yosemite Valley at dusk, catching the last pink-gold glow of twilight on its vertical wall, the Merced River winding through darkening meadow grasses and black oak trees in the foreground, dift wispy clouds in the deepening blue-purple sky, crisp Sierra mountain air, wide-angle cinematic composition, gaden hour photography, ultra-detailed, photorealistic, 8K",
-    "imageUrl": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/tmp-upload/yosemite-el-capitan-at-dusk-california.jpeg",
-    "filename": "yosemite-el-capitan-at-dusk-california.jpeg",
-    "generatedAt": "2026-03-05T19:03:24Z"
+    "title": "Waitomo Glowworm Caves Greenhouse Crouching Head Tilt Composite",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features crouches in a gentle, contemplative pose inside the breathtaking Waitomo Glowworm Caves of New Zealand at midnight. She crouches gracefully on a smooth rock near the edge of the dark subterranean river, seated on her heels, knees raised, one arm draped across her knees, the other resting lightly on the cave floor for balance. She wears a simple, earthy-colored outfit that blends naturally with the cave environment. Her head tilts subtly to the left, long blonde hair falling softly over one shoulder, as she gazes off to the side with a soft, awe-struck expression — peaceful, calm, and humbled by the natural wonder surrounding her. The shot is framed in a 3/4 angle from approximately eye level, set against the awe-inspiring cave background. The cave ceiling above is blanketed with thousands of tiny bioluminescent glowworms (Arachnocampa luminosa), casting an ethereal, deep blue-cyan glow across the still dark water below, creating a perfect mirror reflection of the starlike ceiling. Ancient limestone stalactites and flowstones frame the background, softly lit in cool blue and teal tones from the glowworms' light. A small wooden boat drifts silently in the distance, adding scale to the immense cavern. The atmosphere is magical, otherworldly, and serene. Shot on a 50mm lens, exposure balanced to the low bioluminescent ambient light (natural long-exposure photography aesthetic), ultra-detailed, photorealistic, deep blacks, glowing cyan bioluminescence, perfectly still reflective water, cinematic editorial style, 50mm lens.",
+    "image_url": "https://i.imgbb.com/GzhFNRX/waitomo-glowworm-caves-greenhouse-crouching-head-tilt-composite-20260305-146.jpg",
+    "date": "2026-03-05T21:16:00Z",
+    "category": "Composite"
   },
   {
-    "id": 404,
-    "title": "Lençóis Maranhenses Dunes at Midday Shimmer — Brazil",
-    "prompt": "Endless expanse of brilliant white sand dunes stretching to the horizon at midday, interspersed with crystal-clear aquamarine rainwater lagoons reflecting perfect sky-blue, overhead tropical sun creating a high-contrast shimmering atmosphere, graceful waves and ripples carved by wind into the sand, occasional clusters of deep green vegetation near lagoons, vibrant blue and white color palette, cinematic wide angle, photorealistic, ultra-detailed 8K",
-    "imageUrl": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/tmp-upload/lencois-maranhenses-dunes-at-midday-shimmer-brazil.jpeg",
-    "filename": "lencois-maranhenses-dunes-at-midday-shimmer-brazil.jpeg",
-    "generatedAt": "2026-03-05T20:03:24Z"
+    "title": "Waitomo Glowworm Caves — Neon Alley Hip Tilt (On Boat Bow)",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently on the bow of a small wooden boat drifting through the Waitomo Glowworm Caves of New Zealand at midnight. She leans with casual authority in a 3/4 angle from slightly below eye level, one hand resting on her hip, the other hand lightly touching her hair near her temple. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish even in the otherworldly cave setting. The cave ceiling above is blanketed with thousands of bioluminescent glowworms casting an ethereal deep blue-cyan glow across the still black water, creating a perfect starlike mirror reflection. Ancient limestone stalactites and flowstones frame the background, softly lit in cool blue and teal tones. The boat drifts silently through the subterranean river, adding scale to the immense cavern. Shot on a 50mm lens, Vogue editorial wide-angle cinematic framing, deep blacks with glowing cyan bioluminescence, ultra-detailed, photorealistic, 16:9 aspect ratio, 2K resolution.",
+    "image_url": "https://i.ibb.co/s9ZTGGBS/waitomo-glowworm-caves-neon-alley-hip-tilt-boat-bow-composite-20260306-147.jpg",
+    "date": "2026-03-06T06:00:00+08:00",
+    "category": "Composite",
+    "scenery": "Waitomo Glowworm Caves at Midnight — New Zealand",
+    "pose": "Neon Alley Hip Tilt Smirk",
+    "execution": 147,
+    "drive_url": "https://drive.google.com/file/d/176LkJ1tEOxDBeeAyLdtPklQIPQdQuEdp/view",
+    "filename": "waitomo-glowworm-caves-neon-alley-hip-tilt-boat-bow-composite-20260306-147.jpeg"
   },
   {
-    "id": 405,
-    "title": "Khongoryn Els Sand Dunes at Sunset — Mongolia",
-    "prompt": "Towering golden sand dunes of Khongoryn Els rising up to 300 meters high at sunset, soft warm light casting long, deep shadows across the ridges, ripples and textures in the sand illuminated in amber and crimson, a single Bactrian camel with a herder silhouetted on the horizon ridge, bare rocky Gobi Desert plains in the distance, deep blue-purple gradient sky transitioning from golden horizon, cinematic composition, ultra-detailed, photorealistic 8K",
-    "imageUrl": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/tmp-upload/khongoryn-els-sand-dunes-at-sunset-mongolia.jpeg",
-    "filename": "khongoryn-els-sand-dunes-at-sunset-mongolia.jpeg",
-    "generatedAt": "2026-03-05T21:03:24Z"
+    "title": "Zhangjiajie Avatar Peaks — Neon Alley Hip Tilt Dawn Mist",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands on a narrow stone viewing platform jutting out from one of the towering Zhangjiajie sandstone pillars in China, at dawn. Thick white mist swirls dramatically around the floating mountain peaks below and above her, with other pillars fading into the misty distance. Soft golden dawn light filters through the clouds, illuminating her from the side. She stands in a 3/4 angle from slightly below eye level, one hand confidently on her hip, the other hanging relaxed, a cool confident smirk on her face. She wears a sleek black high-fashion ensemble that contrasts with the lush green vegetation on the cliff faces. Shot on a 50mm lens, Vogue editorial style, cinematic wide-angle, photorealistic, deep atmosphere, floating mountains, ethereal mist.",
+    "image_url": "https://i.ibb.co/6JGw7QDq/zhangjiajie-avatar-peaks-neon-alley-hip-tilt-dawn-mist-composite-20260306-151.png",
+    "date": "2026-03-06T02:02:00Z",
+    "category": "Composite"
   },
   {
-    "id": 406,
-    "title": "Socotra Island Dragon Blood Trees at Dusk — Yemen",
-    "prompt": "Alien-like Dragon Blood Trees (Dracaena cinnabari) with thick trunks and umbrella-shaped crowns, scattered across the dry plateau of Socotra Island at dusk, warm pink and orange twilight glow illuminating the unique endemic flora, rocky limestone terrain covered in sparse vegetation, a few curled branches and succulent plants interspersed, deepening blue sky wrompting twilight transition, dramatic otherworldly composition, ultra-detailed, photorealistic, 8K ",
-    "imageUrl": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/tmp-upload/socotra-island-dragon-blood-trees-at-dusk-yemen.jpeg",
-    "filename": "socotra-island-dragon-blood-trees-at-dusk-yemen.jpeg",
-    "generatedAt": "2026-03-05T22:03:24Z"
+    "title": "Patagonia Torres del Paine — Neon Alley Hip Tilt Sunrise",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently on a rugged granite ledge in Patagonia, Chile, at sunrise. The iconic Torres del Paine granite spires rise dramatically behind her, their jagged peaks glowing in warm orange-gold sunrise light against a vivid blue-pink sky with wispy clouds. She leans with casual authority in a 3/4 angle shot from slightly below eye level, one hand resting on her hip, head tilted subtly with a cool, confident smirk. She wears a sleek black high-fashion ensemble — commanding and effortlessly stylish against the raw, majestic wilderness. Wind lightly moves her hair. The foreground shows rough Patagonian terrain — hardy shrubs and golden grasses catching the first light. Shot on a 50mm lens, Vogue editorial wide-angle cinematic framing, deep shadows with warm golden sunrise tones, ultra-detailed, photorealistic, 16:9 aspect ratio, 2K resolution.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/patagonia-torres-del-paine-neon-alley-hip-tilt-sunrise-composite-20260306-152.png",
+    "date": "2026-03-06T03:01:00Z",
+    "category": "Composite",
+    "scenery": "Patagonia Torres del Paine Granite Spires at Sunrise — Chile",
+    "pose": "Neon Alley Hip Tilt Smirk",
+    "execution": 152,
+    "drive_url": "https://drive.google.com/file/d/1bTbERyCJ-T-SdsKs88apOCD_H5Nf-3BJ/view?usp=drivesdk",
+    "filename": "patagonia-torres-del-paine-neon-alley-hip-tilt-sunrise-composite-20260306-152.png"
   },
   {
-    "id": 407,
-    "title": "Faroe Islands Sea Cliffs Golden Hour — Denmark",
-    "prompt": "Dramatic sheer vertical basalt cliffs plunging into the north Atlantic ocean at golden hour, layered columnar rock formations with green moss and grasses cascading down the face, wild turbulent ware crashing into jagged rocks below, dramatic cloud formations and mist drifting across the scene, warm golden sunlight breaking through storm clouds, distant waterfalls cascading into the sea, wide-angle cinematic composition, ultra-detailed, photorealistic, 8K",
-    "imageUrl": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/tmp-upload/faroe-islands-sea-cliffs-golden-hour-denmark.jpeg",
-    "filename": "faroe-islands-sea-cliffs-golden-hour-denmark.jpeg",
-    "generatedAt": "2026-03-05T23:03:24Z"
-  },
-  {
-    "id": 408,
-    "title": "Plitvice Lakes Morning Mist — Croatia",
-    "prompt": "Cascading turquoise and cobalt blue waterfalls connecting multi-tiered crystal clear lakes at early morning, soft sunrise light diffusing through low-hanging mist drifting over the water, lush green Beech and Fir forest encircling the lakes, natural travertine pool terraces edged by moss and wildflowers, deep green vegetation reflections in still pools, misty serene atmosphere, wide-angle composition, photorealistic, ultra-detailed 8K",
-    "imageUrl": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/tmp-upload/plitvice-lakes-morning-mist-croatia.jpeg",
-    "filename": "plitvice-lakes-morning-mist-croatia.jpeg",
-    "generatedAt": "2026-03-06T00:03:24Z"
-  },
-  {
-    "id": 409,
-    "title": "Zhangjiajie Avatar Peaks at Dawn Mist — China",
-    "prompt": "Towering quartzite sandstone pillars of Zhangjiajie National Forest Park rising hundreds of meters vertically through thick low-lying dawn mist at sunrise, soft golden light illuminating the peaks above the sea of clouds, dense forest vegetation clinging to the pillars, layers of mist in the valleys creating depth and mystery, soft pastel light breaking through, otherworldly and ethereal atmosphere, ultra-wide cinematic composition, photorealistic, golden hour photography, 8K",
-    "imageUrl": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/tmp-upload/zhangjiajie-avatar-peaks-at-dawn-mist-china.jpeg",
-    "filename": "zhangjiajie-avatar-peaks-at-dawn-mist-china.jpeg",
-    "generatedAt": "2026-03-06T01:03:24Z"
-  },
-  {
-    "id": 410,
-    "title": "Patagonia Torres del Paine Granite Spires at Sunrise — Chile",
-    "prompt": "Dramatic granite spires of Torres del Paine rising from patagonian steppe at golden sunrise, intense warm light painting the vertical rock faces in orange and amber, wispy clouds caught between the three towers, turquoise glacial lake Nordenskjold in the foreground perfectly reflecting the peaks, windswept lenga beech trees in russet autumn colors, ultra-wide cinematic composition, golden hour photography, hyper-realistic landscape, 8K",
-    "imageUrl": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/tmp-upload/patagonia-torres-del-paine-granite-spires-at-sunrise-chile.jpeg",
-    "filename": "patagonia-torres-del-paine-granite-spires-at-sunrise-chile.jpeg",
-    "generatedAt": "2026-03-06T02:03:24Z"
+    "id": null,
+    "title": "Salar de Uyuni Neon Alley Hip Tilt Mirror Dawn Composite 20260306-153",
+    "type": "composite",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands at the edge of the Salar de Uyuni salt flat in Bolivia at dawn, the world's largest mirror. She leans confidently in a 3/4 angle from slightly below eye level, one hand resting on her hip, the other hand lightly touching her hair near her temple — the exact 'Neon Alley Hip Tilt Smirk' pose. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish. The vast salt flat stretches endlessly behind her, its surface a perfect mirror reflection of the soft pastel dawn sky — pale lavender, rose pink, and golden orange bleeding into each other at the horizon. Thin sheets of water cover the salt crust, creating a seamless sky-earth mirror. Her black silhouette contrasts dramatically against the luminous, glowing reflection beneath her feet. The lighting is soft, diffused golden-hour dawn light from low on the horizon, casting long warm shadows across the flat. Shot on a 50mm lens, Vogue-style editorial wide-angle cinematic, ultra-high detail, perfect harmony between model and infinite mirror landscape.",
+    "url": "https://i.ibb.co/nsBhYmDB/salar-de-uyuni-neon-alley-hip-tilt-mirror-dawn-composite-20260306-153.png",
+    "date": "2026-03-06",
+    "tags": ["composite"],
+    "scenery_id": null,
+    "pose_id": 1,
+    "pixel": "1024x1536"
   }
 ]
