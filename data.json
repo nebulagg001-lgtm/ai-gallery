@@ -204,5 +204,24 @@
     "image_url": "https://drive.google.com/file/d/1P8FomvRVVOqoYfZ2beW2SFmFd7Sbpd0r/view?usp=sharing",
     "date": "2026-03-07",
     "execution": 159
+  },
+  {
+    "id": 420,
+    "title": "Sossusvlei Red Dunes at Sunrise — Namibia",
+    "prompt": "A breathtaking wide-angle landscape of Sossusvlei in Namibia at sunrise, towering crimson and burnt-orange sand dunes casting long dramatic shadows, a dry white salt pan (vlei) in the foreground reflecting pale morning light, sparse desert-adapted acacia trees silhouetted against a gradient sky of deep violet, amber, and gold, photorealistic, ultra-detailed, cinematic lighting, no people",
+    "image_url": "https://drive.google.com/file/d/1dOw8K8K9GpyGAHyv9Wu3_4rNx-rwjLQH/view?usp=sharing",
+    "local_path": "images/sossusvlei-red-dunes-at-sunrise-namibia.jpeg",
+    "timestamp": "2026-03-06T17:07:39Z",
+    "location": "Namibia",
+    "category": "Scenery",
+    "tags": [
+      "desert",
+      "dunes",
+      "sunrise",
+      "africa",
+      "namibia",
+      "sossusvlei",
+      "landscape"
+    ]
   }
 ]
