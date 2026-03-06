@@ -93,12 +93,17 @@
     "pixel": "1024x1536"
   },
   {
-    "id": 411,
-    "title": "Antelope Canyon Light Beams at Noon — Arizona USA",
-    "prompt": "Interior of Antelope Canyon, Arizona, narrow slot canyon walls of swirling orange and red sandstone, dramatic shafts of golden sunlight piercing down from above creating ethereal light beams, fine sand particles floating in the air catching the light, ultra-detailed textures, Nat Geo editorial photography, 8K",
-    "image_url": "https://i.ibb.co/yFtRN5zY/antelope-canyon-light-beams-noon-arizona-usa.jpg",
-    "local_file": "images/antelope-canyon-light-beams-noon-arizona-usa.jpeg",
-    "timestamp": "2026-03-06T08:17:28Z",
-    "execution": 411
+    "id": 152,
+    "title": "Cherry Blossom Courtyard Reverie",
+    "date": "2026-03-06",
+    "execution": 152,
+    "setting": "Traditional Japanese-style stone courtyard, early spring morning, cherry blossom petals drifting in soft breeze, ancient stone lanterns, moss-covered steps",
+    "outfit": "Soft blush pink slip dress with lace trim, white sheer kimono wrap draped loosely off one shoulder, pearl hair pins, white strappy heels",
+    "pose": "Seated sideways on mossy stone steps, knees drawn to one side, one hand trailing fingertips along stone surface, chin tilted upward gazing at falling cherry blossom petals",
+    "mood": "Dreamy, contemplative, romantically ethereal",
+    "lighting": "Diffused early morning soft light through blossom canopy, subtle warm golden tones",
+    "imgbb_url": "https://i.ibb.co/ynFh883k/cherry-blossom-courtyard-reverie-20260306.jpg",
+    "image_path": "images/cherry-blossom-courtyard-reverie-20260306.jpg",
+    "tags": ["japanese", "cherry blossom", "spring", "courtyard", "dreamy", "ethereal", "kimono", "editorial"]
   }
 ]
