@@ -1,14 +1,14 @@
 [
   {
     "title": "Neon Alley Hip Tilt Smirk",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features stands in a rain-slicked urban alley at night, bathed in vivid neon pink and blue light from surrounding signs. She leans confidently against a brick wall in a 3/4 angle from slightly below eye level, one hand resting on her hip, the other hand lightly touching her hair near her temple. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish. The neon reflections pool on the wet ground beneath her. Shot on a 50mm lens, vogue-style editorial lighting, deep shadows with saturated color pops.",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands in a rain-slicked urban alley at night, bathed in vivid neon pink and blue light from surrounding signs. She leans confidently against a brick wall in a 3/4 angle from slightly below eye level, one hand resting on her hip, the other hand lightly touching her hair near her temple. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish. Ultra-realistic portrait, cinematic lighting, 16:9 format, professional photography quality.",
     "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/neon-alley-hip-tilt-smirk-20260304.png",
     "date": "2026-03-04T02:16:00",
     "category": "Pose"
   },
   {
     "title": "Waitomo Glowworm Caves at Midnight — New Zealand",
-    "prompt": "A breathtaking underground cave system in Waitomo, New Zealand, photographed at midnight. The cave ceiling is blanketed with thousands of tiny bioluminescent glowworms (Arachnocampa luminosa), casting an ethereal, deep blue-cyan glow across the still dark water below, creating a perfect mirror reflection of the starlike ceiling. Ancient limestone formations — stalactites and flowstones — are softly lit in cool blue and teal tones. A small wooden boat drifts silently through the subterranean river, adding scale to the immense cavern. The atmosphere is magical, otherworldly, and serene. Ultra-detailed, photorealistic, long-exposure photography aesthetic, deep blacks, glowing cyan bioluminescence, perfectly still reflective water.",
+    "prompt": "A breathtaking underground cave system in Waitomo, New Zealand, photographed at midnight. The cave ceiling is blanketed with thousands of tiny bioluminescent glowworms (Arachnocampa luminosa), casting an ethereal, deep blue-cyan glow across the still dark water below, creating a perfect mirror reflection of the starlike ceiling. Ancient limestone formations — stalactites and flowstones — are softly lit in cool blue and teal tones. A small wooden boat drifts silently through the subterranean river in the foreground. Photorealistic, ultra-high detail, 16:9 cinematic format, 2K resolution.",
     "image": "images/waitomo-glowworm-caves-at-midnight-new-zealand.png",
     "timestamp": "2026-03-05T02:09:00+08:00",
     "category": "Scenery"
@@ -23,78 +23,48 @@
   },
   {
     "title": "Antelope Canyon Light Beams Hip Tilt Smirk",
-    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level. One hand rests on her hip, the other hand lightly touches her hair near her temple. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish. Behind her, razor-thin shafts of golden noon sunlight pierce through the sandstone slot canyon walls, illuminating swirling dust particles in dramatic beams. The undulating, wave-like orange and crimson sandstone walls glow with rich warm hues. Shot on a 50mm lens, vogue-style editorial lighting, dramatic light play, deep shadows with saturated color pops.",
-    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/antelope-canyon-light-beams-hip-tilt-smirk-20260304.png",
-    "date": "2026-03-04T02:20:00",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level. One hand rests lightly on her hip, the other hand touches her hair near her temple. Her expression is a smooth, magnetic smirk — cool, edgy, and effortlessly stylish. She wears a sleek black minimalist outfit. Razor-thin shafts of golden noon sunlight pierce through the narrow slot canyon above, illuminating swirling dust particles in dramatic beams and casting glowing highlights on her hair and skin. The sandstone walls around her glow in rich orange, crimson, and warm amber tones. Ultra-realistic portrait, cinematic lighting, 16:9 format, professional photography quality, 2K resolution.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/antelope-canyon-light-beams-hip-tilt-smirk-20260305.png",
+    "date": "2026-03-05T02:18:00",
     "category": "Pose"
   },
   {
-    "title": "Scottish Highlands Autmn Fog at Dawn — Scotland",
-    "prompt": "A photorealistic, wide-angle scene of the Scottish Highlands at dawn in late autumn. Rolling green hills and golden-orange grasslands are blanketed in thick, low-lying fog that drifts gently like ghostly waves. Patches of evergreen first dot the landscape, and old dry-stone walls cut through the middleground, barely visible through the mist. A small mountain loch is seen into the distance, its surface almost entirely devoured by fog. Soft, diffuse golden-pink dawn light seeps through the low clouds and mist. Natural, deep green and gray tones with moody lighting, very serene and isolated atmosphere. Shot with an electronic SONY A7IV camera, gives a cinematic, highly atmospheric look.",
-    "image": "images/scottish-highlands-autmnfog-at-dawn-scotland.png",
-    "timestamp": "2026-03-05T03:09:00Z00:00",
+    "title": "Salar de Uyuni Mirror Reflection at Blue Hour — Bolivia",
+    "prompt": "A breathtaking photorealistic wide-angle shot of Salar de Uyuni salt flats in Bolivia during the blue hour, just after sunset. A thin layer of water covers the perfectly flat white salt crust, creating a flawless mirror reflection of the twilight sky. The sky transitions from deep cobalt blue at the top to soft violet and lavender near the horizon. Scattered puffy clouds are mirrored perfectly in the still water below, creating a seamless, surreal symmetry. In the distance, the silhouette of the Andes mountains is faintly visible. Photorealistic, ultra-high detail, 16:9 cinematic format, 2K resolution.",
+    "filename": "salar-de-uyuni-mirror-reflection-blue-hour-bolivia.jpeg",
+    "timestamp": "2026-03-05T19:08:39Z",
+    "location": "Bolivia",
     "category": "Scenery"
   },
   {
-    "title": "Sunlit Rooftop Wind Dancer",
-    "description": "Model stands on a modern city rooftop at golden hour, one arm reached overhead one hand cascading lightly down, the other arm outstretched gently to the side, body turned three-quarters toward camera, legs stepping lightly as if mid-twirl, expression joyful and free, gazing up at the warm sky, hair caught in the breeze.",
-    "setting": "Modern city rooftop with skyline silhouette in background, warm golden hour light and deep blue sky, stringed lights in the background, contemporary urban setting",
-    "outfit": "Sunny yellow lightweight linen maxi dress with delicate embroidery, minimal gold hoop earrings, natural sandals, hair in loose beach waves",
-    "style": "Lifestyle fashion photography, candid movement, ethereal lighting, relaxed atmosphere",
-    "image": "images/sunlit-rooftop-wind-dancer-20260306.png",
-    "imgbb_url": "https://i.ibb.co/KGkLk8Y/Sunlit-Rooftop-Wind-Dancer-20260306.jpg",
-    "generated_at": "2026-03-06T09:05:00+08:00",
-    "execution": 151
+    "title": "Salar de Uyuni Mirror Reflection Hip Tilt Smirk",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently on the Salar de Uyuni salt flats in Bolivia during the blue hour, just after sunset. A thin layer of water covers the perfectly flat white salt crust, creating a flawless mirror reflection of both the twilight sky and the model. She strikes a commanding 3/4 angle pose from slightly below eye level, one hand resting lightly on her hip, the other hand touching her hair near her temple. Her expression is a smooth, magnetic smirk — cool, edgy, and effortlessly stylish. She wears a sleek black minimalist outfit. The sky transitions from deep cobalt blue above to soft violet and lavender near the horizon, all perfectly mirrored in the water at her feet. Scattered puffy clouds are reflected symmetrically around her. In the far distance, the silhouette of the Andes mountains is faintly visible. Ultra-realistic portrait, cinematic lighting, 16:9 format, professional photography quality, 2K resolution.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/salar-de-uyuni-mirror-reflection-hip-tilt-smirk-20260306.png",
+    "date": "2026-03-06T02:21:00",
+    "category": "Pose"
   },
   {
-    "id": 152,
-    "title": "Cherry Blossom Courtyard Reverie",
-    "description": "Model stands in a traditional Japanese courtyard during cherry blossom season, body turned three-quarters, one arm raised gently to touch a cherry branch, other hand resting gracefully on her side, eyes softly closed or gazing downward peacefully, expression serene and content, petals drifting around her.",
-    "setting": "Traditional Japanese courtyard with stone path and wooden structures, blooming cherry blossom trees with falling petals, soft natural light, serene garden environment",
-    "outfit": "Pale pink flowered kimono-wrap dress, delicate obi-style warap belt, simple pearl studs, hair up in a soft bun with a small flower, minimal frame",
-    "style": "Cinematic fashion photography, soft diffused lighting, calm atmosphere, cultural beauty shoot",
-    "image": "images/cherry-blossom-courtyard-reverie-20260306.png",
-    "imgbb_url": "https://i.ibb.co/kv1M4jx/Cherry-Blossom-Courtyard-Reverie-20260306.jpg",
-    "drive_url": "https://drive.google.com/file/d/1mXoLn7fScDebmSsRH_-P-tRZ4dD017ZD/view?usp=sharing",
-    "generated_at": "2026-03-06T10:08:00+08:00",
-    "execution": 152
+    "title": "Zhangjiajie Avatar Mountains at Sunrise — China",
+    "prompt": "A breathtaking photorealistic wide-angle shot of the towering sandstone pillar mountains of Zhangjiajie National Forest Park in China at sunrise. Hundreds of vertical rock columns soar through layers of soft morning mist and fog, creating a mystical, floating appearance. The pillars are covered in lush green vegetation clinging to the steep cliffs. The rising sun casts warm golden and orange light on the peaks, while the valleys below remain shrouded in cool blue-gray mist. In the foreground, an ancient stone pathway winds along the cliff edge. Photorealistic, ultra-high detail, 16:9 cinematic format, 2K resolution.",
+    "filename": "zhangjiajie-avatar-mountains-sunrise-china.jpeg",
+    "timestamp": "2026-03-06T03:14:10Z",
+    "location": "China",
+    "category": "Scenery"
   },
   {
-    "id": 153,
-    "title": "Venetian Cafe Morning Reverie",
-    "description": "Model sits at a tiny round table outside a charming Venetian cafe, one hand delicately cupping a small expresso cup, other arm resting gracefully on the table, body turned casually toward the window, eyes gazing thoughtfully out at the misty canal, expression dreamy and content, light caught softly in her features.",
-    "setting": "Traditional Venetian cafe terrace overlooking a misty canal, old illuminated lamps and ornate architecture, soft golden dawn light, cobblestone details, romantic urban backdrop",
-    "outfit": "Camel cashmere turtleneck sweater, classic black wool crepe pants, gold pendant necklace, hair in a soft braid, minimal makeup, off-white knit scarf draped casually",
-    "style": "Fine art fashion photography, soft atmospheric lighting, european elegance, dreamy cinematic style",
-    "image": "images/venetian-cafe-morning-reverie-20260306.png",
-    "imgbb_url": "https://i.ibb.co/Qks34Xd/Venetian-Cafe-Morning-Reverie-20260306.jpg",
-    "drive_url": "https://drive.google.com/file/d/1_c7RGVE4OAhz9RnJKg5SvRxLHBQ99K_/view?usp=sharing",
-    "generated_at": "2026-03-06T11:07:00+08:00",
-    "execution": 153
+    "title": "Zhangjiajie Avatar Mountains Hip Tilt Smirk",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently on a traditional Chinese pavilion perched on the edge of a cliff in Zhangjiajie National Forest Park, China, at sunrise. She strikes a commanding 3/4 angle pose from slightly below eye level, one hand resting lightly on the wooden pavilion railing, the other hand touching her hair near her temple. Her expression is a smooth, magnetic smirk — cool, edgy, and effortlessly stylish. She wears a sleek black minimalist outfit. Behind and around her, hundreds of towering sandstone pillar mountains soar through layers of soft morning mist, creating a mystical, floating appearance. The rising sun casts warm golden and orange light on the peaks, while valleys below remain shrouded in cool blue-gray mist. Ultra-realistic portrait, cinematic lighting, 16:9 format, professional photography quality, 2K resolution.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/zhangjiajie-avatar-mountains-hip-tilt-smirk-20260307.png",
+    "date": "2026-03-07T02:21:00",
+    "category": "Pose"
   },
   {
-    "id": 154,
-    "title": "Misty Garden Lantern Gaze",
-    "description": "Model stands beneath a stone garden gateway, one hand gently holding a small softly-glowing lantern, other arm relaxed by her side, body angled slightly toward the mist beyond, head turned three-quarters as if looking at something in the fog, expression soft and expectant, as if listening for a distant sound.",
-    "setting": "Traditional stone garden gateway in moss-covered architecture, twilight mist rising between old trees, ivy-wwrapped walls, soft golden light from the lantern",
-    "outfit": "Forest green wool wrap coat, cream cable-knit turtleneck, brown leather ankle boots, simple gold pendant, hair in a low side braid, delicate makeup",
-    "style": "Editorial fashion photography, soft atmospheric lighting, dreamy mood, mystical ambience",
-    "image": "images/misty-garden-lantern-gaze-20260306.png",
-    "imgbb_url": "https://i.ibb.co/rHDd3b8/Misty-Garden-Lantern-Gaze-20260306.jpg",
-    "drive_url": "https://drive.google.com/file/d/11sMFuFjTj4H9K5zyQnzuY5h8cJft-TVb/view?usp=sharing",
-    "generated_at": "2026-03-06T12:09:00+08:00",
-    "execution": 154
-  },
-  {
-    "id": 156,
-    "title": "Moonlit Bridge Silk Reverie",
-    "description": "Model stands on an arched stone bridge at twilight, one hand lightly resting on the mossy railing, body turned three-quarters toward camera, chin slightly lifted, eyes gazing dreamily into the misty distance. One leg slightly forward, silk skirt billowing softly in the evening breeze.",
-    "setting": "Ancient stone bridge over a glowing lotus pond, twilight mist rising from the water, paper lanterns reflected on the surface, weeping willows framing the scene",
-    "outfit": "Dusty rose silk qipao-inspired midi dress with gold embroidery trim, delicate pearl drop earrings, ivory strappy heels, hair in a loose low chignon with baby's breath flowers",
-    "style": "Romantic editorial fashion photography, soft dreamy atmosphere, cinematic lighting",
-    "image": "images/moonlit-bridge-silk-reverie-20260306.png",
-    "drive_url": "https://drive.google.com/file/d/1GLZo6Zj7HiYylzUkhBhHMonSm8ekl7Fy/view?usp=sharing",
-    "generated_at": "2026-03-06T20:09:00+08:00",
-    "execution": 155
+    "title": "Cappadocia Hot Air Balloons at Dawn — Turkey",
+    "prompt": "A breathtaking photorealistic wide-angle shot of Cappadocia, Turkey at dawn. Dozens of vibrant hot air balloons float gracefully above the surreal landscape of fairy chimney rock formations. The sky transitions from soft peach and pink near the horizon to pastel lavender and pale blue above. The unique volcanic rock formations—tall, cone-shaped pillars and mushroom-shaped spires—glow in warm golden sunlight. In the foreground, ancient cave dwellings carved into the rock face add historical depth. Photorealistic, ultra-high detail, 16:9 cinematic format, 2K resolution.",
+    "filename": "cappadocia-hot-air-balloons-dawn-turkey.jpeg",
+    "timestamp": "2026-03-06T12:13:08Z",
+    "location": "Turkey",
+    "category": "Scenery",
+    "imgbb_url": "https://i.ibb.co/nF93Rx9/cappadocia-hot-air-balloons-dawn-turkey.jpg"
   }
 ]
