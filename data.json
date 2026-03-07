@@ -35,35 +35,37 @@
     {
       "id": 435,
       "title": "Zhangjiajie Pillar Mountains Sunrise China",
-      "prompt": "Dramatic sunrise over the towering sandstone pillar formations of Zhangjiajie National Forest Park, China \u2014 ethereal mist swirls between the towering quartzite sandstone pillars as golden dawn light illuminates the vertical cliffs and lush green vegetation cascading down the rock faces. Dusty pink and orange sky transitions to soft blue, ethereal layered mist in the valleys, a single hiker silhouette on the distant viewpoint for scale. Ultra-wide landscape photography, photorealistic, dramatic, ultra-detailed, 8K",
-      "imgbb_url": "https://i.ibb.co/gF0Ds6M/zhangjiajie-pillar-mountains-sunrise-china.jpg",
-      "viewer_url": "https://ibb.co/ZPGtN9Z",
+      "prompt": "Dramatic sunrise over the towering sandstone pillar formations of Zhangjiajie National Forest Park, China \u2014 ethereal mist weaving between the pinnacles, warm golden orange light breaking through clouds illuminating the unique quartzite rock columns, deep lacy-green forest below, soft veils of cloud floating through the valley, surreal dimension, cinematic, photorealistic, 8K",
+      "imgbb_url": "https://i.ibb.co/bbnqqx7/zhangjiajie-pillar-mountains-sunrise-china.jpg",
+      "viewer_url": "https://ibb.co/M2FgVLh8",
       "timestamp": "2026-03-07T16:30:00+08:00",
       "execution": 435,
       "type": "scenery"
-    }
-  ],
-  "sceneries": [
-    {
-      "briefTitle": "Waitomo Glowworm Caves, New Zealand",
-      "title": "Waitomo Glowworm Caves New Zealand",
-      "prompt": "Breathtaking wide angle view inside the magical Waitomo Glowworm Caves in New Zealand, showcasing thousands of bioluminescent glowworms illuminating the cave ceiling like a starry night sky. Soft blue-green and ethereal cyan light casting a magical glow on the dark limestone walls and calm underground river below. A silhouetted boat with a few visitors drifts quietly on the water. Elegant stalactites and stalagmites visible in the dim growworm light. Mysterious, photorealistic, ultra-wide, dramatic contrast, cinematic, 8K",
-      "imgbb_url": "https://i.ibb.co/rd7gpLB/waitomo-glowworm-caves-new-zealand.jpg",
-      "viewer_url": "https://ibb.co/vDL6Xx2",
-      "timestamp": "2026-03-07T14:30:00+08:00",
-      "execution": 433,
-      "type": "scenery"
     },
     {
-      "id": 436,
-      "title": "Khyargas Lake White Cliffs Mongolia",
-      "prompt": "Dramatic landscape photograph of Khyargas Lake with striking white chalk cliffs rising from turquoise-blue water in western Mongolia. Golden hour light illuminates the stark white limestone formations creating strong contrast against the deep blue sky and water. Vast steppe landscape in the background, a few nomadic gers visible in the distance. Professional photography with dramatic lighting, vivid colors, stunning composition. Ultra-high resolution, cinematic quality, National Geographic style.",
-      "imgbb_url": "https://i.ibb.co/C3y7GC0c/khyargas-lake-white-cliffs-mongolia.jpg",
-      "viewer_url": "https://ibb.co/dwv2YCKT",
-      "timestamp": "2026-03-07T17:30:00+08:00",
-      "execution": 436,
-      "type": "scenery",
-      "filename": "images/khyargas-lake-white-cliffs-mongolia.jpeg"
+      "id": 179,
+      "title": "Salar de Uyuni Parisian Reverie",
+      "scenery": "Salar de Uyuni Sunrise, Bolivia",
+      "pose": "Parisian Cafe Terrace Reverie",
+      "prompt": "Photorealistic editorial fashion photograph. A young woman with long blonde hair and Korean facial features is seated sideways on a delicate white bistro chair on the mirror-flat surface of the Salar de Uyuni salt flat in Bolivia at sunrise. The endless white crystalline salt crust stretches to the horizon, perfectly reflecting the dramatic pink and orange sky above. Small cactus islands emerge from the reflective surface in the distance. She wears a navy and white Breton stripe top, high-waisted wide-leg cream trousers, a red silk neck scarf, and nude ballet flats, with a small structured tan leather crossbody bag hanging from the chair. Golden sunrise light bathes her from the side. Ultra-detailed, photorealistic, cinematic Vogue editorial style, 16:9 aspect ratio.",
+      "image_url": "https://i.ibb.co/tM2KC8V0/salar-de-uyuni-parisian-reverie-composite-20260307-179.png",
+      "drive_url": "https://drive.google.com/file/d/1-UUmDKH9Bk565ycGsk9c837cCeyubRFR/view",
+      "filename": "images/salar-de-uyuni-parisian-reverie-composite-20260307-179.png",
+      "date": "2026-03-07T09:14:00Z",
+      "category": "Composite",
+      "execution": 179
+    }
+  ],
+  "poses": [
+    {
+      "id": 175,
+      "title": "Cherry Blossom Garden Parasol Grace",
+      "prompt": "A young Korean female model with long blonde hair standing gracefully in a blooming cherry blossom garden, holding a delicate white lace parasol over one shoulder, head gently tilted with a soft elegant smile, wearing a flowing pastel pink midi dress with subtle floral embroidery, soft natural golden-hour light filtering through falling cherry blossom petals",
+      "style": "Editorial fashion photography, golden-hour warmth, film-like, ultra-realistic, 4K",
+      "image_url": "https://i.ibb.co/7dcKHTmF/cherry-blossom-garden-parasol-grace-20260307.png",
+      "imgbb_viewer": "https://ibb.co/G4wRX1Sj",
+      "timestamp": "2026-03-07T17:15:00+08:00",
+      "execution": 175
     }
   ]
 }
