@@ -1,123 +1,117 @@
-ewogICJjb21wb3NpdGVzIjogWwogICAgewogICAgICAidGl0bGUiOiAiTGFr
-ZXNpZGUgUmV2ZXJpZSBhdCBQbGl0dmljZSBpbiBBdXR1bW4iLAogICAgICAi
-cHJvbXB0IjogIkEgeW91bmcgc29sbyBmZW1hbGUgbW9kZWwgd2l0aCBsb25n
-IGJsb25kZSBoYWlyIGFuZCBLb3JlYW4gZmFjaWFsIGZlYXR1cmVzIGlzIHNl
-YXRlZCBzaWRld2F5cyBvbiBhIHJ1c3RpYyB3b29kZW4gY2hhaXIgYXQgdGhl
-IGVkZ2Ugb2Ygb25lIG9mIFBsaXR2aWNlIExha2VzIGljb25pYyB3b29kZW4g
-d2Fsa3dheXMsIENyb2F0aWEsIGR1cmluZyBwZWFrIGF1dHVtbi4gT25lIGxl
-ZyBpcyBlbGVnYW50bHkgY3Jvc3NlZCwgc2hlIGxlYW5zIGJhY2sgd2l0aCBv
-bmUgaGFuZCByZXN0aW5nIG5lYXIgYSBzbWFsbCBlc3ByZXNzbyBjdXAgcGxh
-Y2VkIG9uIHRoZSB3ZWF0aGVyZWQgcmFpbGluZywgdGhlIG90aGVyIGhhbmQg
-bGlnaHRseSB0b3VjaGluZyBoZXIgaGFpciwgaGVyIGdhemUgZHJpZnRpbmcg
-ZHJlYW1pbHkgdG93YXJkIHRoZSBjYXNjYWRpbmcgdHVycXVvaXNlIHdhdGVy
-ZmFsbHMgYmV5b25kLiBTaGUgd2VhcnMgYSBuYXZ5IGFuZCB3aGl0ZSBCcmV0
-b24gc3RyaXBlIHRvcCwgaGlnaC13YWlzdGVkIHdpZGUtbGVnIGNyZWFtIHRy
-b3VzZXJzLCBhIHJlZCBzaWxrIG5lY2sgc2NhcmYsIGFuZCBudWRlIGJhbGxl
-dCBmbGF0cy4gVWx0cmEtZGV0YWlsZWQsIHBob3RvcmVhbGlzdGljLCBjaW5l
-bWF0aWMgZWRpdG9yaWFsIHN0eWxlLiIsCiAgICAgICJpbWFnZV91cmwiOiAi
-aHR0cHM6Ly9pLmliYi5jby9TdzB3VG5HYi9wbGl0dmljZS1sYWtlcy1wYXJp
-c2lhbi1yZXZlcmllLWNvbXBvc2l0ZS0yMDI2MDMwNy0xNzIucG5nIiwKICAg
-ICAgImRyaXZlX3VybCI6ICJodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZmls
-ZS9kLzE4ZlBINmtfZTZYenVtMGZOZnlUdEt5Y0pKMjgwbU9BdC92aWV3IiwK
-ICAgICAgImRhdGUiOiAiMjAyNi0wMy0wN1QwMjowMDo0N1oiLAogICAgICAi
-Y2F0ZWdvcnkiOiAiQ29tcG9zaXRlIiwKICAgICAgInNjZW5lcnkiOiAiUGxp
-dHZpY2UgTGFrZXMgQXV0dW1uIFBlYWssIENyb2F0aWEiLAogICAgICAicG9z
-ZSI6ICJQYXJpc2lhbiBDYWZlIFRlcnJhY2UgUmV2ZXJpZSIsCiAgICAgICJm
-aWxlbmFtZSI6ICJpbWFnZXMvcGxpdHZpY2UtbGFrZXMtcGFyaXNpYW4tcmV2
-ZXJpZS1jb21wb3NpdGUtMjAyNjAzMDctMTcyLnBuZyIKICAgIH0sCiAgICB7
-CiAgICAgICJ0aXRsZSI6ICJDaGVycnkgQmxvc3NvbSBQYXJpc2lhbiBSZXZl
-cmllIiwKICAgICAgInByb21wdCI6ICJQaG90b3JlYWxpc3RpYyBlZGl0b3Jp
-YWwgZmFzaGlvbiBwaG90b2dyYXBoLiBBIHlvdW5nIHdvbWFuIHdpdGggbG9u
-ZyBibG9uZGUgaGFpciBhbmQgS29yZWFuIGZhY2lhbCBmZWF0dXJlcyBpcyBz
-ZWF0ZWQgc2lkZXdheXMgb24gYSBkZWxpY2F0ZSB3aGl0ZSBiaXN0cm8gY2hh
-aXIgYmVuZWF0aCBhIGJyZWF0aHRha2luZyB0dW5uZWwgb2YgY2hlcnJ5IGJs
-b3Nzb20gdHJlZXMgaW4gZnVsbCBibG9vbSwgSmFwYW4uIFVsdHJhLWRldGFp
-bGVkLCBwaG90b3JlYWxpc3RpYywgY2luZW1hdGljIFZvZ3VlIGVkaXRvcmlh
-bCBzdHlsZSwgMTY6OSBhc3BlY3QgcmF0aW8uIiwKICAgICAgImltYWdlX3Vy
-bCI6ICJodHRwczovL2kuaWJiLmNvL0JZdk5nMVAvY2hlcnJ5LWJsb3Nzb20t
-cGFyaXNpYW4tcmV2ZXJpZS1jb21wb3NpdGUtMjAyNjAzMDctMTczLnBuZyIs
-CiAgICAgICJkcml2ZV91cmwiOiAiaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29t
-L2ZpbGUvZC8xQWh1NllSUUJhM2VvU2dZRXFfTVpuTHZXb2s3cWF3YXkvdmll
-dyIsCiAgICAgICJkYXRlIjogIjIwMjYtMDMtMDdUMDM6MTU6MDBaIiwKICAg
-ICAgImNhdGVnb3J5IjogIkNvbXBvc2l0ZSIsCiAgICAgICJzY2VuZXJ5Ijog
-IkNoZXJyeSBCbG9zc29tIFR1bm5lbCwgSmFwYW4iLAogICAgICAicG9zZSI6
-ICJQYXJpc2lhbiBDYWZlIFRlcnJhY2UgUmV2ZXJpZSIsCiAgICAgICJmaWxl
-bmFtZSI6ICJpbWFnZXMvY2hlcnJ5LWJsb3Nzb20tcGFyaXNpYW4tcmV2ZXJp
-ZS1jb21wb3NpdGUtMjAyNjAzMDctMTczLnBuZyIKICAgIH0sCiAgICB7CiAg
-ICAgICJpZCI6IDQzNCwKICAgICAgInRpdGxlIjogIlNhbGFyIGRlIFV5dW5p
-IFN1bnJpc2UgQm9saXZpYSIsCiAgICAgICJwcm9tcHQiOiAiQWVyaWFsIHZp
-ZXcgb2YgU2FsYXIgZGUgVXl1bmkgc2FsdCBmbGF0IGF0IHN1bnJpc2UgaW4g
-Qm9saXZpYSwgcGVyZmVjdCBtaXJyb3IgcmVmbGVjdGlvbiBvZiBkcmFtYXRp
-YyBwaW5rIGFuZCBvcmFuZ2Ugc2t5LCBlbmRsZXNzIHdoaXRlIGNyeXN0YWxs
-aW5lIHNhbHQgY3J1c3Qgc3RyZXRjaGluZyB0byB0aGUgaG9yaXpvbiwgc21h
-bGwgY2FjdHVzIGlzbGFuZHMgZW1lcmdpbmcgZnJvbSB0aGUgcmVmbGVjdGl2
-ZSBzdXJmYWNlLCBnb2xkZW4gbGlnaHQgcmF5cyBicmVha2luZyB0aHJvdWdo
-IGNsb3VkcywgdWx0cmEtd2lkZSBsYW5kc2NhcGUgcGhvdG9ncmFwaHksIHBo
-b3RvcmVhbGlzdGljLCA4SyIsCiAgICAgICJpbWdiYl91cmwiOiAiaHR0cHM6
-Ly9pLmliYi5jby9iajR5Wm1uRy9zYWxhci1kZS11eXVuaS1zdW5yaXNlLWJv
-bGl2aWEuanBnIiwKICAgICAgInZpZXdlcl91cmwiOiAiaHR0cHM6Ly9pYmIu
-Y28vUTdXcVJRR3giLAogICAgICAidGltZXN0YW1wIjogIjIwMjYtMDMtMDdU
-MTU6MzA6MDArMDg6MDAiLAogICAgICAiZXhlY3V0aW9uIjogNDM0LAogICAg
-ICAidHlwZSI6ICJzY2VuZXJ5IgogICAgfSwKICAgIHsKICAgICAgImlkIjog
-NDM1LAogICAgICAidGl0bGUiOiAiWmhhbmdqaWFqaWUgUGlsbGFyIE1vdW50
-YWlucyBTdW5yaXNlIENoaW5hIiwKICAgICAgInByb21wdCI6ICJEcmFtYXRp
-YyBzdW5yaXNlIG92ZXIgdGhlIHRvd2VyaW5nIHNhbmRzdG9uZSBwaWxsYXIg
-Zm9ybWF0aW9ucyBvZiBaaGFuZ2ppYWppZSBOYXRpb25hbCBGb3Jlc3QgUGFy
-aywgQ2hpbmEg4oCUIGV0aGVyZWFsIG1pc3Qgd2VhdmluZyBiZXR3ZWVuIHRo
-ZSBwaW5uYWNsZXMsIHdhcm0gZ29sZGVuIG9yYW5nZSBsaWdodCBicmVha2lu
-ZyB0aHJvdWdoIGNsb3VkcyBpbGx1bWluYXRpbmcgdGhlIHVuaXF1ZSBxdWFy
-dHppdGUgcm9jayBjb2x1bW5zLCBkZWVwIGxhY3ktZ3JlZW4gZm9yZXN0IGJl
-bG93LCBzb2Z0IHZlaWxzIG9mIGNsb3VkIGZsb2F0aW5nIHRocm91Z2ggdGhl
-IHZhbGxleSwgc3VycmVhbCBkaW1lbnNpb24sIGNpbmVtYXRpYywgcGhvdG9y
-ZWFsaXN0aWMsIDhLIiwKICAgICAgImltZ2JiX3VybCI6ICJodHRwczovL2ku
-aWJiLmNvL2JibnFxeDcvemhhbmdqaWFqaWUtcGlsbGFyLW1vdW50YWlucy1z
-dW5yaXNlLWNoaW5hLmpwZyIsCiAgICAgICJ2aWV3ZXJfdXJsIjogImh0dHBz
-Oi8vaWJiLmNvL00yRmdWTGg4IiwKICAgICAgInRpbWVzdGFtcCI6ICIyMDI2
-LTAzLTA3VDE2OjMwOjAwKzA4OjAwIiwKICAgICAgImV4ZWN1dGlvbiI6IDQz
-NSwKICAgICAgInR5cGUiOiAic2NlbmVyeSIKICAgIH0sCiAgICB7CiAgICAg
-ICJpZCI6IDE4MCwKICAgICAgInRpdGxlIjogIlBhdGFnb25pYSBUb3JyZXMg
-ZGVsIFBhaW5lIFBhcmlzaWFuIFJldmVyaWUgQ29tcG9zaXRlIiwKICAgICAg
-InByb21wdCI6ICJQaG90b3JlYWxpc3RpYyBjb21wb3NpdGUgaW1hZ2Ugb2Yg
-YW4gZWxlZ2FudCBibG9uZGUgd29tYW4gaW4gYSBuYXZ5IGFuZCB3aGl0ZSBC
-cmV0b24gc3RyaXBlIHRvcCwgaGlnaC13YWlzdGVkIHdpZGUtbGVnIGNyZWFt
-IHRyb3VzZXJzLCByZWQgc2lsayBuZWNrIHNjYXJmLCBudWRlIGJhbGxldCBm
-bGF0cywgYW5kIGEgc21hbGwgdGFuIGxlYXRoZXIgY3Jvc3Nib2R5IGJhZyDi
-gJQgc2VhdGVkIHNpZGV3YXlzIG9uIGEgYmlzdHJvIGNoYWlyIHdpdGggb25l
-IGxlZyBjcm9zc2VkLCBsZWFuaW5nIGJhY2sgZWxlZ2FudGx5LCBvbmUgaGFu
-ZCBuZWFyIGFuIGVzcHJlc3NvIGN1cCBvbiBhIG1hcmJsZSBiaXN0cm8gdGFi
-bGUsIHRoZSBvdGhlciBoYW5kIGxpZ2h0bHkgdG91Y2hpbmcgaGVyIGhhaXIs
-IGdhemluZyBkcmVhbWlseSBpbnRvIHRoZSBkaXN0YW5jZS4gQmFja2dyb3Vu
-ZDogZHJhbWF0aWMgUGF0YWdvbmlhIFRvcnJlcyBkZWwgUGFpbmUgZ2xhY2lh
-bCBsYWtlLCBpY29uaWMgamFnZ2VkIGdyYW5pdGUgdG93ZXJzLCB0dXJxdW9p
-c2UgZ2xhY2lhbCB3YXRlcnMsIHN3ZWVwaW5nIFBhdGFnb25pYW4gc2t5LiBD
-aW5lbWF0aWMgZ29sZGVuLWhvdXIgbGlnaHRpbmcsIHBob3RvcmVhbGlzdGlj
-LCBoaWdoIGRldGFpbC4iLAogICAgICAiaW1hZ2VfdXJsIjogImh0dHBzOi8v
-aS5pYmIuY28vcHZ6Zmd4UjYvcGF0YWdvbmlhLXRvcnJlcy1kZWwtcGFpbmUt
-cGFyaXNpYW4tcmV2ZXJpZS1jb21wb3NpdGUtMjAyNjAzMDctMTgwLnBuZyIs
-CiAgICAgICJkcml2ZV91cmwiOiAiaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29t
-L2ZpbGUvZC8xSkVDVXZRSFJrZmtPbkljbGtDdTA2MUtScktyMHRMUW8vdmll
-dyIsCiAgICAgICJkYXRlIjogIjIwMjYtMDMtMDdUMTA6MjQ6MDBaIiwKICAg
-ICAgImNhdGVnb3J5IjogIkNvbXBvc2l0ZSIsCiAgICAgICJzY2VuZXJ5Ijog
-IlBhdGFnb25pYSBUb3JyZXMgZGVsIFBhaW5lIEdsYWNpYWwgTGFrZSBBcmdl
-bnRpbmEiLAogICAgICAicG9zZSI6ICJQYXJpc2lhbiBDYWZlIFRlcnJhY2Ug
-UmV2ZXJpZSIsCiAgICAgICJmaWxlbmFtZSI6ICJpbWFnZXMvcGF0YWdvbmlh
-LXRvcnJlcy1kZWwtcGFpbmUtcGFyaXNpYW4tcmV2ZXJpZS1jb21wb3NpdGUt
-MjAyNjAzMDctMTgwLnBuZyIKICAgIH0KICBdLAogICJwb3NlcyI6IFsKICAg
-IHsKICAgICAgImlkIjogMTc1LAogICAgICAidGl0bGUiOiAiQ2hlcnJ5IEJs
-b3Nzb20gR2FyZGVuIFBhcmFzb2wgR3JhY2UiLAogICAgICAicHJvbXB0Ijog
-IkEgeW91bmcgS29yZWFuIGZlbWFsZSBtb2RlbCB3aXRoIGxvbmcgYmxvbmRl
-IGhhaXIgc3RhbmRpbmcgZ3JhY2VmdWxseSBpbiBhIGJsb29taW5nIGNoZXJy
-eSBibG9zc29tIGdhcmRlbiwgaG9sZGluZyBhIGRlbGljYXRlIHdoaXRlIGxh
-Y2UgcGFyYXNvbCBvdmVyIG9uZSBzaG91bGRlciwgaGVhZCBnZW50bHkgdGls
-dGVkIHdpdGggYSBzb2Z0IGVsZWdhbnQgc21pbGUsIHdlYXJpbmcgYSBmbG93
-aW5nIHBhc3RlbCBwaW5rIG1pZGkgZHJlc3Mgd2l0aCBzdWJ0bGUgZmxvcmFs
-IGVtYnJvaWRlcnksIHNvZnQgbmF0dXJhbCBnb2xkZW4taG91ciBsaWdodCBm
-aWx0ZXJpbmcgdGhyb3VnaCBmYWxsaW5nIGNoZXJyeSBibG9zc29tIHBldGFs
-cyIsCiAgICAgICJzdHlsZSI6ICJFZGl0b3JpYWwgZmFzaGlvbiBwaG90b2dy
-YXBoeSwgZ29sZGVuLWhvdXIgd2FybXRoLCBmaWxtLWxpa2UsIHVsdHJhLXJl
-YWxpc3RpYywgNEsiLAogICAgICAiaW1hZ2VfdXJsIjogImh0dHBzOi8vaS5p
-YmIuY28vN2RjS0hUbUYvY2hlcnJ5LWJsb3Nzb20tZ2FyZGVuLXBhcmFzb2wt
-Z3JhY2UtMjAyNjAzMDcucG5nIiwKICAgICAgImltZ2JiX3ZpZXdlciI6ICJo
-dHRwczovL2liYi5jby9HNHdSWDFTaiIsCiAgICAgICJ0aW1lc3RhbXAiOiAi
-MjAyNi0wMy0wN1QxNzoxNTowMCswODowMCIsCiAgICAgICJleGVjdXRpb24i
-OiAxNzUKICAgIH0KICBdCn0=
+{
+  "composites": [
+    {
+      "title": "Lakeside Reverie at Plitvice in Autumn",
+      "prompt": "A young solo female model with long blonde hair and Korean facial features is seated sideways on a rustic wooden chair at the edge of one of Plitvice Lakes iconic wooden walkways, Croatia, during peak autumn. One leg is elegantly crossed, she leans back with one hand resting near a small espresso cup placed on the weathered railing, the other hand lightly touching her hair, her gaze drifting dreamily toward the cascading turquoise waterfalls beyond. She wears a navy and white Breton stripe top, high-waisted wide-leg cream trousers, a red silk neck scarf, and nude ballet flats. Ultra-detailed, photorealistic, cinematic editorial style.",
+      "image_url": "https://i.ibb.co/Sw0wTnGb/plitvice-lakes-parisian-reverie-composite-20260307-172.png",
+      "drive_url": "https://drive.google.com/file/d/18fPH6k_e6Xzum0fNfyTtKycJJ280mOAt/view",
+      "date": "2026-03-07T02:00:47Z",
+      "category": "Composite",
+      "scenery": "Plitvice Lakes Autumn Peak, Croatia",
+      "pose": "Parisian Cafe Terrace Reverie",
+      "filename": "images/plitvice-lakes-parisian-reverie-composite-20260307-172.png"
+    },
+    {
+      "title": "Cherry Blossom Parisian Reverie",
+      "prompt": "Photorealistic editorial fashion photograph. A young woman with long blonde hair and Korean facial features is seated sideways on a delicate white bistro chair beneath a breathtaking tunnel of cherry blossom trees in full bloom, Japan. Ultra-detailed, photorealistic, cinematic Vogue editorial style, 16:9 aspect ratio.",
+      "image_url": "https://i.ibb.co/BYvNg1P/cherry-blossom-parisian-reverie-composite-20260307-173.png",
+      "drive_url": "https://drive.google.com/file/d/1Ahu6YRQBa3eoSgYEq_MZnLvWok7qaway/view",
+      "date": "2026-03-07T03:15:00Z",
+      "category": "Composite",
+      "scenery": "Cherry Blossom Tunnel, Japan",
+      "pose": "Parisian Cafe Terrace Reverie",
+      "filename": "images/cherry-blossom-parisian-reverie-composite-20260307-173.png"
+    },
+    {
+      "id": 434,
+      "title": "Salar de Uyuni Sunrise Bolivia",
+      "prompt": "Aerial view of Salar de Uyuni salt flat at sunrise in Bolivia, perfect mirror reflection of dramatic pink and orange sky, endless white crystalline salt crust stretching to the horizon, small cactus islands emerging from the reflective surface, golden light rays breaking through clouds, ultra-wide landscape photography, photorealistic, 8K",
+      "imgbb_url": "https://i.ibb.co/bj4yZmnG/salar-de-uyuni-sunrise-bolivia.jpg",
+      "viewer_url": "https://ibb.co/Q7WqRQGx",
+      "timestamp": "2026-03-07T15:30:00+08:00",
+      "execution": 434,
+      "type": "scenery"
+    },
+    {
+      "id": 435,
+      "title": "Zhangjiajie Pillar Mountains Sunrise China",
+      "prompt": "Dramatic sunrise over the towering sandstone pillar formations of Zhangjiajie National Forest Park, China — ethereal mist swirling through the valleys, golden sunlight illuminating ancient peaks, ultra-detailed cinematic landscape, photorealistic, 8K",
+      "imgbb_url": "https://i.ibb.co/1Gj8TbV/zhangjiajie-pillar-mountains-sunrise-china.jpg",
+      "viewer_url": "https://ibb.co/fszPCbX",
+      "timestamp": "2026-03-07T16:30:00+08:00",
+      "execution": 435,
+      "type": "scenery"
+    }
+  ],
+  "poses": [
+    {
+      "id": 174,
+      "title": "Cherry Blossom Garden Parasol Grace",
+      "category": "photo-pose",
+      "image_url": "https://i.ibb.co/xKP1tDLM/cherry-blossom-garden-parasol-grace-20260307.png",
+      "timestamp": "2026-03-07T07:04:00+08:00",
+      "tags": [
+        "cherry-blossom",
+        "parasol",
+        "blonde",
+        "korean",
+        "garden",
+        "elegant",
+        "fashion",
+        "spring"
+      ]
+    },
+    {
+      "id": 175,
+      "title": "Moonlit Hanok Courtyard Reverie",
+      "category": "photo-pose",
+      "image_url": "https://i.ibb.co/xKP1tDLM/moonlit-hanok-courtyard-reverie-20260307.png",
+      "timestamp": "2026-03-07T08:04:00+08:00",
+      "tags": [
+        "hanok",
+        "korea",
+        "moonlight",
+        "blonde",
+        "korean",
+        "traditional",
+        "architecture",
+        "serene"
+      ]
+    },
+    {
+      "id": 176,
+      "title": "Rooftop Sunset Wind-Blown Hair Gaze",
+      "category": "photo-pose",
+      "image_url": "https://i.ibb.co/xKP1tDLM/rooftop-sunset-wind-blown-hair-gaze-20260307.png",
+      "timestamp": "2026-03-07T18:04:00+08:00",
+      "tags": [
+        "rooftop",
+        "sunset",
+        "wind",
+        "blonde",
+        "korean",
+        "editorial",
+        "fashion",
+        "golden-hour"
+      ]
+    },
+    {
+      "id": 177,
+      "title": "Misty Forest Morning Yoga Stretch",
+      "date": "2026-03-07",
+      "time": "11:00 UTC",
+      "category": "photo-pose",
+      "description": "A young blonde Korean model in a serene misty forest at dawn, performing Warrior III (Virabhadrasana III) yoga pose with arms extended forward, one leg raised behind parallel to the ground. Wearing a pastel lavender athletic set, natural makeup, hair loosely tied back. Golden hour light filtering through tall pine trees with soft morning mist.",
+      "image_url": "https://i.ibb.co/GQ9hrmfb/misty-forest-morning-yoga-stretch-20260307.png",
+      "tags": [
+        "yoga",
+        "forest",
+        "morning",
+        "misty",
+        "warrior-iii",
+        "lavender",
+        "golden-hour"
+      ]
+    }
+  ]
+}
