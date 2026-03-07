@@ -35,85 +35,74 @@
     {
       "id": 435,
       "title": "Zhangjiajie Pillar Mountains Sunrise China",
-      "prompt": "Dramatic sunrise over the towering sandstone pillar formations of Zhangjiajie National Forest Park, China — ethereal mist weaving between the pinnacles, warm golden orange light breaking through clouds illuminating the unique quartzite rock columns, deep lacy-green forest below, soft veils of cloud floating through the valley, surreal dimension, cinematic, photorealistic, 8K",
-      "imgbb_url": "https://i.ibb.co/bbnqqx7/zhangjiajie-pillar-mountains-sunrise-china.jpg",
-      "viewer_url": "https://ibb.co/M2FgVLh8",
+      "prompt": "Dramatic sunrise over the towering sandstone pillar formations of Zhangjiajie National Forest Park, China — ethereal mist swirls around the towering quartz-sandstone pillars as golden light breaks through the clouds, casting dramatic shadows on the lush green forest below, signature Avatar-like landscape, cynematic, photorealistic, 8K",
+      "imgbb_url": "https://i.ibb.co/9r5gL4Hk/zhangjiajie-pillar-mountains-sunrise-china.jpg",
+      "viewer_url": "https://ibb.co/SXmkFMd",
       "timestamp": "2026-03-07T16:30:00+08:00",
       "execution": 435,
       "type": "scenery"
     },
     {
-      "id": 180,
-      "title": "Patagonia Torres del Paine Parisian Reverie Composite",
-      "prompt": "Photorealistic composite image of an elegant blonde woman in a navy and white Breton stripe top, high-waisted wide-leg cream trousers, red silk neck scarf, nude ballet flats, and a small tan leather crossbody bag — seated sideways on a bistro chair with one leg crossed, leaning back elegantly, one hand near an espresso cup on a marble bistro table, the other hand lightly touching her hair, gazing dreamily into the distance. Background: dramatic Patagonia Torres del Paine glacial lake, iconic jagged granite towers, turquoise glacial waters, sweeping Patagonian sky. Cinematic golden-hour lighting, photorealistic, high detail.",
-      "image_url": "https://i.ibb.co/pvzfgxR6/patagonia-torres-del-paine-parisian-reverie-composite-20260307-180.png",
-      "drive_url": "https://drive.google.com/file/d/1JECUvQHRkfkOnIclkCu061KRrKr0tLQo/view",
-      "date": "2026-03-07T10:24:00Z",
-      "category": "Composite",
-      "scenery": "Patagonia Torres del Paine Glacial Lake Argentina",
+      "id": 436,
+      "title": "Pose #436: Parisian Cafe Terrace Reverie",
+      "prompt": "A young woman with long blonde hair and Korean facial features, seated sideways on a delicate white bistro chair at a Parisian street cafe, one leg elegantly crossed, leaning back one hand resting near a small espresso cup, the other lightly touching her long blonde hair, gaze drifting dreamily away. She wears a navy and white Breton stripe top, high-waisted wide-leg cream trousers, a red silk neck scarf, and nude ballet flats. Soft morning light, warm French café atmosphere, photorealistic, fashion editorial style.",
+      "imgbb_url": "https://i.ibb.co/bLjpjh9/parisian-cafe-terrace-reverie.jpg",
+      "viewer_url": "https://ibb.co/H2rPZpq",
+      "timestamp": "2026-03-07T17:30:00+08:00",
+      "execution": 436,
+      "type": "pose"
+    },
+    {
+      "id": 176,
+      "type": "composite",
+      "title": "Salar de Uyuni Sunrise Bolivia – Parisian Cafe Reverie",
+      "scenery": "Salar de Uyuni Sunrise Bolivia",
       "pose": "Parisian Cafe Terrace Reverie",
-      "filename": "images/patagonia-torres-del-paine-parisian-reverie composite-20260307-180.png"
+      "prompt": "A young solo female model with long blonde hair and Korean facial features is seated sideways on a delicate white bistro chair on the perfectly flat, mirror-like surface of Salar de Uyuni salt flats at sunrise in Bolivia, bathed in dramatic pink and orange sky light. One leg is elegantly crossed, she leans back one hand resting near a small espresso cup, the other lightly touching her flowing blonde hair as she gazes dreamily at the vibrant sky reflected below. She wears a navy and white Breton stripe top, high-waisted wide-leg cream trousers, a red silk neck scarf, and nude ballet flats. The endless white crystalline salt crust stretches to the horizon, reflecting the colorful sky. Cinematic editorial photography, wide-angle lens, natural golden rising light, dreamlike atmosphere.",
+      "image_url": "https://i.ibb.co/F6qNCss-salar-de-uyuni-sunrise-bolivia-parisian-cafe-reverie-composite-20260307-176.png",
+      "google_drive_url": "https://drive.google.com/file/d/1RvSH6YESPqYP9KkDx-ExuzL9NBY1HT6o/view",
+      "filename": "salar-de-uyuni-sunrise-bolivia-parisian-cafe-reverie-composite-20260307-176.png",
+      "generated_at": "2026-03-07T09:15:00Z",
+      "execution": 176
     },
     {
-      "id": 441,
-      "title": "Zhangjiajie Pillar Mountains Morning Mist China",
-      "prompt": "Dramatic karst pillar mountains of Zhangjiajie, China at dawn, towering sandstone columns draped in swirling morning mist, lush subtropical forest clinging to vertical cliffs, ancient wooden walkway bridge suspended between pillars, golden sunlight piercing through cloud layers, ethereal and surreal landscape, cinematic wide angle, hyper-realistic photography",
-      "image_url": "https://i.ibb.co/1GT0DQXG/zhangjiajie-pillar-mountains-morning-mist-china.jpg",
-      "timestamp": "2026-03-07T22:35:00+08:00",
-      "filename": "zhangjiajie-pillar-mountains-morning-mist-china.jpg"
+      "id": 177,
+      "type": "composite",
+      "title": "Zhangjiajie Pillar Mountains Sunrise – Parisian Cafe Reverie",
+      "scenery": "Zhangjiajie Pillar Mountains Sunrise China",
+      "pose": "Parisian Cafe Terrace Reverie",
+      "prompt": "A young solo female model with long blonde hair and Korean facial features is seated sideways on a delicate white bistro chair atop a dramatic rocky outcrop among the towering sandstone pillar formations of Zhangjiajie National Forest Park at sunrise, engulfed by ethereal mist. One leg is elegantly crossed, she leans back, one hand resting near a small espresso cup, the other lightly touching her flowing blonde hair as she gazes dreamily at the dramatic Avatar-like pillars and golden light breaking through the clouds. She wears a navy and white Breton stripe top, high-waisted wide-leg cream trousers, a red silk neck scarf, and nude ballet flats. Towering quartz-sandstone pillars loom above, with lush green forest visible below in the valley. Cinematic editorial photography, wide-angle lens, dramatic golden sunrise lighting, dreamlike atmosphere.",
+      "image_url": "https://i.ibb.co/Kd4KWpcq/zhangjiajie-pillar-mountains-sunrise-parisian-cafe-reverie-composite-20260307-177.png",
+      "google_drive_url": "https://drive.google.com/file/d/1Rw626j015qOhaRFEOJ2qllEOl0TAjoZy/view",
+      "filename": "zhangjiajie-pillar-mountains-sunrise-parisian-cafe-reverie-composite-20260307-177.png",
+      "generated_at": "2026-03-07T10:15:00Z",
+      "execution": 177
     },
     {
-      "id": 442,
-      "title": "Zhangjiajie Pillar Mountains Morning Mist China",
-      "prompt": "A breathtaking aerial view of Zhangjiajie's iconic sandstone pillar mountains rising dramatically through a thick morning mist in Hunan, China. Hundreds of towering vertical pillars covered in lush green forest emerge from a sea of white clouds, with golden sunlight breaking through from the east, casting long shadows and illuminating the mist in warm amber tones. Ancient wooden walkways cling to the cliff faces in the distance, and a traditional Chinese pavilion perches on one of the highest peaks.",
-      "image_url": "https://i.ibb.co/jPLcLPJf/zhangjiajie-pillar-mountains-morning-mist-china.jpg",
-      "timestamp": "2026-03-07T15:12:23Z"
-    }
-  ],
-  "poses": [
-    {
-      "id": 175,
-      "title": "Cherry Blossom Garden Parasol Grace",
-      "prompt": "A young Korean female model with long blonde hair standing gracefully in a blooming cherry blossom garden, holding a delicate white lace parasol over one shoulder, head gently tilted with a soft elegant smile, wearing a flowing pastel pink midi dress with subtle floral embroidery, soft natural golden-hour light filtering through falling cherry blossom petals",
-      "style": "Editorial fashion photography, golden-hour warmth, film-like, ultra-realistic, 4K",
-      "image_url": "https://i.ibb.co/7dcKHTmF/cherry-blossom-garden-parasol-grace-20260307.png",
-      "imgbb_viewer": "https://ibb.co/G4wRX1Sj",
-      "timestamp": "2026-03-07T17:15:00+08:00",
-      "execution": 175
+      "id": 184,
+      "type": "composite",
+      "title": "Iceland Volcanic Black Sand Beach Aurora – Parisian Reverie",
+      "scenery": "Iceland Volcanic Black Sand Beach Aurora",
+      "pose": "Parisian Cafe Terrace Reverie",
+      "prompt": "A young solo female model with long blonde hair and Korean facial features is seated elegantly on a smooth volcanic rock on Iceland's dramatic black sand beach at night. She sits sideways, one leg crossed, leaning back gracefully, one hand resting near her, the other lightly touching her flowing blonde hair as she gazes dreamily at the spectacular aurora borealis painting the sky above in vivid greens and purples. She wears a navy and white Breton stripe top, high-waisted wide-leg cream trousers, a red silk neck scarf, and nude ballet flats. Jagged basalt sea stacks loom in the background as waves crash against the shore. The aurora reflects softly on the wet black sand around her. Cinematic editorial photography, wide-angle lens, natural aurora lighting, dreamlike atmosphere.",
+      "image_url": "https://i.ibb.co/VJ6Qqhq/Iceland-Volcanic-Black-Sand-Beach-Aurora-Parisian-Reverie-composite-20260307-184.png",
+      "google_drive_url": "https://drive.google.com/file/d/1OYXguIdjj4ihiSth8x_i7tqpc7NKDmYx/view",
+      "filename": "iceland-volcanic-black-sand-beach-aurora-parisian-reverie-composite-20260307-184.png",
+      "generated_at": "2026-03-07T14:15:00Z",
+      "execution": 184
     },
     {
-      "id": 180,
-      "title": "Rooftop Sunset Silhouette Windswept Hair",
-      "date": "2026-03-07",
-      "imageUrl": "https://i.ibb.co/fzmR39QQ/11e1e9b689f5.png",
-      "category": "photo-pose",
-      "description": "A young female model with long blonde hair and Korean appearance, standing on a rooftop terrace at golden hour, arms slightly outstretched, head tilted back with eyes closed in bliss, hair dramatically windswept by the breeze, silhouetted and warmly lit against a vivid orange-pink sunset sky, with a beautiful city skyline visible in the background."
-    }
-  ],
-  "scenery": [
-    {
-      "id": 438,
-      "title": "Faroe Islands Sea Cliffs Atlantic Storm",
-      "prompt": "Dramatic aerial view of the Faroe Islands' towering sea cliffs during a powerful Atlantic storm, massive waves crashing against ancient black basalt rock faces, storm clouds swirling overhead with rays of light breaking through, lush green clifftop grass bending in fierce winds, turbulent dark ocean waters, cinematic wide angle, hyperrealistic photography",
-      "image_url": "https://i.ibb.co/PvN65G41/faroe-islands-sea-cliffs-atlantic-storm.jpg",
-      "timestamp": "2026-03-07T11:02:14Z",
-      "category": "scenery"
-    },
-    {
-      "id": 439,
-      "title": "Namib Desert Sunset Dunes Namibia",
-      "prompt": "Majestic sunset over the towering red-orange sand dunes of the Namib Desert, Namibia, dramatic shadows cast across rippled sand patterns, deep orange, gold, and purple hues, isolated dead trees in Deadvlei clay pan, endless dune waves stretching to the horizon, warm golden-light, ultra-sharp landscape photography",
-      "image_url": "https://i.ibb.co/Vg4pVhgA/namib-desert-sunset-dunes-namibia.jpg",
-      "timestamp": "2026-03-07T12:02:14Z",
-      "category": "scenery"
-    },
-    {
-      "id": 440,
-      "title": "Jasper Athabasca Glacier Mountain Lake Canada",
-      "prompt": "Breathtaking view of Athabasca Glacier and turquoise glacial lake in Jasper National Park, Canada, majestic snow-capped Rocky Mountain peaks, crystal clear glacial meltwater, dense evergreen forests surrounding the lake shore, dramatic scale of glacier cascading down mountain face, cool mountain light, photorealistic, high-detail landscape photography",
-      "image_url": "https://i.ibb.co/dhKRptZx/jasper-athabasca-glacier-mountain-lake-canada.jpg",
-      "timestamp": "2026-03-07T13:02:14Z",
-      "category": "scenery"
+      "id": 185,
+      "type": "composite",
+      "title": "Iceland Volcanic Black Sand Beach Aurora – Parisian Cafe Reverie",
+      "scenery": "Iceland Volcanic Black Sand Beach Aurora",
+      "pose": "Parisian Cafe Terrace Reverie",
+      "prompt": "A young solo female model with long blonde hair and Korean facial features is seated elegantly on a smooth volcanic rock on Iceland's dramatic black sand beach at night. She sits sideways, one leg crossed, leaning back gracefully, one hand resting near her, the other lightly touching her flowing blonde hair as she gazes dreamily at the spectacular aurora borealis painting the sky above in vivid greens and purples. She wears a navy and white Breton stripe top, high-waisted wide-leg cream trousers, a red silk neck scarf, and nude ballet flats. Jagged basalt sea stacks loom in the background as waves crash against the shore. The aurora reflects softly on the wet black sand around her. Cinematic editorial photography, wide-angle lens, natural aurora lighting, dreamlike atmosphere.",
+      "image_url": "https://i.ibb.co/9m038CMK/iceland-volcanic-black-sand-beach-aurora-parisian-cafe-reverie-composite-20260307-185.png",
+      "google_drive_url": "https://drive.google.com/file/d/1oTmnsqVJ8ZN5lO28tXlMTLJzKhI6hA4h/view",
+      "filename": "iceland-volcanic-black-sand-beach-aurora-parisian-cafe-reverie-composite-20260307-185.png",
+      "generated_at": "2026-03-07T15:22:00Z",
+      "execution": 185
     }
   ]
 }
