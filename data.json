@@ -1,147 +1,118 @@
-{
-  "composites": [
-    {
-      "title": "Lakeside Reverie at Plitvice in Autumn",
-      "prompt": "A young solo female model with long blonde hair and Korean facial features is seated sideways on a rustic wooden chair at the edge of one of Plitvice Lakes iconic wooden walkways, Croatia, during peak autumn. One leg is elegantly crossed, she leans back with one hand resting near a small espresso cup placed on the weathered railing, the other hand lightly touching her hair, her gaze drifting dreamily toward the cascading turquoise waterfalls beyond. She wears a navy and white Breton stripe top, high-waisted wide-leg cream trousers, a red silk neck scarf, and nude ballet flats. Ultra-detailed, photorealistic, cinematic editorial style.",
-      "image_url": "https://i.ibb.co/Sw0wTnGb/plitvice-lakes-parisian-reverie-composite-20260307-172.png",
-      "drive_url": "https://drive.google.com/file/d/18fPH6k_e6Xzum0fNfyTtKycJJ280mOAt/view",
-      "date": "2026-03-07T02:00:47Z",
-      "category": "Composite",
-      "scenery": "Plitvice Lakes Autumn Peak, Croatia",
-      "pose": "Parisian Cafe Terrace Reverie",
-      "filename": "images/plitvice-lakes-parisian-reverie-composite-20260307-172.png"
-    },
-    {
-      "title": "Cherry Blossom Parisian Reverie",
-      "prompt": "Photorealistic editorial fashion photograph. A young woman with long blonde hair and Korean facial features is seated sideways on a delicate white bistro chair beneath a breathtaking tunnel of cherry blossom trees in full bloom, Japan. Ultra-detailed, photorealistic, cinematic Vogue editorial style, 16:9 aspect ratio.",
-      "image_url": "https://i.ibb.co/BYvNg1P/cherry-blossom-parisian-reverie-composite-20260307-173.png",
-      "drive_url": "https://drive.google.com/file/d/1Ahu6YRQBa3eoSgYEq_MZnLvWok7qaway/view",
-      "date": "2026-03-07T03:15:00Z",
-      "category": "Composite",
-      "scenery": "Cherry Blossom Tunnel, Japan",
-      "pose": "Parisian Cafe Terrace Reverie",
-      "filename": "images/cherry-blossom-parisian-reverie composite-20260307-173.png"
-    },
-    {
-      "id": 434,
-      "title": "Salar de Uyuni Sunrise Bolivia",
-      "prompt": "Aerial view of Salar de Uyuni salt flat at sunrise in Bolivia, perfect mirror reflection of dramatic pink and orange sky, endless white crystalline salt crust stretching to the horizon, small cactus islands emerging from the reflective surface, golden light rays breaking through clouds, ultra-wide landscape photography, photorealistic, 8K",
-      "imgbb_url": "https://i.ibb.co/bj4yZmnG/salar-de-uyuni-sunrise-bolivia.jpg",
-      "viewer_url": "https://ibb.co/Q7WqRQGx",
-      "timestamp": "2026-03-07T15:30:00+08:00",
-      "execution": 434,
-      "type": "scenery"
-    },
-    {
-      "id": 435,
-      "title": "Zhangjiajie Pillar Mountains Sunrise China",
-      "prompt": "Dramatic sunrise over the towering sandstone pillar formations of Zhangjiajie National Forest Park, China — ethereal mist weaving between the towering quartzite sandstone columns, golden first light illuminating the ancient pinnacles, dense subtropical forest valleys below, dramatic cloud formations, mystical Avatar-like landscape, ultra-sharp nature photography, cinematic wide angle, photorealistic, 8K",
-      "imgbb_url": "https://i.ibb.co/7DQvjrk/zhangjiajie-pillar-mountains-sunrise-china.jpg",
-      "viewer_url": "https://ibb.co/8GtVh9d",
-      "timestamp": "2026-03-07T16:30:00+08:00",
-      "execution": 435,
-      "type": "scenery"
-    },
-    {
-      "id": 436,
-      "title": "Antelope Canyon Slot Canyon Arizona",
-      "prompt": "Intimate view inside Antelope Canyon's narrow sandstone slot canyon in Arizona, dramatic light beams piercing through the narrow opening above, illuminating the flowing curves and layers of red, orange, and purple sandstone walls, smooth wave-like eroded patterns created by centuries of flash floods, rich warm tones, ultra-detailed, photorealistic, national geographic style, 8K",
-      "imgbb_url": "https://i.ibb.co/kFsP7W4/antelope-canyon-slot-canyon-arizona.jpg",
-      "viewer_url": "https://ibb.co/Lh6634z",
-      "timestamp": "2026-03-07T17:30:00+08:00",
-      "execution": 436,
-      "type": "scenery"
-    },
-    {
-      "id": 437,
-      "title": "Aurora Borealis Icelandic Black Sand Beach",
-      "prompt": "Spectacular view of the Northern Lights (Aurora Borealis) dancing above a dramatic black sand beach in southern Iceland, emerald green and vibrant purple aurora curtains waving across the starry night sky, jagged basalt sea stacks rising from the dark volcanic shore, frothy white waves crashing against the rocks, distant glaciers glowing under the celestial light show, ultra-wide landscape, long exposure, photorealistic, atro-photography style, 8K",
-      "imgbb_url": "https://i.ibb.co/hJd9k8v/aurora-borealis-icelandic-black-sand-beach.jpg",
-      "viewer_url": "https://ibb.co/bbqb4vP",
-      "timestamp": "2026-03-07T18:30:00+08:00",
-      "execution": 437,
-      "type": "scenery"
-    },
-    {
-      "id": 438,
-      "title": "Lofoten Islands Viking Village Norway",
-      "prompt": "Panoramic view of the Lofoten Islands in northern Norway, traditional red rorbuer (fishermen's cabins) clustered along the crystal-clear turquoise fjord waters, dramatic jagged peaks rising directly from the sea, snow-capped mountain backdrop against stormy sky with dramatic cloud formations, lush green summer meadows, wooden dhinghy boats moored along the shore, cinematic landscape photography, photorealistic, 8K",
-      "imgbb_url": "https://i.ibb.co/JR1GyqN/lofoten-islands-viking-village-norway.jpg",
-      "viewer_url": "https://ibb.co/23Q5dFN",
-      "timestamp": "2026-03-07T19:30:00+08:00",
-      "execution": 438,
-      "type": "scenery"
-    },
-    {
-      "id": 439,
-      "title": "White Sands New Mexico Gypsum Dunes",
-      "prompt": "Aerial view of White Sands National Park in New Mexico, endless wanes of pure white gypsum sand dunes under dramatic golden hour light, deep blue shadows contrasting with sunlit peaks, rippling wave-like patterns stretching to the horizon, distant San Andreas Mountains, clear blue sky, minimalist composition, photorealistic, national geographic style, 8K",
-      "imgbb_url": "https://i.ibb.co/4j2hwMW/white-sands-new-mexico-gypsum-dunes.jpg",
-      "viewer_url": "https://ibb.co/14Lw98g",
-      "timestamp": "2026-03-07T20:30:00+08:00",
-      "execution": 439,
-      "type": "scenery"
-    },
-    {
-      "id": 440,
-      "title": "Mount Fitzroy Patagonia Argentina",
-      "prompt": "Majestic view of Mount Fitzroy (Cerro Chaltén) in Patagonia, Argentina — the iconic granite spire illuminated by dramatic dawn light, fiery orange and gold alpenglow on the sharp peak, dark surrounding mountains still in shadow, lago de los Tres in the foreground with crystal reflections, dramatic storm clouds clearing, ultra-sharp, photorealistic mountaineering photography, 8K",
-      "imgbb_url": "https://i.ibb.co/7W5YGJv/mount-fitzroy-patagonia-argentina.jpg",
-      "viewer_url": "https://ibb.co/cMcnBpy/",
-      "timestamp": "2026-03-07T21:30:00+08:00",
-      "execution": 440,
-      "type": "scenery"
-    },
-    {
-      "id": 441,
-      "title": "Amazon Rainforest Canopy Waterfall Brazil",
-      "prompt": "Dramatic view of a hidden waterfall cascading through the dense Amazon rainforest canopy in Brazil, crystal-clear turquoise water plunging into a misty pool, towering emerald green trees covered in moss and epiphytes, shafts of golden sunlight filtering through the dense canopy, vibrant tropical vegetation, mist rising from the falls, national geographic style, ultra-detailed, photorealistic, 8K",
-      "imgbb_url": "https://i.ibb.co/p1Jvvnj/amazon-rainforest-canopy-waterfall-brazil.jpg",
-      "viewer_url": "https://ibb.co/n7PdfDX",
-      "timestamp": "2026-03-07T22:30:00+08:00",
-      "execution": 441,
-      "type": "scenery"
-    },
-    {
-      "id": 442,
-      "title": "Navajo Monument Valley Spires Utah",
-      "prompt": "Iconic view of Monument Valley Navajo Tribal Park on the Arizona-Utah border at sunset, towering red sandstone buttes and mesas silhouetted against a dramatic orange and purple sky, dusty desert floor stretching to the horizon, the famous Mitten Buttes rising dramatically, long shadows, golden hour light, ultra-wide landscape, western cinematic style, photorealistic, 8K",
-      "imgbb_url": "https://i.ibb.co/5cCmqFK/navajo-monument-valley-spires-utah.jpg",
-      "viewer_url": "https://ibb.co/YPHqjdL",
-      "timestamp": "2026-03-07T23:30:00+08:00",
-      "execution": 442,
-      "type": "scenery"
-    },
-    {
-      "id": 443,
-      "title": "Patagonia Torres del Paine Granite Spires Dawn",
-      "prompt": "Majestic view of the towering granite spires of Torres del Paine in Patagonia, Chile, at dramatic dawn — fiery orange and gold alpenglow illuminating the jagged three towers, turquoise glacial lake in the foreground reflecting the peaks, scattered lenga beech trees, dramatic cloud formations clearing, ultra-sharp, national geographic style, cinematic landscape photography, photorealistic, 8K",
-      "image_url": "https://i.ibb.co/GH31P2B/patagonia-torres-del-paine-granite-spires-dawn.jpg",
-      "local_path": "images/patagonia-torres-del-paine-granite-spires-dawn.jpeg",
-      "timestamp": "2026-03-08T00:16:00+08:00",
-      "execution": 443,
-      "type": "scenery"
-    },
-    {
-      "id": 444,
-      "title": "Faroe Islands Sea Stacks Dramatic Cliffs Sunset",
-      "prompt": "Dramatic aerial view of the Faroe Islands' towering sea stacks rising from the North Atlantic Ocean at golden sunset, sheer basalt cliffs plunging into churning turquoise waters, layers of orange and crimson light painting the sky, lush green clifftops with wildflowers swaying in the wind, distant islands shrouded in mist, cinematic wide-angle composition, ultra-realistic landscape photography",
-      "image_url": "https://i.ibb.co/BKv6zsXR/faroe-islands-sea-stacks-dramatic-cliffs-sunset.jpg",
-      "local_path": "images/faroe-islands-sea-stacks-dramatic-cliffs-sunset.jpeg",
-      "timestamp": "2026-03-08T01:16:00+08:00"
-    }
-  ],
-  "poses": [
-    {
-      "id": 185,
-      "title": "Rooftop Sunset Silhouette Arms Outstretched",
-      "date": "2026-03-08",
-      "imageUrl": "https://i.ibb.co/hxD7VZ75/rooftop-sunset-silhouette-arms-outstretched-20260308.png",
-      "description": "A young blonde Korean female model standing on a rooftop terrace at golden hour, arms spread wide in a triumphant/free pose against a warm orange-pink sunset sky with city skyline in the background. Flowy dress catching the breeze. Professional fashion photography style.",
-      "pose": "Arms Outstretched",
-      "location": "Rooftop Terrace",
-      "lighting": "Golden Hour Sunset",
-      "style": "Fashion Editorial"
-    }
-  ]
-}
+[
+  {
+    "title": "Neon Alley Hip Tilt Smirk",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands in a rain-slicked urban alley at night, bathed in vivid neon pink and blue light from surrounding signs. She leans confidently against a brick wall in a 3/4 angle from slightly below eye level, one hand resting on her hip, the other hand lightly touching her hair near her temple. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish. The neon reflections pool on the wet ground beneath her. Shot on a 50mm lens, vogue-style editorial lighting, deep shadows with saturated color pops.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/neon-alley-hip-tilt-smirk-20260304.png",
+    "date": "2026-03-04T02:16:00",
+    "category": "Pose"
+  },
+  {
+    "title": "Waitomo Glowworm Caves at Midnight — New Zealand",
+    "prompt": "A breathtaking underground cave system in Waitomo, New Zealand, photographed at midnight. The cave ceiling is blanketed with thousands of tiny bioluminescent glowworms (Arachnocampa luminosa), casting an ethereal, deep blue-cyan glow across the still dark water below, creating a perfect mirror reflection of the starlike ceiling. Ancient limestone formations — stalactites and flowstones — are softly lit in cool blue and teal tones. A small wooden boat drifts silently through the subterranean river, adding scale to the immense cavern. The atmosphere is magical, otherworldly, and serene. Ultra-detailed, photorealistic, long-exposure photography aesthetic, deep blacks, glowing cyan bioluminescence, perfectly still reflective water.",
+    "image": "images/waitomo-glowworm-caves-at-midnight-new-zealand.png",
+    "timestamp": "2026-03-05T02:09:00+08:00",
+    "category": "Scenery"
+  },
+  {
+    "title": "Antelope Canyon Light Beams at Noon — Arizona",
+    "filename": "antelope-canyon-light-beams-at-noon-arizona.png",
+    "prompt": "A breathtaking photorealistic wide-angle shot deep inside Upper Antelope Canyon, Arizona. Razor-thin shafts of golden noon sunlight pierce through narrow sandstone slot canyon walls, illuminating swirling dust particles in dramatic beams. The undulating, wave-like orange and crimson sandstone walls glow with rich warm hues. The canyon floor is bathed in soft ambient light. 16:9 cinematic format, ultra-high detail, 2K resolution.",
+    "timestamp": "2026-03-04T19:04:12Z",
+    "location": "Arizona, USA",
+    "category": "Scenery"
+  },
+  {
+    "title": "Antelope Canyon Light Beams Hip Tilt Smirk",
+    "prompt": "A young solo female model with long blonde hair and Korean facial features stands confidently inside the breathtaking Upper Antelope Canyon, Arizona, at noon. She leans with casual authority against the undulating, wave-carved sandstone wall in a 3/4 angle shot from slightly below eye level — one hand resting on her hip, the other hand lightly touching her hair near her temple. Dramatic, razor-thin shafts of golden noon sunlight pierce through the narrow slot canyon walls above, illuminating the wave-like layered orange and crimson sandstone textures around her, and swirling dust particles in dramatic beams. She wears a sleek black high-fashion ensemble. Her expression is a cool, confident smirk — commanding and effortlessly stylish, adapted to the magical light and dramatic natural composition. Shot on a 50mm lens, vogue-style editorial lighting, warm golden-hour light against deep shadows, rich-orange-red earth tones, ultra-high-detail photorealistic 2K resolution. Wide-angle cinematic format captures the magnitude of the canyon walls towering around her.",
+    "image_url": "https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/antelope-canyon-light-beams-hip-tilt-smirk-20260304.png",
+    "date": "2026-03-04T19:29:00",
+    "category": "Pose"
+  },
+  {
+    "id": 125,
+    "pose": "Lakeside Dock Sit Feet Dangle Golden Hour",
+    "date": "2026-03-05",
+    "time": "11:01 CST",
+    "image": "images/lakeside-dock-sit-feet-dangle-golden-hour-20260305.png",
+    "scene": "Wooden dock extending over calm lake, sitting at edge feet dangling above water, golden-hour sunset glow, warm light on wood and water, casual contemplative peace",
+    "model": "blonde hair, Korean appearance",
+    "execution": 125
+  },
+  {
+    "id": 126,
+    "pose": "Rainy Window Sit Chin Rest Pensive",
+    "date": "2026-03-05",
+    "time": "12:00 CST",
+    "image": "images/rainy-window-sit-chin-rest-pensive-20260305.png",
+    "scene": "Rain-streaked window overlooking city, sitting on windowsill chin resting on knee, cozy oversized knit sweater, soft grey light, melancholic introspection",
+    "model": "blonde hair, Korean appearance",
+    "execution": 126
+  },
+  {
+    "id": 127,
+    "pose": "Rainy Window Kneel Hands Face Serene",
+    "date": "2026-03-05",
+    "time": "13:00 CST",
+    "image": "images/rainy-window-kneel-hands-face-serene-20260305.png",
+    "scene": "Rain-streaked window, kneeling on cushion, hands framing face, looking through glass, soft oversized cream sweater, grey diffuse light, serene wonder",
+    "model": "blonde hair, Korean appearance",
+    "execution": 127
+  },
+  {
+    "id": 128,
+    "pose": "Rooftop Edge Stand Arms Open Sunrise",
+    "date": "2026-03-05",
+    "time": "14:01 CST",
+    "image": "images/rooftop-edge-stand-arms-open-sunrise-20260305.png",
+    "scene": "Urban rooftop edge at sunrise, standing arms outstretched, backlit by golden-pink sky and city silhouette, wind-blown hair, flowing long coat, moment of freedom and power",
+    "model": "blonde hair, Korean appearance",
+    "execution": 128
+  },
+  {
+    "id": 129,
+    "pose": "Cherry Blossom Path Twirl Soft Laugh",
+    "date": "2026-03-05",
+    "time": "14:59 CST",
+    "image": "images/cherry-blossom-path-twirl-soft-laugh-20260305.png",
+    "scene": "Cherry blossom-lined path in full bloom, twirling arms out in white flowing dress, blossoms drifting in air, soft diffuse spring light, gentle laughter, pure joy and lightness",
+    "model": "blonde hair, Korean appearance",
+    "execution": 129
+  },
+  {
+    "id": 130,
+    "pose": "Neon Alley Lean Back Chin Up",
+    "date": "2026-03-05",
+    "time": "9:00 CST",
+    "image": "images/neon-alley-lean-back-chin-up-20260305.png",
+    "scene": "Neon-lit urban alley at night, leaning back against brick wall, chin tilted up to sky, cyan/magenta reflections, wet pavement, edgy, defiant, leather jacket, unapologetic confidence",
+    "model": "blonde hair, Korean appearance",
+    "execution": 130
+  },
+  {
+    "id": 131,
+    "pose": "Sunlit Cafe Window Sit Cross-Legged Book Hold",
+    "date": "2026-03-05",
+    "time": "6:02 CST",
+    "image": "images/sunlit-cafe-window-sit-cross-legged-book-hold-20260305.png",
+    "scene": "Warm sunlit cafe, seated cross-legged on window bench, holding open book, oversized knit sweater, golden-hour light, cozy intellectual mood",
+    "model": "blonde hair, Korean appearance",
+    "execution": 131
+  },
+  {
+    "id": 132,
+    "pose": "Sunlit Cafe Window Sit Cross-Legged Book Hold",
+    "date": "2026-03-05",
+    "time": "15:01 CST",
+    "image": "images/sunlit-cafe-window-sit-cross-legged-book-hold-20260305.png",
+    "scene": "Warm sunlit cafe, seated cross-legged on window bench, holding open book, oversized knit sweater, golden-hour light, cozy intellectual mood",
+    "model": "blonde hair, Korean appearance",
+    "execution": 132
+  },
+  {
+    "id": 446,
+    "title": "Namib Desert Red Sand Dunes Star Trails Night",
+    "prompt": "A breathtaking night scene in the Namib Desert, Namibia, where towering crimson and rust-colored sand dunes rise dramatically against a vast ink-black sky alive with star trails — long-exposure arcs of light streaking across the heavens. The crests of the dunes glow with the faint cool light of a crescent moon, casting sharp blue-tinged shadows into the valleys below. Isolated dead camelthorn trees silhouette against the starscape in the middle distance. Photorealistic, ultra-wide angle, cinematic atmosphere, 8K.",
+    "url": "https://i.ibb.co/1G3pYgZF/namib-desert-red-sand-dunes-star-trails-night.jpg",
+    "timestamp": "2026-03-08T03:21:00+08:00"
+  }
+]
