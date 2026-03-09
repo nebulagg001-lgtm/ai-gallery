@@ -36,103 +36,56 @@
     .card img { width: 100%; aspect-ratio: 2/3; object-fit: cover; display: block; background: #111; }
     .card-info { padding: 12px 14px; }
     .card-title { font-size: 0.9rem; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-    .card-meta { margin-top: 6px; font-size: 0.8rem; color: var(--muted); display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
-    .tag { background: rgba(233, 69, 96, 0.15); border: 1px solid rgba(233, 69, 96, 0.3); padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; color: #e94560; white-space: nowrap; }
-    .tag.scenery { background: rgba(56, 189, 248, 0.12); border-color: rgba(56, 189, 248, 0.3); color: #38bdf8; }
-    .tag.pose { background: rgba(168, 85, 247, 0.12); border-color: rgba(168, 85, 247, 0.3); color: #a855f7; }
-    .tag.composite { background: rgba(233, 69, 96, 0.12); border-color: rgba(233, 69, 96, 0.3); color: #e94560; }
-
-    /* Modal */
-    .modal { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.92); z-index: 999; padding: 20px; align-items: center; justify-content: center; }
-    .modal.open { display: flex; }
-    .modal-content { max-width: 960px; width: 100%; max-height: 92vh; overflow-y: auto; background: var(--surface); border-radius: var(--radius); position: relative; display: flex; flex-direction: column; }
-    .modal-close { position: absolute; top: 14px; right: 16px; background: rgba(0,0,0,0.4); border: none; color: var(--muted); font-size: 1.6rem; cursor: pointer; transition: color 0.2s; z-index: 10; width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; line-height: 1; }
-    .modal-close:hover { color: #fff; background: rgba(233,69,96,0.5); }
-    .modal-img-wrap { width: 100%; position: relative; background: #111; border-radius: var(--radius) var(--radius) 0 0; overflow: hidden; }
-    .modal-img { width: 100%; max-height: 60vh; object-fit: contain; display: block; }
-    .modal-body { padding: 24px 28px; }
-    .modal-title { font-size: 1.4rem; font-weight: 700; margin-bottom: 6px; }
-    .modal-date { color: var(--muted); font-size: 0.85rem; margin-bottom: 14px; }
-    .modal-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 16px; }
-    .modal-prompt-label { font-size: 0.75rem; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 8px; }
-    .modal-prompt-wrap { position: relative; margin-bottom: 20px; }
-    .modal-prompt { background: var(--card); padding: 16px 16px 16px 16px; border-radius: 8px; font-size: 0.875rem; line-height: 1.65; color: #ccc; border: 1px solid #2a2a4a; }
-    .copy-btn { position: absolute; top: 10px; right: 10px; background: var(--accent2); border: 1px solid #1e3a5a; color: var(--text); font-size: 0.78rem; font-weight: 600; padding: 5px 12px; border-radius: 6px; cursor: pointer; transition: all 0.2s; display: flex; align-items: center; gap: 5px; }
-    .copy-btn:hover { background: var(--accent); border-color: var(--accent); }
-    .copy-btn.copied { background: #16a34a; border-color: #16a34a; }
-    .modal-actions { display: flex; gap: 12px; flex-wrap: wrap; }
-    .btn { padding: 10px 22px; border-radius: 50px; border: none; cursor: pointer; font-size: 0.9rem; font-weight: 600; transition: all 0.2s; text-decoration: none; display: inline-flex; align-items: center; gap: 6px; }
-    .btn-primary { background: var(--accent); color: #fff; }
-    .btn-primary:hover { background: #d13d55; }
-    .btn-secondary { background: var(--surface); border: 1px solid #2a2a4a; color: var(--text); }
-    .btn-secondary:hover { border-color: var(--accent); }
-
-    .empty { text-align: center; padding: 60px 20px; color: var(--muted); }
-    .empty svg { width: 64px; height: 64px; opacity: 0.4; margin-bottom: 16px; }
-    .error-banner { max-width: 1200px; margin: 20px auto; padding: 16px 20px; background: rgba(233,69,96,0.1); border: 1px solid rgba(233,69,96,0.3); border-radius: var(--radius); color: #e94560; font-size: 0.9rem; display: none; }
-    @media (max-width: 600px) {
-      .grid { grid-template-columns: 1fr; }
-      .controls { flex-direction: column; }
-      .search-wrap { width: 100%; }
-      .modal-content { max-height: 95vh; }
-      .modal-img { max-height: 45vh; }
-      .modal-body { padding: 16px 18px; }
-    }
+    .card-meta { margin-top: 6px; font-size: 0.8rem; color: var(--muted); display: flex; justify-content: space-between; align-items: center; }
+    .card-badge { display: inline-block; padding: 3px 10px; background: var(--accent2); border-radius: 12px; font-size: 0.75rem; font-weight: 600; }
+    .modal { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.85); backdrop-filter: blur(8px); z-index: 999; align-items: center; justify-content: center; padding: 20px; animation: fadeIn 0.2s; }
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    .modal.show { display: flex; }
+    .modal-content { background: var(--surface); border-radius: var(--radius); max-width: 900px; width: 100%; max-height: 90vh; overflow-y: auto; position: relative; }
+    .modal-close { position: absolute; top: 16px; right: 16px; background: rgba(0,0,0,0.6); border: none; color: #fff; width: 36px; height: 36px; border-radius: 50%; cursor: pointer; font-size: 1.2rem; z-index: 10; transition: background 0.2s; }
+    .modal-close:hover { background: var(--accent); }
+    .modal-img { width: 100%; max-height: 60vh; object-fit: contain; background: #000; border-radius: var(--radius) var(--radius) 0 0; }
+    .modal-body { padding: 24px; }
+    .modal-title { font-size: 1.5rem; font-weight: 700; margin-bottom: 12px; }
+    .modal-meta { display: flex; gap: 12px; margin-bottom: 16px; font-size: 0.85rem; color: var(--muted); }
+    .modal-prompt { line-height: 1.6; color: var(--text); background: var(--card); padding: 16px; border-radius: 8px; border-left: 3px solid var(--accent); }
+    .empty { text-align: center; padding: 80px 20px; color: var(--muted); }
+    .empty svg { width: 64px; height: 64px; margin-bottom: 16px; opacity: 0.3; }
   </style>
 </head>
 <body>
   <header>
     <h1>Nebulalicious's Dream</h1>
-    <p>A curated collection of AI-generated art</p>
+    <p>A curated gallery of AI-generated artistry</p>
   </header>
 
   <div class="controls">
     <div class="search-wrap">
-      <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="9" r="7"/><path d="m14 14 5 5"/></svg>
-      <input type="text" id="search" placeholder="Search by title, prompt, or tags..." />
+      <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="7"/><path d="m15 15 5 5"/></svg>
+      <input type="text" id="searchInput" placeholder="Search titles or prompts..." />
     </div>
     <div class="filters">
-      <button class="filter-btn active" data-filter="all">All</button>
-      <button class="filter-btn" data-filter="scenery">Scenery</button>
-      <button class="filter-btn" data-filter="pose">Pose</button>
-      <button class="filter-btn" data-filter="composite">Composite</button>
+      <button class="filter-btn active" data-filter="All">All</button>
+      <button class="filter-btn" data-filter="Scenery">Scenery</button>
+      <button class="filter-btn" data-filter="Pose">Pose</button>
+      <button class="filter-btn" data-filter="Composite">Composite</button>
     </div>
   </div>
 
-  <div class="error-banner" id="error-banner"></div>
   <div class="stats" id="stats">Loading...</div>
   <div class="grid" id="gallery"></div>
-  <div class="empty" id="empty" style="display:none;">
-    <svg fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 15.75l5.159-5.159a2.25 2.25 0 013.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 013.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 001.5-1.5V6a1.5 1.5 0 00-1.5-1.5H3.75A1.5 1.5 0 002.25 6v12a1.5 1.5 0 001.5 1.5zm10.5-11.25h.008v.008h-.008V8.25zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0z"/></svg>
-    <p>No images found matching your search</p>
-  </div>
 
-  <!-- Modal -->
   <div class="modal" id="modal">
     <div class="modal-content">
-      <button class="modal-close" onclick="closeModal()" title="Close">&times;</button>
-      <div class="modal-img-wrap">
-        <img id="modal-img" class="modal-img" alt="" />
-      </div>
+      <button class="modal-close" onclick="closeModal()">&times;</button>
+      <img id="modalImg" class="modal-img" src="" alt="" />
       <div class="modal-body">
-        <h2 id="modal-title" class="modal-title"></h2>
-        <p id="modal-date" class="modal-date"></p>
-        <div id="modal-tags" class="modal-tags"></div>
-        <div class="modal-prompt-label">Prompt</div>
-        <div class="modal-prompt-wrap">
-          <div id="modal-prompt" class="modal-prompt"></div>
-          <button class="copy-btn" id="copy-btn" onclick="copyPrompt()">
-            <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
-            Copy Prompt
-          </button>
+        <h2 class="modal-title" id="modalTitle"></h2>
+        <div class="modal-meta">
+          <span id="modalCategory"></span>
+          <span id="modalDate"></span>
         </div>
-        <div class="modal-actions">
-          <a id="modal-download" class="btn btn-primary" download>
-            <svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-            Download
-          </a>
-          <button class="btn btn-secondary" onclick="closeModal()">Close</button>
-        </div>
+        <p class="modal-prompt" id="modalPrompt"></p>
       </div>
     </div>
   </div>
@@ -140,191 +93,104 @@
   <script>
     let allImages = [];
     let filteredImages = [];
-    let currentFilter = 'all';
-    let searchQuery = '';
-    let currentModalIdx = 0;
-
-    // Normalize a single entry to a consistent schema
-    function normalize(img) {
-      return {
-        id: img.id || null,
-        title: img.title || 'Untitled',
-        type: (img.type || img.category || 'scenery').toLowerCase(),
-        prompt: img.prompt || '',
-        url: img.url || img.image_url || img.imageUrl ||
-             (img.image ? 'https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/' + img.image : null) ||
-             (img.filename ? 'https://raw.githubusercontent.com/nebulagg001-lgtm/ai-gallery/main/images/' + img.filename : ''),
-        date: formatDate(img.date || img.timestamp || img.generatedAt || ''),
-        tags: Array.isArray(img.tags) ? img.tags : [img.type || img.category || 'art'].filter(Boolean)
-      };
-    }
-
-    function formatDate(raw) {
-      if (!raw) return '';
-      try {
-        const d = new Date(raw);
-        if (isNaN(d.getTime())) return raw;
-        return d.toISOString().slice(0, 10);
-      } catch { return raw; }
-    }
-
-    function formatDateDisplay(raw) {
-      if (!raw) return '';
-      try {
-        const d = new Date(raw + 'T00:00:00');
-        return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
-      } catch { return raw; }
-    }
 
     async function loadGallery() {
       try {
-        const response = await fetch('data.json');
-        const raw = await response.text();
-        let parsed;
-        try {
-          parsed = JSON.parse(raw);
-        } catch {
-          // Fallback: try base64 decode
-          try {
-            const decoded = atob(raw.trim());
-            parsed = JSON.parse(decoded);
-          } catch {
-            throw new Error('Could not parse data.json as JSON or base64-encoded JSON');
-          }
-        }
-        allImages = (Array.isArray(parsed) ? parsed : [parsed]).map(normalize);
-        // Sort newest first
-        allImages.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
-        applyFilters();
-      } catch (error) {
-        console.error('Error loading gallery:', error);
-        document.getElementById('stats').textContent = 'Error loading images';
-        const banner = document.getElementById('error-banner');
-        banner.style.display = 'block';
-        banner.textContent = 'Failed to load gallery data: ' + error.message;
+        const res = await fetch('data.json');
+        allImages = await res.json();
+        allImages.sort((a, b) => new Date(b.date) - new Date(a.date));
+        filteredImages = allImages;
+        renderGallery();
+      } catch (err) {
+        document.getElementById('gallery').innerHTML = `
+          <div class="empty">
+            <svg fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m2.25 15.75 5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5 1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 0 0 1.5-1.5V6a1.5 1.5 0 0 0-1.5-1.5H3.75A1.5 1.5 0 0 0 2.25 6v12a1.5 1.5 0 0 0 1.5 1.5Zm10.5-11.25h.008v.008h-.008V8.25Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z"/></svg>
+            <p>Failed to load gallery</p>
+          </div>
+        `;
       }
-    }
-
-    function applyFilters() {
-      filteredImages = allImages.filter(img => {
-        const matchesFilter = currentFilter === 'all' || img.type === currentFilter;
-        const q = searchQuery.toLowerCase();
-        const matchesSearch = q === '' ||
-          img.title.toLowerCase().includes(q) ||
-          img.prompt.toLowerCase().includes(q) ||
-          img.tags.some(tag => tag.toLowerCase().includes(q));
-        return matchesFilter && matchesSearch;
-      });
-      renderGallery();
     }
 
     function renderGallery() {
       const gallery = document.getElementById('gallery');
-      const empty = document.getElementById('empty');
       const stats = document.getElementById('stats');
-
+      
       if (filteredImages.length === 0) {
-        gallery.style.display = 'none';
-        empty.style.display = 'block';
-        stats.textContent = 'No images found';
+        gallery.innerHTML = `
+          <div class="empty">
+            <svg fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"/></svg>
+            <p>No images match your search</p>
+          </div>
+        `;
+        stats.textContent = 'No results';
         return;
       }
 
-      gallery.style.display = 'grid';
-      empty.style.display = 'none';
       stats.textContent = `Showing ${filteredImages.length} of ${allImages.length} images`;
-
-      gallery.innerHTML = filteredImages.map((img, idx) => `
-        <div class="card" onclick="openModal(${idx})">
-          <img src="${escHtml(img.url)}" alt="${escHtml(img.title)}" loading="lazy" onerror="this.style.opacity='0.3'" />
-          <div class="card-info">
-            <div class="card-title">${escHtml(img.title)}</div>
-            <div class="card-meta">
-              <span class="tag ${escHtml(img.type)}">${escHtml(img.type)}</span>
-              <span style="flex:1"></span>
-              <span>${escHtml(img.date)}</span>
+      
+      gallery.innerHTML = filteredImages.map((img, idx) => {
+        const date = new Date(img.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+        return `
+          <div class="card" onclick="openModal(${idx})">
+            <img src="${img.image_url}" alt="${img.title}" loading="lazy" />
+            <div class="card-info">
+              <div class="card-title">${img.title}</div>
+              <div class="card-meta">
+                <span class="card-badge">${img.category}</span>
+                <span>${date}</span>
+              </div>
             </div>
           </div>
-        </div>
-      `).join('');
+        `;
+      }).join('');
     }
 
     function openModal(idx) {
-      currentModalIdx = idx;
       const img = filteredImages[idx];
-      document.getElementById('modal-img').src = img.url;
-      document.getElementById('modal-img').alt = img.title;
-      document.getElementById('modal-title').textContent = img.title;
-      document.getElementById('modal-date').textContent = formatDateDisplay(img.date);
-      document.getElementById('modal-tags').innerHTML =
-        [img.type, ...img.tags.filter(t => t !== img.type)]
-          .map(tag => `<span class="tag ${escHtml(tag)}">${escHtml(tag)}</span>`)
-          .join('');
-      document.getElementById('modal-prompt').textContent = img.prompt;
-      document.getElementById('modal-download').href = img.url;
-      document.getElementById('modal-download').download = img.title.replace(/[^a-z0-9]/gi, '-') + '.png';
-      // Reset copy button
-      const copyBtn = document.getElementById('copy-btn');
-      copyBtn.classList.remove('copied');
-      copyBtn.innerHTML = '<svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg> Copy Prompt';
-      document.getElementById('modal').classList.add('open');
-      document.body.style.overflow = 'hidden';
+      document.getElementById('modalImg').src = img.image_url;
+      document.getElementById('modalTitle').textContent = img.title;
+      document.getElementById('modalCategory').innerHTML = `<span class="card-badge">${img.category}</span>`;
+      document.getElementById('modalDate').textContent = new Date(img.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+      document.getElementById('modalPrompt').textContent = img.prompt;
+      document.getElementById('modal').classList.add('show');
     }
 
     function closeModal() {
-      document.getElementById('modal').classList.remove('open');
-      document.body.style.overflow = 'auto';
+      document.getElementById('modal').classList.remove('show');
     }
 
-    function copyPrompt() {
-      const prompt = document.getElementById('modal-prompt').textContent;
-      navigator.clipboard.writeText(prompt).then(() => {
-        const btn = document.getElementById('copy-btn');
-        btn.classList.add('copied');
-        btn.innerHTML = '<svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg> Copied!';
-        setTimeout(() => {
-          btn.classList.remove('copied');
-          btn.innerHTML = '<svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg> Copy Prompt';
-        }, 2000);
-      }).catch(() => {
-        // Fallback for older browsers
-        const ta = document.createElement('textarea');
-        ta.value = prompt;
-        ta.style.position = 'fixed';
-        ta.style.opacity = '0';
-        document.body.appendChild(ta);
-        ta.select();
-        document.execCommand('copy');
-        document.body.removeChild(ta);
-      });
-    }
-
-    function escHtml(str) {
-      return String(str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-    }
-
-    // Event listeners
-    document.getElementById('search').addEventListener('input', e => {
-      searchQuery = e.target.value.toLowerCase();
-      applyFilters();
+    document.getElementById('modal').addEventListener('click', (e) => {
+      if (e.target.id === 'modal') closeModal();
     });
 
     document.querySelectorAll('.filter-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
-        currentFilter = btn.dataset.filter;
-        applyFilters();
+        const filter = btn.dataset.filter;
+        filteredImages = filter === 'All' ? allImages : allImages.filter(img => img.category === filter);
+        applySearch();
       });
     });
 
-    document.getElementById('modal').addEventListener('click', e => {
-      if (e.target.id === 'modal') closeModal();
-    });
+    document.getElementById('searchInput').addEventListener('input', applySearch);
 
-    document.addEventListener('keydown', e => {
-      if (e.key === 'Escape') closeModal();
-    });
+    function applySearch() {
+      const query = document.getElementById('searchInput').value.toLowerCase();
+      const activeFilter = document.querySelector('.filter-btn.active').dataset.filter;
+      let base = activeFilter === 'All' ? allImages : allImages.filter(img => img.category === activeFilter);
+      
+      if (query) {
+        filteredImages = base.filter(img => 
+          img.title.toLowerCase().includes(query) || 
+          img.prompt.toLowerCase().includes(query)
+        );
+      } else {
+        filteredImages = base;
+      }
+      
+      renderGallery();
+    }
 
     loadGallery();
   </script>
