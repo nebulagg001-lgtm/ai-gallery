@@ -35,115 +35,52 @@
     "category": "Scenery"
   },
   {
-    "title": "Namib Desert Star Dunes at Twilight",
-    "prompt": "A sweeping photorealistic landscape of the Namib Desert's towering star dunes at twilight, their sinuous ridgelines casting deep violet and amber shadows as the last light fades. The sky transitions from deep indigo overhead to a warm burnt-orange horizon, with the first stars of the night emerging through the haze. A lone oryx silhouette stands atop a dune crest, adding a sense of solitary grandeur to the vast, silent desert.",
-    "image_url": "https://i.ibb.co/ZpBFKL1Dw/namib-desert-star-dunes-twilight-20260308.png",
-    "date": "2026-03-08T20:18:17Z",
+    "title": "Antelope Canyon Crimson Light Beams, Arizona",
+    "prompt": "A mesmerizing photorealistic view deep within Antelope Canyon, where slot-like walls of swirling sandstone glow in shades of crimson, amber, and deep orange. Dramatic beams of midday sunlight pierce through narrow openings above, casting ethereal shafts of light that illuminate the smooth, undulating rock formations. The interplay of light and shadow creates an almost surreal, otherworldly atmosphere, emphasizing the canyon's natural sculptural beauty.",
+    "image_url": "https://i.ibb.co/N1yssHg/antelope-canyon-crimson-light-beams-arizona-20260309.png",
+    "date": "2026-03-09T00:55:40Z",
     "category": "Scenery"
   },
   {
-    "title": "Salar de Uyuni Mirror Effect, Bolivia",
-    "prompt": "A breathtaking photorealistic vista of Bolivia's Salar de Uyuni during the wet season, where a thin layer of water transforms the vast salt flat into a perfect natural mirror reflecting the endless sky. Towering cumulus clouds are mirrored below in flawless symmetry, creating an otherworldly illusion where earth and sky merge seamlessly. The horizon vanishes into infinity, with distant Andean peaks barely visible on the edge of perception. Shot at midday with brilliant blue skies and crisp, saturated colors, capturing the surreal, dreamlike quality of this natural wonder.",
-    "image_url": "https://i.ibb.co/XxJ4gZh/salar-de-uyuni-mirror-effect-bolivia-20260309.jpeg",
-    "date": "2026-03-09T09:02:51Z",
+    "title": "Faroe Islands Sea Stack at Twilight",
+    "prompt": "A dramatic photorealistic landscape of a towering sea stack rising from the turbulent North Atlantic, surrounded by rugged cliffs cloaked in vibrant emerald-green moss. The scene is set during twilight, with a moody sky gradient of deep blue and soft lavender, while mist clings to the surrounding hillsides. The powerful waves crash against the base of the rock, sending spray into the air, capturing the raw beauty and isolation of the Faroe Islands' coastal wilderness.",
+    "image_url": "https://i.ibb.co/gZtyt7T/faroe-islands-sea-stack-twilight-20260309.png",
+    "date": "2026-03-09T01:55:59Z",
     "category": "Scenery"
   },
   {
-    "title": "Waitomo Glowworm Caves, New Zealand Twilight",
-    "prompt": "A mystical photorealistic interior view of New Zealand's Waitomo Glowworm Caves at twilight hour, where thousands of bioluminescent glowworms illuminate the limestone cavern ceiling like a living starry sky. The soft blue-green glow reflects off the underground river below, creating ethereal ripples of light across the cave walls. Ancient stalactites hang from above, their textures revealed by the natural bioluminescence, while the cave entrance in the distance glows with the fading violet light of dusk. Moody, atmospheric composition with deep shadows and pinpoints of living light.",
-    "image_url": "https://i.ibb.co/Wfrzk8N/waitomo-glowworm-caves-new-zealand-twilight-20260309.png",
-    "date": "2026-03-09T11:02:54Z",
+    "title": "Wulingyuan Sandstone Pillars at Sunrise, China",
+    "prompt": "A breathtaking photorealistic view of the towering sandstone pillars of Wulingyuan National Forest Park emerging from a sea of mist at sunrise. The first golden rays of dawn illuminate the jagged peaks, casting warm amber and orange tones against the cool blue-gray fog below. Lush greenery clings to the steep slopes, while distant pinnacles fade into the hazy horizon. The atmosphere is serene and mystical, capturing the ethereal beauty of this UNESCO World Heritage site.",
+    "image_url": "https://i.ibb.co/WFCfwny/wulingyuan-sandstone-pillars-sunrise-china-20260309.png",
+    "date": "2026-03-09T02:55:25Z",
     "category": "Scenery"
   },
   {
-    "title": "Socotra Dragon Blood Trees, Yemen Alien Landscape",
-    "prompt": "A surreal photorealistic landscape of Socotra Island's iconic Dragon Blood Trees (Dracaena cinnabari) scattered across an arid plateau, their distinctive umbrella-shaped canopies creating an alien, otherworldly scene. The ancient trees stand in scattered groups against a backdrop of rugged limestone mountains and a hazy, golden-hour sky. The reddish soil contrasts with the deep green of the dragon blood tree foliage, while late afternoon sunlight casts long dramatic shadows across the rocky terrain. Wide-angle composition emphasizing the unique, prehistoric quality of this UNESCO World Heritage landscape.",
-    "image_url": "https://i.ibb.co/NnYz3FK/socotra-dragon-blood-trees-yemen-alien-landscape-20260309.png",
-    "date": "2026-03-09T13:03:02Z",
+    "title": "Skeleton Coast Shipwreck at Dusk, Namibia",
+    "prompt": "A haunting photorealistic scene along Namibia's Skeleton Coast, where the rusting wreckage of an abandoned ship lies half-buried in the sand against a backdrop of towering dunes. The scene is set at dusk, with a dramatic sky transitioning from deep indigo to fiery orange and purple horizon. Cold Atlantic waves crash against the hull, sending spray into the air, while mist rolls in from the ocean. The atmosphere is desolate, yet strikingly beautiful, capturing the raw power and melancholy of this unforgiving coastline.",
+    "image_url": "https://i.ibb.co/Pdz3068/skeleton-coast-shipwreck-dusk-namibia-20260309.png",
+    "date": "2026-03-09T03:54:31Z",
     "category": "Scenery"
   },
   {
-    "title": "Lencois Maranhenses White Dunes & Crystalline Lagoons, Brazil",
-    "prompt": "A stunning aerial photorealistic view of Brazil's Lencois Maranhenses National Park, showcasing the mesmerizing pattern of pristine white sand dunes interspersed with dozens of turquoise and emerald freshwater lagoons. The dunes ripple endlessly like waves frozen in time, their wind-sculpted ridges casting soft shadows in the late afternoon light. The crystalline lagoons shimmer in varying shades of blue and green, filled by seasonal rains, creating a surreal contrast against the bone-white sand. Shot from a high vantage point with dramatic clouds overhead and warm golden sunlight illuminating the scene.",
-    "image_url": "https://i.ibb.co/7Qjzv9s/lencos-maranhenses-white-dunes-crystalline-lagoons-brazil-20260309.png",
-    "date": "2026-03-09T15:03:06Z",
-    "category": "Scenery"
-  },
-  {
-    "title": "Cappadocia Rose Valley Fairy Chimneys at Sunset, Turkey",
-    "prompt": "A dramatic photorealistic panorama of Cappadocia's Rose Valley in Turkey at sunset, featuring hundreds of ancient fairy chimney rock formations carved by millennia of erosion from volcanic tuff. The iconic cone-shaped pillars and mushroom rocks glow in warm rose, amber, and terracotta hues as the setting sun bathes the landscape in golden light. Hot air balloons drift silently overhead against a gradient sky transitioning from deep orange to violet. Ancient cave dwellings are visible carved into the rock faces, and the valley floor is dotted with wild grasses and scattered almond trees. Wide-angle cinematic composition capturing the magical, timeless quality of this UNESCO World Heritage landscape.",
-    "image_url": "https://i.ibb.co/xD7FDnc/cappadocia-rose-valley-fairy-chimneys-sunset-turkey-20260309.png",
-    "date": "2026-03-09T17:02:53Z",
-    "category": "Scenery"
-  },
-  {
-    "title": "Zhangjiajie Avatar Peaks Morning Mist, China",
-    "prompt": "A mystical photorealistic view of Zhangjiajie National Forest Park's towering sandstone pillars at dawn, shrouded in ethereal morning mist that weaves between the ancient peaks like living spirits. These legendary 'Avatar Mountains' rise hundreds of meters vertically, their sheer cliff faces covered in lush subtropical vegetation and crowned with twisted pines clinging to impossible ledges. Soft golden sunrise light filters through breaks in the clouds, illuminating select pillars while others remain silhouetted in deep blue shadow. The mist creates layers of atmospheric depth, with peaks fading into the distance in graduating shades of blue-gray. Shot from a high viewpoint with a telephoto perspective, emphasizing the surreal, floating-mountain quality that inspired the film Avatar.",
-    "image_url": "https://i.ibb.co/THgRZGJ/zhangjiajie-avatar-peaks-morning-mist-china-20260309.png",
-    "date": "2026-03-09T18:03:08Z",
-    "category": "Scenery"
-  },
-  {
-    "title": "Frozen Twirl at the Plitvice Winter Falls",
-    "prompt": "A photorealistic image of a young solo female model with blonde hair and Korean appearance, pirouetting gracefully on the ice-fringed rocky ledge overlooking the frozen Plitvice Lakes waterfalls. Her warm scarlet winter coat and matching mittens contrast dramatically with the icy blue-white frozen falls and snow-dusted forest behind her. The soft winter light from the overcast sky diffuses evenly across the scene, casting no harsh shadows and making her skin glow softly. Her spin sends tiny ice crystals flying as her coat flares out in a perfect circle, captured mid-motion with a narrow depth of field that keeps her and the nearest falls in perfect focus.",
-    "image_url": "https://i.ibb.co/NCjBG239/frozen-twirl-at-the-plitvice-winter-falls-20260309.png",
-    "date": "2026-03-09T06:15:00Z",
-    "category": "Composite"
-  },
-  {
-    "title": "Turquoise Twirl at the Plitvice Cascades",
-    "prompt": "A photorealistic image of a young solo female model with blonde hair and Korean appearance, pirouetting gracefully on a wooden bridge over the turquoise cascades of Plitvice Lakes, Croatia. Her flowing mid-length dress in a complementary coral hue billows gently with her motion, echoing the frothy whitecaps of the waterfalls below. The morning light filters through the lush deciduous forest, dappling golden rays across the water surface and her skin, creating a magical atmosphere. Shot from a slightly low angle with a medium telephoto lens, she looks as though she was genuinely photographed on location, with stacked lakes and waterfalls visible in the distance.",
-    "image_url": "https://i.ibb.co/Sc9w9d4l/turquoise-twirl-at-the-plitvice-cascades-20260309.png",
-    "date": "2026-03-09T07:15:00Z",
-    "category": "Composite"
-  },
-  {
-    "title": "Wildflower Twirl at the Lofoten Midnight Shore",
-    "prompt": "A photorealistic image of a young solo female model with blonde hair and Korean appearance, pirouetting gracefully on the rocky shoreline of the Lofoten archipelago in Norway under the golden midnight sun. Her flowing white dress billows gently in the sea breeze as she spins, with the warm amber and rose hues of the endless summer sky reflecting off the mirror-still fjord waters surrounding her. Traditional red fishermen's cabins (forbuer) cling to distant rocky outcroppings behind her, and her shadow stretches long across the glistening wet rocks. Shot in a high-fashion editorial style with a wide-angle lens, she looks completely natural and alive in this breathtaking Norwegian landscape as if genuinely photographed there at midnight.",
-    "image_url": "https://i.ibb.co/LoMZxXrj/wildflower-twirl-at-the-lofoten-midnight-shore-20260309.png",
-    "date": "2026-03-09T08:15:00Z",
-    "category": "Composite"
-  },
-  {
-    "title": "Joyful Leap at the Faroe Sea Stacks Twilight",
-    "prompt": "A photorealistic image of a young solo female model with blonde hair and Korean appearance, captured mid-jump with both arms raised joyfully above her head and laughing freely, standing on a grassy clifftop overlooking the dramatic Faroe Islands sea stacks at twilight. The cool blue-purple and orange hues of the twilight sky cast a soft, directional light on her left side, matching the light angle of the scenery around her. The dark basalt sea stacks rise dramatically from the foamy, turbulent ocean below, while the green hills and flowering cliff vegetation frame the scene. Shot in a high-fashion editorial style with a wide-angle lens, she looks completely natural and alive in this stunning Faroe Islands landscape as if genuinely photographed there at twilight.",
-    "image_url": "https://i.ibb.co/N2dKXpZC/joyful-leap-at-the-faroe-sea-stacks-twlight-20260309.png",
-    "date": "2026-03-09T14:15:00Z",
-    "category": "Composite"
-  },
-  {
-    "title": "Skeleton Coast Shipwreck at Dusk",
-    "prompt": "A sweeping photorealistic landscape view of the Skeleton Coast in Namibia at dusk featuring a large, rusted metal shipwreck half-buried in coastal sand dunes. The last rays of the setting sun paint the scene in deep oranges and crimsons, while foggy, moody clouds hang low on the horizon. The dark Atlantic Ocean waves crash against the sand, and the rusted iron of the ship gently reflects the warm dusk light.",
-    "image_url": "https://i.ibb.co/N2R5Mv42/skeleton-coast-shipwreck-dusk-namibia-20260309.png",
-    "date": "2026-03-09T14:15:00Z",
-    "category": "Scenery"
-  },
-  {
-    "title": "Salar de Uyuni Mirror Effect at Twilight, Bolivia",
-    "prompt": "A photorealistic landscape of the Salar de Uyuni in Bolivia during twilight, where a thin layer of water over the salt flat creates a perfect mirror reflection of the dramatic sunset sky. Striking purple, magenta, and orange hues fill both the sky and its perfect reflection below, creating an almost abstract symmetry. Small cactus-covered islands dot the horizon line, and tiny figures of travelers with cameras stand at the edge of the reflection, emphasizing the vast expanse.",
-    "image_url": "https://i.ibb.co/LdrccbZh/salar-de-uyuni-mirror-twilight-bolivia-20260309.png",
-    "date": "2026-03-09T15:15:00Z",
+    "title": "Salar de Uyuni Mirror at Twilight, Bolivia",
+    "prompt": "A stunning photorealistic landscape of the Salar de Uyuni, the world's largest salt flat, during twilight after a rainshower. A thin layer of water creates a flawless mirror effect, perfectly reflecting the dramatic sky above. The horizon blurs into an infinite expanse of lavender, peach, and turquoise gradients, with scattered clouds mirrored below in stunning symmetry. In the distance, the silhouette of a lone cactus stands isolated on the salt crust, emphasizing the vast, surreal beauty of this otherworldly landscape.",
+    "image_url": "https://i.ibb.co/nCjYmxt/salar-de-uyuni-mirror-twilight-bolivia-20260309.png",
+    "date": "2026-03-09T04:55:01Z",
     "category": "Scenery"
   },
   {
     "title": "Waitomo Glowworm Caves at Midnight, New Zealand",
-    "prompt": "A breathtaking underground cave system in Waitomo, New Zealand, where thousands of tiny bioluminescent glowworms (Arachnocampa luminosa) cling to the cave ceiling, casting a magical electric-blue starfield glow over the still, mirror-like underground river below. The cave walls are ancient limestone draped in delicate stalactites, faintly illuminated by the blue-white glow of the living lights above. The mood is ethereal and otherworldly, with deep shadows, perfect reflections in the water, and a sense of profound natural wonder captured in a long-exposure photorealistic style.",
-    "image_url": "https://i.ibb.co/Ndr4rjxY/waitomo-glowworm-caves-midnight-new-zealand-20260310.png",
-    "date": "2026-03-10T00:05:48Z",
+    "prompt": "A magical photorealistic visual of the Waitomo Glowworm Caves in New Zealand at midnight, where thousands of bioluminescent glowworms stud the cave ceiling like a living night sky. The milky turquoise-blue light reflects off a still underground river, creating a mirrored galaxy below. Ancient stalactites hang between the light clusters, and a small wooden boat glides silently through the water. Long-exposure photography style with bokeh on the glowworm clusters.",
+    "image_url": "https://i.ibb.co/0jzPW3w/waitomo-glowworm-caves-midnight-new-zealand-20260310.png",
+    "date": "2026-03-10T00:54:33Z",
     "category": "Scenery"
   },
   {
-    "title": "Joyful Leap at the Lofoten Midnight Shore",
-    "prompt": "A young solo female model with blonde hair and Korean appearance is caught mid-jump on a rocky shoreline of the Lofoten archipelago in Norway, arms raised triumphantly above her head, laughing with pure joy. The scene is bathed in the ethereal golden light of the midnight sun, casting long warm shadows across the glassy fjord waters that mirror the amber and rose-tinted sky behind her. Traditional red and yellow fishermen's rorbuer cabins are visible in the soft-focus background, anchoring her in this iconic Nordic landscape. Her high-fashion styling contrasts beautifully with the raw natural grandeur — the depth of field keeps her sharp while the jagged snow-dusted granite peaks and still water fade into a painterly bokeh. The atmosphere is magical and alive, as if she's leaping into the endless Norwegian summer sky.",
-    "image_url": "https://i.ibb.co/whf483J8/joyful-leap-at-the-lofoten-midnight-shore-20260310.png",
-    "date": "2026-03-10T00:16:00Z",
-    "category": "Composite"
-  },
-  {
-    "title": "Joyful Leap at the Lofoten Midnight Shore",
-    "prompt": "A photorealistic image of a young solo female model with blonde hair and Korean appearance, captured mid-jump with both arms raised joyfully above her head and laughing freely, standing on a rocky shoreline outcropping of the Lofoten archipelago in Norway under the golden midnight sun. The warm amber and rose hues of the endless summer sky reflect off the mirror-still fjord waters surrounding her, casting a soft golden glow on her skin and hair from a low sun angle at the horizon. Traditional red fishermen's cabins (rorbuer) cling to distant rocky outcroppings behind her, framing the scene with rich color contrast. Her shadow stretches long across the glistening wet rocks beneath her feet, and the depth of field gradually softens the jagged snow-dusted granite peaks in the far background. Shot in a high-fashion editorial style with a wide-angle lens, she looks completely natural and alive in this breathtaking Norwegian landscape as if genuinely photographed there at midnight.",
-    "image_url": "https://i.ibb.co/gFSZXhWD/joyful-leap-at-the-lofoten-midnight-shore-20260310.png",
-    "date": "2026-03-10T01:15:00Z",
-    "category": "Composite"
+    "title": "Zhangye Danxia Rainbow Mountains at Sunset, China",
+    "prompt": "A breathtaking aerial view of the Zhangye Danxia Landform in Gansu Province, China, where layered mineral deposits create vivid rainbow-striped mountains in shades of crimson, amber, emerald, and violet. The setting sun casts long golden rays across the undulating ridgelines, deepening the colors to their most saturated intensity. Shot in photorealistic style with dramatic sky, scattered wispy clouds catching the last light, and a lone winding trail threading through the technicolor terrain below.",
+    "image_url": "https://i.ibb.co/qL9083Zf/zhangye-danxia-rainbow-mountains-sunset-china-20260310.jpg",
+    "date": "2026-03-10T02:08:00Z",
+    "category": "Scenery"
   }
 ]
