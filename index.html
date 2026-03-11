@@ -33,59 +33,101 @@
     .grid { max-width: 1200px; margin: 0 auto; padding: 0 20px 60px; display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
     .card { background: var(--card); border-radius: var(--radius); overflow: hidden; cursor: pointer; border: 1px solid #1e1e3a; transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s; }
     .card:hover { transform: translateY(-4px); box-shadow: 0 12px 32px rgba(233, 69, 96, 0.2); border-color: var(--accent); }
-    .card img { width: 100%; aspect-ratio: 2/3; object-fit: cover; display: block; background: #111; }
+    .card-thumb { width: 100%; aspect-ratio: 2/3; object-fit: cover; display: block; background: #111; }
+    .card-thumb-placeholder { width: 100%; aspect-ratio: 2/3; background: linear-gradient(135deg, #1a1a2e, #0f3460); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px; }
+    .card-thumb-placeholder span { font-size: 0.8rem; color: var(--muted); text-align: center; padding: 0 12px; }
+    .card-thumb-placeholder a { font-size: 0.75rem; color: var(--accent); text-decoration: none; border: 1px solid var(--accent); border-radius: 20px; padding: 4px 12px; }
+    .card-thumb-placeholder a:hover { background: var(--accent); color: #fff; }
     .card-info { padding: 12px 14px; }
     .card-title { font-size: 0.9rem; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-    .card-meta { margin-top: 6px; font-size: 0.8rem; color: var(--muted); display: flex; justify-content: space-between; align-items: center; }
-    .card-badge { display: inline-block; padding: 3px 10px; background: var(--accent2); border-radius: 12px; font-size: 0.75rem; font-weight: 600; }
-    .modal { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.85); backdrop-filter: blur(8px); z-index: 999; align-items: center; justify-content: center; padding: 20px; animation: fadeIn 0.2s; }
-    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    .card-meta { margin-top: 6px; font-size: 0.8rem; color: var(--muted); }
+    .modal { position: fixed; inset: 0; background: rgba(0,0,0,0.92); z-index: 1000; display: none; align-items: center; justify-content: center; padding: 20px; }
     .modal.show { display: flex; }
     .modal-content { background: var(--surface); border-radius: var(--radius); max-width: 900px; width: 100%; max-height: 90vh; overflow-y: auto; position: relative; }
-    .modal-close { position: absolute; top: 16px; right: 16px; background: rgba(0,0,0,0.6); border: none; color: #fff; width: 36px; height: 36px; border-radius: 50%; cursor: pointer; font-size: 1.2rem; z-index: 10; transition: background 0.2s; }
+    .modal-close { position: absolute; top: 16px; right: 16px; width: 32px; height: 32px; border-radius: 50%; background: rgba(0,0,0,0.5); border: none; color: #fff; cursor: pointer; font-size: 20px; z-index: 10; transition: background 0.2s; }
     .modal-close:hover { background: var(--accent); }
-    .modal-img { width: 100%; max-height: 60vh; object-fit: contain; background: #000; border-radius: var(--radius) var(--radius) 0 0; }
+    .modal-img-wrap { width: 100%; max-height: 60vh; background: #000; display: flex; align-items: center; justify-content: center; overflow: hidden; }
+    .modal-img { max-width: 100%; max-height: 60vh; object-fit: contain; display: block; }
+    .modal-img-fallback { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px; padding: 40px; min-height: 200px; }
+    .modal-img-fallback p { color: var(--muted); font-size: 0.9rem; }
+    .modal-img-fallback a { color: var(--accent); text-decoration: none; font-weight: 600; border: 1px solid var(--accent); padding: 10px 24px; border-radius: 50px; transition: all 0.2s; }
+    .modal-img-fallback a:hover { background: var(--accent); color: #fff; }
     .modal-body { padding: 24px; }
     .modal-title { font-size: 1.5rem; font-weight: 700; margin-bottom: 12px; }
-    .modal-meta { display: flex; gap: 12px; margin-bottom: 16px; font-size: 0.85rem; color: var(--muted); }
-    .modal-prompt { line-height: 1.6; color: var(--text); background: var(--card); padding: 16px; border-radius: 8px; border-left: 3px solid var(--accent); }
-    .empty { text-align: center; padding: 80px 20px; color: var(--muted); }
-    .empty svg { width: 64px; height: 64px; margin-bottom: 16px; opacity: 0.3; }
+    .modal-actions { margin-bottom: 16px; }
+    .modal-actions a { display: inline-block; color: var(--accent); text-decoration: none; font-size: 0.85rem; border: 1px solid var(--accent); border-radius: 20px; padding: 5px 14px; transition: all 0.2s; }
+    .modal-actions a:hover { background: var(--accent); color: #fff; }
+    .modal-section { margin-top: 16px; }
+    .modal-section h3 { font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; color: var(--accent); margin-bottom: 6px; }
+    .modal-section p { line-height: 1.6; color: var(--text); }
+    .modal-section.prompt-section p { font-style: italic; color: #b0b0c0; font-size: 0.9rem; line-height: 1.7; background: rgba(255,255,255,0.04); border-left: 3px solid var(--accent); padding: 12px 16px; border-radius: 0 8px 8px 0; }
+    @media (max-width: 600px) {
+      .controls { flex-direction: column; align-items: stretch; }
+      .search-wrap { width: 100%; }
+    }
   </style>
 </head>
 <body>
   <header>
     <h1>Nebulalicious's Dream</h1>
-    <p>A curated gallery of AI-generated artistry</p>
+    <p>AI-Generated Fashion in Iconic Landscapes</p>
   </header>
 
   <div class="controls">
     <div class="search-wrap">
-      <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="7"/><path d="m15 15 5 5"/></svg>
-      <input type="text" id="searchInput" placeholder="Search titles or prompts..." />
+      <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+        <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+      </svg>
+      <input type="text" id="search" placeholder="Search by title, scenery, pose, or outfit..." />
     </div>
     <div class="filters">
-      <button class="filter-btn active" data-filter="All">All</button>
-      <button class="filter-btn" data-filter="Scenery">Scenery</button>
-      <button class="filter-btn" data-filter="Pose">Pose</button>
-      <button class="filter-btn" data-filter="Composite">Composite</button>
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="composite">Composite</button>
     </div>
   </div>
 
-  <div class="stats" id="stats">Loading...</div>
+  <div class="stats" id="stats">Showing 0 images</div>
   <div class="grid" id="gallery"></div>
 
   <div class="modal" id="modal">
     <div class="modal-content">
-      <button class="modal-close" onclick="closeModal()">&times;</button>
-      <img id="modalImg" class="modal-img" src="" alt="" />
+      <button class="modal-close" id="modal-close">&times;</button>
+      <div class="modal-img-wrap" id="modal-img-wrap">
+        <img id="modal-img" class="modal-img" src="" alt="" referrerpolicy="no-referrer" crossorigin="anonymous" />
+      </div>
       <div class="modal-body">
-        <h2 class="modal-title" id="modalTitle"></h2>
-        <div class="modal-meta">
-          <span id="modalCategory"></span>
-          <span id="modalDate"></span>
+        <h2 class="modal-title" id="modal-title"></h2>
+        <div class="modal-actions">
+          <a id="modal-open-link" href="#" target="_blank" rel="noopener">View full image &rarr;</a>
         </div>
-        <p class="modal-prompt" id="modalPrompt"></p>
+        <div class="modal-section">
+          <h3>Scenery</h3>
+          <p id="modal-scenery"></p>
+        </div>
+        <div class="modal-section">
+          <h3>Pose</h3>
+          <p id="modal-pose"></p>
+        </div>
+        <div class="modal-section">
+          <h3>Outfit</h3>
+          <p id="modal-outfit"></p>
+        </div>
+        <div class="modal-section">
+          <h3>Hairstyle</h3>
+          <p id="modal-hairstyle"></p>
+        </div>
+        <div class="modal-section">
+          <h3>Style</h3>
+          <p id="modal-style"></p>
+        </div>
+        <div class="modal-section prompt-section" id="modal-prompt-section">
+          <h3>AI Prompt</h3>
+          <p id="modal-prompt"></p>
+        </div>
+        <div class="modal-section">
+          <h3>Date</h3>
+          <p id="modal-date"></p>
+        </div>
       </div>
     </div>
   </div>
@@ -94,73 +136,118 @@
     let allImages = [];
     let filteredImages = [];
 
-    async function loadGallery() {
+    async function loadData() {
       try {
-        const res = await fetch('data.json');
+        const res = await fetch('data.json?t=' + Date.now());
         allImages = await res.json();
-        allImages.sort((a, b) => new Date(b.date) - new Date(a.date));
+        allImages.reverse();
         filteredImages = allImages;
         renderGallery();
       } catch (err) {
-        document.getElementById('gallery').innerHTML = `
-          <div class="empty">
-            <svg fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m2.25 15.75 5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5 1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 0 0 1.5-1.5V6a1.5 1.5 0 0 0-1.5-1.5H3.75A1.5 1.5 0 0 0 2.25 6v12a1.5 1.5 0 0 0 1.5 1.5Zm10.5-11.25h.008v.008h-.008V8.25Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z"/></svg>
-            <p>Failed to load gallery</p>
-          </div>
-        `;
+        console.error('Failed to load data:', err);
+        document.getElementById('stats').textContent = 'Failed to load images.';
+      }
+    }
+
+    function makeThumb(img) {
+      // Try direct embed first; fallback to placeholder with link if blocked
+      const wrap = document.createElement('div');
+      if (img.imgbb_url) {
+        const el = document.createElement('img');
+        el.className = 'card-thumb';
+        el.alt = img.title;
+        el.loading = 'lazy';
+        el.referrerPolicy = 'no-referrer';
+        el.crossOrigin = 'anonymous';
+        el.src = img.imgbb_url;
+        el.onerror = function() {
+          // Replace with fallback placeholder + link
+          const ph = document.createElement('div');
+          ph.className = 'card-thumb-placeholder';
+          ph.innerHTML = `<span>${img.title}</span><a href="${img.imgbb_url}" target="_blank" rel="noopener" onclick="event.stopPropagation()">View Image</a>`;
+          el.replaceWith(ph);
+        };
+        return el;
+      } else {
+        const ph = document.createElement('div');
+        ph.className = 'card-thumb-placeholder';
+        ph.innerHTML = `<span>${img.title}</span>`;
+        return ph;
       }
     }
 
     function renderGallery() {
       const gallery = document.getElementById('gallery');
       const stats = document.getElementById('stats');
-      
-      if (filteredImages.length === 0) {
-        gallery.innerHTML = `
-          <div class="empty">
-            <svg fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"/></svg>
-            <p>No images match your search</p>
-          </div>
-        `;
-        stats.textContent = 'No results';
-        return;
-      }
+      gallery.innerHTML = '';
+      stats.textContent = `Showing ${filteredImages.length} image${filteredImages.length !== 1 ? 's' : ''}`;
 
-      stats.textContent = `Showing ${filteredImages.length} of ${allImages.length} images`;
-      
-      gallery.innerHTML = filteredImages.map((img, idx) => {
-        const date = new Date(img.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
-        return `
-          <div class="card" onclick="openModal(${idx})">
-            <img src="${img.image_url}" alt="${img.title}" loading="lazy" />
-            <div class="card-info">
-              <div class="card-title">${img.title}</div>
-              <div class="card-meta">
-                <span class="card-badge">${img.category}</span>
-                <span>${date}</span>
-              </div>
-            </div>
-          </div>
-        `;
-      }).join('');
+      filteredImages.forEach(img => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.appendChild(makeThumb(img));
+        const info = document.createElement('div');
+        info.className = 'card-info';
+        info.innerHTML = `<div class="card-title">${img.title}</div><div class="card-meta">${img.date}</div>`;
+        card.appendChild(info);
+        card.addEventListener('click', () => openModal(img));
+        gallery.appendChild(card);
+      });
     }
 
-    function openModal(idx) {
-      const img = filteredImages[idx];
-      document.getElementById('modalImg').src = img.image_url;
-      document.getElementById('modalTitle').textContent = img.title;
-      document.getElementById('modalCategory').innerHTML = `<span class="card-badge">${img.category}</span>`;
-      document.getElementById('modalDate').textContent = new Date(img.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', hour: '2-digit', minute: '2-digit' });
-      document.getElementById('modalPrompt').textContent = img.prompt;
+    function openModal(img) {
+      const modalImg = document.getElementById('modal-img');
+      const modalWrap = document.getElementById('modal-img-wrap');
+
+      // Reset
+      modalWrap.innerHTML = '';
+
+      if (img.imgbb_url) {
+        const imgEl = document.createElement('img');
+        imgEl.className = 'modal-img';
+        imgEl.alt = img.title;
+        imgEl.referrerPolicy = 'no-referrer';
+        imgEl.crossOrigin = 'anonymous';
+        imgEl.src = img.imgbb_url;
+        imgEl.onerror = function() {
+          modalWrap.innerHTML = `
+            <div class="modal-img-fallback">
+              <p>Image preview blocked by host — open directly to view.</p>
+              <a href="${img.imgbb_url}" target="_blank" rel="noopener">Open Image in New Tab</a>
+            </div>`;
+        };
+        modalWrap.appendChild(imgEl);
+      }
+
+      document.getElementById('modal-title').textContent = img.title;
+      document.getElementById('modal-open-link').href = img.imgbb_url || '#';
+      document.getElementById('modal-scenery').textContent = img.scenery || 'N/A';
+      document.getElementById('modal-pose').textContent = img.pose || 'N/A';
+      document.getElementById('modal-outfit').textContent = img.outfit || 'N/A';
+      document.getElementById('modal-hairstyle').textContent = img.hairstyle || 'N/A';
+      document.getElementById('modal-style').textContent = img.style || 'N/A';
+
+      const promptSection = document.getElementById('modal-prompt-section');
+      const promptEl = document.getElementById('modal-prompt');
+      if (img.prompt) {
+        promptEl.textContent = img.prompt;
+        promptSection.style.display = '';
+      } else {
+        promptSection.style.display = 'none';
+      }
+
+      document.getElementById('modal-date').textContent = img.date || 'N/A';
       document.getElementById('modal').classList.add('show');
     }
 
-    function closeModal() {
+    document.getElementById('modal-close').addEventListener('click', () => {
       document.getElementById('modal').classList.remove('show');
-    }
+    });
 
     document.getElementById('modal').addEventListener('click', (e) => {
-      if (e.target.id === 'modal') closeModal();
+      if (e.target.id === 'modal') {
+        document.getElementById('modal').classList.remove('show');
+      }
     });
 
     document.querySelectorAll('.filter-btn').forEach(btn => {
@@ -168,31 +255,23 @@
         document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
         const filter = btn.dataset.filter;
-        filteredImages = filter === 'All' ? allImages : allImages.filter(img => img.category === filter);
-        applySearch();
+        filteredImages = filter === 'all' ? allImages : allImages.filter(i => i.type === filter);
+        renderGallery();
       });
     });
 
-    document.getElementById('searchInput').addEventListener('input', applySearch);
-
-    function applySearch() {
-      const query = document.getElementById('searchInput').value.toLowerCase();
+    document.getElementById('search').addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
       const activeFilter = document.querySelector('.filter-btn.active').dataset.filter;
-      let base = activeFilter === 'All' ? allImages : allImages.filter(img => img.category === activeFilter);
-      
-      if (query) {
-        filteredImages = base.filter(img => 
-          img.title.toLowerCase().includes(query) || 
-          img.prompt.toLowerCase().includes(query)
-        );
-      } else {
-        filteredImages = base;
-      }
-      
+      const base = activeFilter === 'all' ? allImages : allImages.filter(i => i.type === activeFilter);
+      filteredImages = q
+        ? base.filter(i => [i.title, i.scenery, i.pose, i.outfit, i.hairstyle, i.prompt]
+            .filter(Boolean).some(v => v.toLowerCase().includes(q)))
+        : base;
       renderGallery();
-    }
+    });
 
-    loadGallery();
+    loadData();
   </script>
 </body>
 </html>
